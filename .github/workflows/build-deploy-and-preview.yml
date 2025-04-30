@@ -1,8 +1,6 @@
-name: Build, Deploy to GitHub Pages and Deploy PR Preview
+name: Deploy PR previews
 
 on:
-  push:
-    branches: [main, master]
   pull_request:
     types:
       - opened
@@ -10,18 +8,22 @@ on:
       - synchronize
       - closed
 
-permissions:
-  contents: write
-  pull-requests: write
-
-concurrency: ci-${{ github.ref }}
+concurrency: preview-${{ github.ref }}
 
 jobs:
-  build-deploy-and-preview:
-    name: Build, Deploy to GitHub Pages and Deploy PR Preview
+  deploy-preview:
     runs-on: ubuntu-latest
     steps:
-      - name: Build, Deploy to GitHub Pages and Deploy PR Preview
-        uses: chvmvd/build-deploy-and-preview-action@v1.2.0
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install and Build
+        if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
+        run: |
+          yarn install
+          yarn build
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
         with:
-          type: docusaurus
+          source-dir: ./build/

@@ -2,46 +2,19 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Research Data Management
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Research Data Management (RDM) is the systematic organization, storage, documentation, and sharing of data generated or collected during research endeavors to ensure its integrity, accessibility, and reusability. It involves planning for data handling throughout the research lifecycle to support valid and transparent scientific practices.
 
-## Getting Started
+## Why do you need proper RDM?
 
-Get started by **creating a new site**.
+The primary goal of research data management is to ensure that research data is of high quality, securely stored, and easily accessible for future reference, verification, and reuse. Effective research data management practices save time by conducting your research in an efficient way and reduce risk of data loss, enhance the reproducibility of research findings, promote collaboration, and contribute to the overall integrity and credibility of scientific research. Such practices also help you get recognized for your work.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+RDM helps you comply with internal and external requirements ([TU/e Code of Scientific Conduct](https://www.tue.nl/en/our-university/about-the-university/integrity/scientific-integrity/), [VSNU Code of Conduct for Research Integrity](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf), [GDPR](https://gdpr-info.eu/), [Funder requirements ​](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/funder-requirements/)). Many institutions and funding agencies now require researchers to have clear data management plans in place as part of their research projects.
+For a quick start, check our general RDM guidelines and FAQ.
 
-### What you'll need
+## Research Data Lifecycle
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Data management is a crucial aspect of the **research data lifecycle**, which involves the various stages of data handling from its inception to its ultimate disposition. Throughout the research data lifecycle, data management includes tasks such as planning your research, collecting data using various methods, processing and analysing data, organizing and documenting data, securely storing and preserving it, sharing it responsibly, and eventually properly disposing of or archiving it for future reuse. This systematic approach to data management ensures that research data remains reliable, accessible, and compliant with ethical and legal requirements, promoting transparency and contributing to better and more efficient scientific research.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+![Research Data Lifecycle](lifecycle.png)

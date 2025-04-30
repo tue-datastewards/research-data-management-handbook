@@ -20,8 +20,8 @@ jobs:
       - name: Install and Build
         if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
         run: |
-          yarn install
-          yarn build
+          npm install
+          npm build
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1

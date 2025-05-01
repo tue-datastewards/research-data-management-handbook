@@ -135,7 +135,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `CC0 Public Domain Dedication`,
     },
     prism: {
       theme: prismThemes.github,

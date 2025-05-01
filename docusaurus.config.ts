@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic"
 const gitHubRepository = "research-data-management-handbook"
 
 const config: Config = {
-  title: "Research Data Management Handbook",
+  title: "TU/e Research Data Management Handbook",
   tagline: "Manage your research data effectively at TU/e",
   favicon: "img/favicon.ico",
 

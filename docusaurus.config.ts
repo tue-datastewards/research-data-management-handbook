@@ -9,7 +9,7 @@ const gitHubRepository = "research-data-management-handbook"
 const config: Config = {
   title: "TU/e Research Data Management Handbook",
   tagline: "Manage your research data effectively at TU/e",
-  favicon: "img/favicon.ico",
+  favicon: "favicon/favicon.ico",
 
   // Set the production url of your site here
   url: "https://fictional-doodle-vm76q9w.pages.github.io/",

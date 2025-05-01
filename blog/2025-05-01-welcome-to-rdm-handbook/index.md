@@ -2,7 +2,7 @@
 slug: welcome-to-rdm-handbook
 title: Welcome to the RDM Handbook!
 authors: [nsunami]
-tags: [data stewards]
+tags: [data-stewards]
 ---
 
 Welcome to the Handbook!

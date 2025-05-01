@@ -17,7 +17,7 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: process.env.PREVIEW_PATH
     ? `${gitHubRepository}/${process.env.PREVIEW_PATH}`
-    : `/${gitHubRepository}`,
+    : `/${gitHubRepository}/`,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

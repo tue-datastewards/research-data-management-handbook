@@ -74,7 +74,7 @@ const config: Config = {
     navbar: {
       title: "RDM Handbook",
       logo: {
-        alt: "My Site Logo",
+        alt: "RDM Handbook Logo",
         src: "img/logo.svg",
       },
       items: [

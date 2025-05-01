@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[1922],{7186:a=>{a.exports=JSON.parse('{"tags":[{"label":"data stewards","permalink":"/research-data-management-handbook/pr-preview/pr-32/blog/tags/data-stewards","description":"Topics related to data stewards","count":1}]}')}}]);

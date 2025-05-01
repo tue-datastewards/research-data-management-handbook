@@ -102,35 +102,39 @@ const config: Config = {
               label: "Handbook",
               to: "/docs/intro",
             },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "X",
-              href: "https://x.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
             {
               label: "Blog",
               to: "/blog",
             },
+          ],
+        },
+        {
+          title: "TU/e Resources",
+          items: [
+            {
+              label: "Research Cockpit",
+              href: "https://cockpit.research.tue.nl",
+            },
+            {
+              label: "Solution Searcher",
+              href: "https://openpar.pages.tue.nl/solution-searcher/",
+            },
+          ],
+        },
+        {
+          title: "More about Research Data Management",
+          items: [
+            {
+              label: "Zenodo",
+              href: "https://zenodo.org/communities/tue_rdmsupport",
+            },
             {
               label: "GitHub",
               href: "https://github.com/tue-datastewards/research-data-management-handbook/",
+            },
+            {
+              label: "TU/e Research Data Management Website",
+              href: "https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/",
             },
           ],
         },

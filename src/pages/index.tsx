@@ -31,11 +31,10 @@ function HomepageHeader() {
 }
 
 export default function Home(): ReactNode {
-  const { siteConfig } = useDocusaurusContext()
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`Home`}
+      description="Find how to solve Research Data Management challenges, and to work towards Open & Responsible Science"
     >
       <HomepageHeader />
       <main>

@@ -1,6 +1,7 @@
 # Research Data Management Handbook
 
 Learn how to manage your research data at TU/e with the Research Data Management Handbook.
+Link to the page: https://tue-datastewards.github.io/research-data-management-handbook/ 
 
 ## Local Development
 

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the RDM Handbook!","permalink":"/research-data-management-handbook/pr-preview/pr-35/blog/welcome-to-rdm-handbook","unlisted":false,"date":"2025-05-01T00:00:00.000Z"}]}')}}]);

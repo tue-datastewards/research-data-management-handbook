@@ -7,9 +7,9 @@ import type * as Preset from "@docusaurus/preset-classic"
 const gitHubRepository = "research-data-management-handbook"
 
 const config: Config = {
-  title: "Research Data Management Handbook",
+  title: "TU/e Research Data Management Handbook",
   tagline: "Manage your research data effectively at TU/e",
-  favicon: "img/favicon.ico",
+  favicon: "favicon/favicon.ico",
 
   // Set the production url of your site here
   url: "https://fictional-doodle-vm76q9w.pages.github.io/",
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/tue-datastewards/research-data-management-handbook/tree/main",
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/tue-datastewards/research-data-management-handbook/tree/main",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -70,11 +70,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "RDM Handbook",
       logo: {
-        alt: "My Site Logo",
+        alt: "RDM Handbook Logo",
         src: "img/logo.svg",
       },
       items: [
@@ -86,7 +86,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/tue-datastewards/research-data-management-handbook",
           label: "GitHub",
           position: "right",
         },
@@ -102,40 +102,44 @@ const config: Config = {
               label: "Handbook",
               to: "/docs/intro",
             },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "X",
-              href: "https://x.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
             {
               label: "Blog",
               to: "/blog",
             },
+          ],
+        },
+        {
+          title: "TU/e Resources",
+          items: [
+            {
+              label: "Research Cockpit",
+              href: "https://cockpit.research.tue.nl",
+            },
+            {
+              label: "Solution Searcher",
+              href: "https://openpar.pages.tue.nl/solution-searcher/",
+            },
+          ],
+        },
+        {
+          title: "More about Research Data Management",
+          items: [
+            {
+              label: "Zenodo",
+              href: "https://zenodo.org/communities/tue_rdmsupport",
+            },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/tue-datastewards/research-data-management-handbook/",
+            },
+            {
+              label: "TU/e Research Data Management Website",
+              href: "https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `CC0 Public Domain Dedication`,
     },
     prism: {
       theme: prismThemes.github,

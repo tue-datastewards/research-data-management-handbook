@@ -22,7 +22,7 @@ The sequence of elements of which a file name is composed (e.g. subject/content 
 - Use filenames that are independent of folder names.
 - Do not make your file names too long.
 - Use leading zeros when using sequential numbering, e.g. 001, 002 , etc. This makes it easy to sort your files in alphabetical or numerical order.
-- For date designations, use YYYYMMDD.
+- For date designations, use YYYY-MM-DD.
 - Do not use spaces. Some software will not accept spaces in file names or require you to enclose the file name in quotes when you want to process it. Instead use:
   - Underscores, e.g. name_of_file
   - Camel case, e.g. NameOfFile

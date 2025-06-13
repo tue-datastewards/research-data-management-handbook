@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[6739],{3894:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/research-data-management-handbook/pr-preview/pr-46/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

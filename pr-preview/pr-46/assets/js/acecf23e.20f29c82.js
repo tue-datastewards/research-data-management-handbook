@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/research-data-management-handbook/pr-preview/pr-46/blog","blogTitle":"Blog","authorsListPath":"/research-data-management-handbook/pr-preview/pr-46/blog/authors"}')}}]);

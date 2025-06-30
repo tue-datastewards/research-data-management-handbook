@@ -16,7 +16,7 @@ After your proposal has been awarded funding, you should draft the first version
 
 A funder-approved DMP is often a requirement to obtain the first round of funding for a research project. Not writing the DMP or a rejected DMP may delay the start of your research project or receiving the funds. The Data Stewards of RDM support can help you by reviewing, co-writing, and/or providing feedback on your DMP.
 
-If you need help with writing your DMP, contact [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/default-title). Please aim to contact us **at least 2 weeks** before the deadline, and in the case of a big Consortium **at least a month** before the DMP needs to be submitted.
+If you need help with writing your DMP, contact a [Data Steward](/docs/contact.md). Please aim to contact us **at least 2 weeks** before the deadline, and in the case of a big Consortium **at least a month** before the DMP needs to be submitted.
 
 Finally, please be aware that the alignment between all the Parties in a Consortium on the data is not a Data Steward's responsibility.
 

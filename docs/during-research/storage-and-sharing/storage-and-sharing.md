@@ -26,7 +26,7 @@ Data safety entails protecting data against loss by making regular back-ups of 
 - **Teams/SharePoint (External collaboration storage – alternative)**  
   With Teams and SharePoint you have additional functionalities for team collaboration and organization wide communication on top of the OneDrive storage. Teams and SharePoint sites can store up to 2.5TB of data. If more storage is needed, contact LIS Services.
 
-To get a full overview of storage solutions offered and supported by TU/e, visit [TU/e Storage Finder](https://research-it.pages.tue.nl/solution-searcher/category-storage.html). The storage finder will help you determine which solution is best suited for your requirements. If you are in doubt, please contact your [Data Steward](/docs/contact.md).
+To get a full overview of storage solutions offered and supported by TU/e, visit [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html). The storage finder will help you determine which solution is best suited for your requirements. If you are in doubt, please contact your [Data Steward](/docs/contact.md).
 
 Note that additional security measures are needed when you store or share **[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)**. For example, you may require client-side encryption if using a storage solution other than TU/e Network drives. For further information, please consult a [Data Steward](/docs/contact.md).
 

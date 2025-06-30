@@ -26,7 +26,7 @@ Data safety entails protecting data against loss by making regular back-ups of 
 - **Teams/SharePoint (External collaboration storage – alternative)**  
   With Teams and SharePoint you have additional functionalities for team collaboration and organization wide communication on top of the OneDrive storage. Teams and SharePoint sites can store up to 2.5TB of data. If more storage is needed, contact LIS Services.
 
-To get a full overview of storage solutions offered and supported by TU/e, visit [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html). The storage finder will help you determine which solution is best suited for your requirements. If you are in doubt, please contact your [Data Steward](/docs/contact.md).
+To get an overview of storage solutions offered and supported by TU/e, visit [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html). If you are in doubt, please contact your [Data Steward](/docs/contact.md).
 
 Note that additional security measures are needed when you store or share **[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)**. For example, you may require client-side encryption if using a storage solution other than TU/e Network drives. For further information, please consult a [Data Steward](/docs/contact.md).
 
@@ -34,7 +34,7 @@ Storing data on personal computers or mobile hard disks or USBs is discouraged
 
 ## Data Sharing 
 
-During your research, you may want to share your data with other researchers or organizations. When choosing data storage, consider whether you would like to share your data internally (within TU/e) or externally (outside of TU/e). In [TU/e Storage Finder](https://research-it.pages.tue.nl/solution-searcher/category-storage.html) you can see which storage solutions support your sharing preference.
+During your research, you may want to share your data with other researchers or organizations. When choosing data storage, consider whether you would like to share your data internally (within TU/e) or externally (outside of TU/e). In [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html), you can see which storage solutions support your sharing preference.
 
 If you would like to send a data package to internal or external parties without giving them access to your storage, you can always use [**SURFfilesender**](https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted) to send files to anyone outside or inside of TU/e. Make sure to always encrypt files that include **[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840).**
 
@@ -56,7 +56,7 @@ If you would like to send a data package to internal or external parties without
 ## FAQ
 
 **Where should I store my data during my project?**  
-TU/e supports several storage facilities: TU/e network drives, SURFdrive, and Research Drive. You can find information on all storage products supported by TU/e on [StorageFinder](https://research-it.pages.tue.nl/storage-finder/). By indicating your requirements the tool can help you find an appropriate solution for your needs. If you need help choosing a facility or if you have specific needs, please contact your faculty [Data Steward](/docs/contact) or [Research IT](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Research-IT.aspx).
+You can find information on all storage products supported by TU/e on [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html). By indicating your requirements, the tool can help you find an appropriate solution for your needs. If you need help choosing a facility or if you have specific needs, please contact your faculty [Data Steward](/docs/contact) or [Research IT](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Research-IT.aspx).
 
 **I have pseudonymized my data. Where should I store the key file?**  
 It is important to store the key file at another location (i.e., using another storage solution or a separate, password-protected/encrypted folder) than the research data.

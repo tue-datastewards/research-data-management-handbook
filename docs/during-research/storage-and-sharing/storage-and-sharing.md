@@ -28,11 +28,7 @@ Data safety entails protecting data against loss by making regular back-ups of 
 
 To get a full overview of storage solutions offered and supported by TU/e, visit [TU/e Storage Finder](https://research-it.pages.tue.nl/solution-searcher/category-storage.html). The storage finder will help you determine which solution is best suited for your requirements. If you are in doubt, please contact your [Data Steward](/docs/contact.md).
 
-Note that additional security measures are needed when you store or share [](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/privacy-and-ethics)
-
-**[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)**
-
-For example, you may require client-side encryption if using a storage solution other than TU/e Network drives. For further information, please consult a [Data Steward](/docs/contact.md).
+Note that additional security measures are needed when you store or share **[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)**. For example, you may require client-side encryption if using a storage solution other than TU/e Network drives. For further information, please consult a [Data Steward](/docs/contact.md).
 
 Storing data on personal computers or mobile hard disks or USBs is discouraged due to irregular back-ups and the high potential for loss of the data. Storing data in cloud services outside the EU (Google Drive, Dropbox, iCloud or private (i.e., without TU/e credentials) OneDrive) should also be avoided because of possible non-compliance with the GDPR. Tailored advice on data storing and sharing can be provided, and storage solutions arranged, by the [Data Stewards](/docs/contact.md).
 

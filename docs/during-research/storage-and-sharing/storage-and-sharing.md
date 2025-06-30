@@ -60,7 +60,7 @@ If you would like to send a data package to internal or external parties without
 ## FAQ
 
 **Where should I store my data during my project?**  
-TU/e supports several storage facilities: TU/e network drives, SURFdrive, and Research Drive. You can find information on all storage products supported by TU/e on [StorageFinder](https://research-it.pages.tue.nl/storage-finder/). By indicating your requirements the tool can help you find an appropriate solution for your needs. If you need help choosing a facility or if you have specific needs, please contact [rdmsupport@tue.nl](https://www.tue.nl/en/our-university/library/faq-rdm) or your faculty [Research IT](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Research-IT.aspx).
+TU/e supports several storage facilities: TU/e network drives, SURFdrive, and Research Drive. You can find information on all storage products supported by TU/e on [StorageFinder](https://research-it.pages.tue.nl/storage-finder/). By indicating your requirements the tool can help you find an appropriate solution for your needs. If you need help choosing a facility or if you have specific needs, please contact your faculty [Data Steward](/docs/contact) or [Research IT](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Research-IT.aspx).
 
 **I have pseudonymized my data. Where should I store the key file?**  
 It is important to store the key file at another location (i.e., using another storage solution or a separate, password-protected/encrypted folder) than the research data.

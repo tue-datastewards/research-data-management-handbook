@@ -58,14 +58,13 @@ If you need help with writing your DMP, contact [**rdmsupport@tue.nl**](https:/
 
 ## FAQ
 
-**Does TU/e have a policy for research data management?**  
+### Does TU/e have a policy for research data management?
+
 No, TU/e is still working on this.
 
-**Is there a template for filling out a data management plan?**  
-All research funders provide templates to help you create your DMP. At TU/e, you can access a dedicated DMP template through the [**DMP tool**](https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900 "https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900") on [**Research Cockpit**](https://tue.atlassian.net/helpcenter/research/ "https://tue.atlassian.net/helpcenter/research/") platform. To download a suitable template visit the website of your funder or have a look at our page on [**data management plans**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan "https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan") for more information.
+### Is there a template for filling out a data management plan?
 
-**Can someone support me with making a data management plan?**  
-Yes, you will receive guidance from your departmental data stewards while completing your DMP via [**DMP tool**](https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900 "https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900"). You can also send an email to [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/faq-rdm "https://www.tue.nl/en/our-university/library/faq-rdm") and your request will be picked up by one of the TU/e’s data stewards.
+All research funders provide templates to help you create your DMP. At TU/e, you can access a dedicated DMP template through the [DMP tool](https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900) on the [Research Cockpit](https://tue.atlassian.net/helpcenter/research/).
 
-**NWO wants me to consult a TU/e data steward before making a data management plan. Who are they?**  
-The data stewards work for the Research Data Management (RDM) team at Library and Information Services (LIS). You can contact them through [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/faq-rdm "https://www.tue.nl/en/our-university/library/faq-rdm"). Your request will then be picked up by one of the data stewards. [**Here**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward "https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward") you can find out if your department has an embedded data steward, so you can contact that person directly.
+**NWO wants me to consult a TU/e data steward. Can someone support me with making a data management plan?**  
+Yes, you will receive guidance from your departmental data stewards while completing your DMP when creating [a DMP on the Research Cockpit](https://cockpit.research.tue.nl/helpcenter/research/portal/3/article/2712272900). You can also contact a [Data Steward](/docs/contact.md).

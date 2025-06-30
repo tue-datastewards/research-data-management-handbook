@@ -112,7 +112,7 @@ More information can be found in this [**paper**](https://journals.plos.org/plo
 - [Metadata standards on FAIRsharing.org](https://fairsharing.org/)
 - [A quick guide for using Microsoft OneNote as an electronic laboratory notebook (pdf)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable)
 - [11 Tricks for using OneNote as your lab notebook](https://www.ascb.org/careers/11-tricks-for-using-onenote-as-your-lab-notebook/)
-- [Guidelines provided by 4TU.ResearchData for creating a README file (pdf)](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf)
+- [Guidelines provided by 4TU.ResearchData for creating a README file (pdf)](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf)
 
 ## FAQ
 

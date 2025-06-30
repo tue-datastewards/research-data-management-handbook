@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TU/e Research Data Management Handbook Blog</title>
+        <link>https://rdm.tue.nl/pr-preview/pr-48/blog</link>
+        <description>TU/e Research Data Management Handbook Blog</description>
+        <lastBuildDate>Thu, 01 May 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome to the RDM Handbook!]]></title>
+            <link>https://rdm.tue.nl/pr-preview/pr-48/blog/welcome-to-rdm-handbook</link>
+            <guid>https://rdm.tue.nl/pr-preview/pr-48/blog/welcome-to-rdm-handbook</guid>
+            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the Handbook!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the Handbook!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="our-mission">Our Mission<a href="https://rdm.tue.nl/pr-preview/pr-48/blog/welcome-to-rdm-handbook#our-mission" class="hash-link" aria-label="Direct link to Our Mission" title="Direct link to Our Mission">​</a></h2>
+<p>Our mission as Data Stewards is to help researchers with Research Data Management (RDM) challenges in a collaborative way, while being an advocate of open &amp; responsible scientific practices that transcend TU/e.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-we-offer">What we offer<a href="https://rdm.tue.nl/pr-preview/pr-48/blog/welcome-to-rdm-handbook#what-we-offer" class="hash-link" aria-label="Direct link to What we offer" title="Direct link to What we offer">​</a></h2>
+<ul>
+<li>First-line support for researchers on Research Data Management (RDM), privacy, ethics, and data agreements for researchers</li>
+<li>Consultations for workflows related to Data Management &amp; FAIR data</li>
+<li>Training and knowledge transfer on RDM, privacy, and associated topics</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="get-in-touch">Get in touch<a href="https://rdm.tue.nl/pr-preview/pr-48/blog/welcome-to-rdm-handbook#get-in-touch" class="hash-link" aria-label="Direct link to Get in touch" title="Direct link to Get in touch">​</a></h2>
+<p>To contact data stewards, please email <a href="mailto:rdmsupport@tue.nl" target="_blank" rel="noopener noreferrer">rdmsupport@tue.nl</a>. Or contact your faculty data steward directly, as listed below.</p>]]></content:encoded>
+            <category>data stewards</category>
+        </item>
+    </channel>
+</rss>

@@ -46,7 +46,7 @@ A typical Data Management Plan includes the following key elements:
 - [Data Management Resources](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/before-research/data-management-costs)  
   In this section, you address repository costs or any other data management-related expenses that may not be readily available within your institution or may require additional funding.
 
-If you need help with writing your DMP, contact [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan). The data stewards of the RDM support team can help you by reviewing, co-writing, and/or providing feedback on your DMP.
+If you need help with writing your DMP, please [contact us](/docs/contact.md).
 
 ## Tools and Further Reading
 

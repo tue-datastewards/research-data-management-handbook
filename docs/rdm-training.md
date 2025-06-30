@@ -10,7 +10,7 @@ Th PROOF program highlights the main developments and topics in open science (op
 
 ## **Tailored training on request**
 
-We offer trainings on request on RDM tailored to interests, specific needs and the level of knowledge of participants. Please contact us at: [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-training-and-courses) to discuss your request.
+We offer trainings on request on RDM tailored to interests, specific needs and the level of knowledge of participants. Please [contact us](/docs/contact.md) to discuss your request.
 
 ## **Online RDM courses and lectures**
 

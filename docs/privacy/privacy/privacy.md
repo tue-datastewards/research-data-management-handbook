@@ -38,7 +38,7 @@ If you are not sure whether your data is completely anonymized or you have quest
 **Encryption:** if it is not feasible to de-identify the data, encrypting data is also an option. Encryption makes data unreadable or inaccessible to those without a password. The data file itself can be encrypted or the drive, where the data file is located, can be encrypted.
 
 **Ensure storage limitation**  
-Store personal data for no longer than is necessary for your research purposes. Do not store or distribute unnecessary copies of the data. Store identifiable information apart from other information. To comply with the [**code of conduct for research integrity**](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf), de-identified data should be kept for a period appropriate to the respective discipline and methodology.
+Store personal data for no longer than is necessary for your research purposes. Do not store or distribute unnecessary copies of the data. Store identifiable information apart from other information. To comply with the [Netherlands Code of Conduct for Research Integrity](https://www.nwo.nl/sites/nwo/files/documents/Netherlands%2BCode%2Bof%2BConduct%2Bfor%2BResearch%2BIntegrity_2018_UK.pdf), de-identified data should be kept for a period appropriate to the respective discipline and methodology.
 
 For storage options, check [**TU/e storage finder**](https://research-it.pages.tue.nl/storage-finder/), discuss the most suitable storage with your supervisor, or contact the a data steward or Research IT consultant.
 

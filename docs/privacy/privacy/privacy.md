@@ -68,14 +68,23 @@ If devices or data are lost or stolen please contact the Computer Emergency Resp
 
 ## FAQ
 
-**Where can I find answers to my questions on personal data, GDPR, and privacy?**  
-Have a look at the [**FAQ**](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx) on the website of Privacy. You can also consult the data stewards of Research Data Management through [rdmsupport@tue.nl](https://www.tue.nl/en/our-university/library/faq-rdm).
+### Where can I find answers to my questions on personal data, GDPR, and privacy?
 
-**Do I need to make any specific arrangements before I share the data externally?**  
-Sharing or receiving (personal) data from an external party requires that an appropriate [data agreement](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/agreements.aspx) is put in place. The type of agreement depends on the nature of collaboration between the parties. If you plan on sharing your research data or receiving data from a third party, please contact your [data steward](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward).
+Below are some relevant resources:
 
-**How should I anonymize or pseudonymize my data?**  
-Information on anonymization and pseudonymization can be found [here](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/privacy-and-ethics) and [here](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx#what-are-anonymous%2C-anonymized-and-pseudonymized-personal-data). For further information and support, please contact the data stewards of the RDM support team via [rdmsupport@remove-this.tue.nl](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/privacy-in-research/privacy#).
+- [Personal Data in Research | Research Cockpit (login required)](https://cockpit.research.tue.nl/servicedesk/customer/portal/3/article/2641100840)
+- [FAQ About the GDPR | SharePoint (login required)](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx)
+- [What are personal data? | Utrecht University](https://utrechtuniversity.github.io/dataprivacyhandbook/personal-data.html).
+
+You can also consult a [Data Steward](/docs/contact.md).
+
+### Do I need to make any specific arrangements before I share the data externally?
+
+Sharing or receiving (personal) data from an external party requires an appropriate [data agreement](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/agreements.aspx). The type of agreement depends on the nature of collaboration between the parties. If you plan to share your research data or receiving data from a third party, please contact your [Data Steward](/docs/contact.md).
+
+### How should I anonymize or pseudonymize my data?
+
+Information on anonymization and pseudonymization is available on the [Privacy page](/docs/privacy/privacy/privacy.md) and the [FAQ About the GDPR (login required)](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx#what-are-anonymous%2C-anonymized-and-pseudonymized-personal-data). For further information and support, please contact a [Data Steward](/docs/contact.md).
 
 ## Tools and Further Reading
 

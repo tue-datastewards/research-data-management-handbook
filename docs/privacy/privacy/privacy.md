@@ -89,6 +89,6 @@ Information on anonymization and pseudonymization is available on the [Privacy 
 ## Tools and Further Reading
 
 - [FAQ privacy and security](https://intranet.tue.nl/en/university/services/01-01-1970-information-management-services/protect-your-device-data-and-identity/faq/research/)
-- [Privacy and personal data during the research life cycle](https://www.lcrdm.nl/files/lcrdm/2019-04/LCRDM%20How%20to%20treat%20personal%20data%20in%20research%200_1.pdf)
+- [How to Treat Personal Data in Research | LCRDM](https://lcrdm.nl/wp-content/uploads/2023/03/LCRDM-How-to-treat-personal-data-in-research-0_1.pdf)
 - [TU/e Privacy statement](https://intranet.tue.nl/en/university/services/01-01-1970-information-management-services/protect-your-device-data-and-identity/protect-your-identity/01-01-1970-privacystatement-tue/#c49343)
 - [TU/e Privacy policy](https://intranet.tue.nl/en/university/services/01-01-1970-information-management-services/protect-your-device-data-and-identity/protect-your-identity/01-01-1970-tue-strategy/)

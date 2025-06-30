@@ -46,7 +46,7 @@ To select a license, you can use [**this tool**](https://choosealicense.com/), 
 ### Licenses
 
 **Which creative commons license should I use for my dataset?**  
-You should select a license that allows access to your data by as many people as possible, with the fewest restrictions. See our page on [data storage and sharing](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing) for more information. If you need help choosing a license, please [rdmsupport@remove-this.tue.nl](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/after-research/licensing#).
+You should select a license that allows access to your data by as many people as possible, with the fewest restrictions. See our page on [data storage and sharing](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing) for more information. If you need help choosing a license, please [contact us](/docs/contact.md).
 
 ### Software licenses
 

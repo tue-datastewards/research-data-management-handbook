@@ -12,7 +12,7 @@ const config: Config = {
   favicon: "favicon/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://fictional-doodle-vm76q9w.pages.github.io/",
+  url: "https://rdm.tue.nl/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: process.env.PREVIEW_PATH

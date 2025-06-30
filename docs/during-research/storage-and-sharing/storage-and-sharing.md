@@ -65,7 +65,7 @@ It is important to store the key file at another location (i.e., using another s
 You can send a request for more storage space to [LIS Services](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing#).
 
 **How can I share my datasets with my (external) project partners?**  
-A safe and secure way to share datasets and work on projects collaboratively is by using SURFdrive or Research Drive. Research Drive has a higher security level and is better suited for working collaboratively with other TU/e members and external collaborators. For transferring your data you can use [SURFfilesender](https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted).
+You can use Research Drive, Teams / SharePoint, or OneDrive to share access to external collaborators. For one-time transfer of your data, you can use [SURFfilesender](https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted).
 
 **Do I need to make any specific arrangements before I share the data externally?**  
 Sharing or receiving (personal) data from an external party requires that an appropriate [data agreement](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/agreements.aspx) is put in place. The type of agreement depends on the nature of collaboration between the parties. If you plan on sharing your research data or receiving data from a third party, please contact your [Data Steward](/docs/contact.md).

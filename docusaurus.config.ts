@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic"
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-const gitHubRepository = "research-data-management-handbook"
+const isPreview = process.env.PREVIEW_PATH !== undefined
 
 const config: Config = {
   title: "TU/e Research Data Management Handbook",
@@ -12,17 +12,15 @@ const config: Config = {
   favicon: "favicon/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://fictional-doodle-vm76q9w.pages.github.io/",
+  url: "https://rdm.tue.nl/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: process.env.PREVIEW_PATH
-    ? `${gitHubRepository}/${process.env.PREVIEW_PATH}`
-    : `/${gitHubRepository}/`,
+  baseUrl: isPreview ? `/${process.env.PREVIEW_PATH}/` : `/`,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "tue-datastewards", // Usually your GitHub org/user name.
-  projectName: gitHubRepository, // Usually your repo name.
+  projectName: "research-data-management-handbook", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

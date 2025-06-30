@@ -30,7 +30,7 @@ The figure below shows the workflow and processing time for ethical review.
 
 ![Workflow and processing time for ethical review. ](ethical-review-workflow.png)
 
-If necessary, consult a data steward on RDM and privacy-related sections of the ERB form. You can contact the RDM support team via [**rdmsupport@remove-this.tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/before-research/ethical-aproval#) or reach out to a [**data steward assigned to your faculty**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward) at least two weeks before submitting your application to the ERB.
+If necessary, consult a data steward on RDM and privacy-related sections of the ERB form. You can contact a [Data Steward](/docs/contact.md) at least two weeks before submitting your application to the ERB.
 
 ## FAQ  
 

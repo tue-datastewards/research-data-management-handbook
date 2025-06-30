@@ -40,7 +40,7 @@ If you are not sure whether your data is completely anonymized or you have quest
 **Ensure storage limitation**  
 Store personal data for no longer than is necessary for your research purposes. Do not store or distribute unnecessary copies of the data. Store identifiable information apart from other information. To comply with the [Netherlands Code of Conduct for Research Integrity](https://www.nwo.nl/sites/nwo/files/documents/Netherlands%2BCode%2Bof%2BConduct%2Bfor%2BResearch%2BIntegrity_2018_UK.pdf), de-identified data should be kept for a period appropriate to the respective discipline and methodology.
 
-For storage options, check [**TU/e storage finder**](https://research-it.pages.tue.nl/storage-finder/), discuss the most suitable storage with your supervisor, or contact the a data steward or Research IT consultant.
+For storage options, check [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html), discuss the most suitable storage with your supervisor, or contact a data steward or Research IT consultant.
 
 **Restrict access**  
 In case of collaboration, define who has access collected data, how you will restrict this, how you will enable access to those authorized, and where you will describe who gets access to the data. Do not share or keep the data in a form which permits identification of data subjects for any longer than is necessary for the purposes for which the personal data are processed.

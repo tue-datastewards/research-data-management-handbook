@@ -24,7 +24,11 @@ More information can be found [**here**](https://fair-software.eu/).
 
 There are several popular and well-regarded software repositories that researchers commonly use to host and share their research software. The choice of repository depends on factors such as the nature of your software, and your desired level of visibility and collaboration.
 
-GitHub or GitLab (TU/e has its own [**GitLab server**](https://gitlab.tue.nl/users/sign_in)) are great tools for keeping track of the versions of your code as well as for making your code available for others. In addition, it is highly recommended to publish your code through [Zenodo](https://about.zenodo.org/) or [**4TU.ResearchData**](https://data.4tu.nl/info/en/use/getting-started/). Both of these repositories allow setting up a connection to GitHub to make the code associated with research output public, and to make clear which version of the code you used. When publishing your code through Zenodo or 4TU.ResearchData, a DOIs is assigned to your software, making it citable and most importantly always findable.  Check out [**this instruction**](https://guides.github.com/activities/citable-code/) on how to make your software citable in GitHub through Zenodo.
+GitHub or GitLab are great places for keeping track of your code, and for making your code available for others. As a TU/e researcher, you can use [TU/e GitLab server](https://gitlab.tue.nl/) and [GitHub with Enterprise access](https://cockpit.research.tue.nl/servicedesk/customer/portal/6). Need to decide which platform to use? Check out the [GitLab or GitHub (login required)](https://cockpit.research.tue.nl/helpcenter/research/portal/5/article/2763227144) page on the Research Cockpit.
+
+## Publish your code on Data Repositories
+
+You can publish your code through [Zenodo](https://about.zenodo.org/) or [4TU.ResearchData](https://data.4tu.nl/info/about-your-data/getting-started), so that you can get a DOI for a snapshot of your codebase, which usually corresponds with your release. Check out GitHub's [Referencing and citing content page](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) on how to make your software citable in GitHub through Zenodo.
 
 ## FAQ
 

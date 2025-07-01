@@ -14,7 +14,7 @@ For more detailed support or feedback when drafting your data management paragra
 
 A Data Management Plan (DMP) is a formal document that outlines how research data will be collected, organized, documented, stored, preserved, and shared during and after a research project. It is a crucial component of current research practice and is often required by funding agencies as part of grant applications. A funder-approved DMP is often also a requirement to obtain the first round of funding for a research project.
 
-Data Management Plans are essential tools for promoting best practices in research data management, increasing the value of research outputs, and ensuring compliance with funder requirements. A DMP helps you at an early stage to plan how to make your research data [**FAIR**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/fair) and your research reproducible. It can also help you to comply with data protection laws and protect the [**privacy**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/privacy-and-ethics) of data subjects. Furthermore, a DMP can increase the impact of your research and make it more efficient.
+Data Management Plans are essential tools for promoting best practices in research data management, increasing the value of research outputs, and ensuring compliance with funder requirements. A DMP helps you at an early stage to plan how to make your research data [**FAIR**](/docs/before-research/FAIR/FAIR.md) and your research reproducible. It can also help you to comply with data protection laws and protect the [**privacy**](/docs/privacy/privacy/privacy.md) of data subjects. Furthermore, a DMP can increase the impact of your research and make it more efficient.
 
 A DMP is a **living document**: you write it before a research project starts and keep updating it throughout the research project. You may not know all the answers at the beginning, and circumstances may change. The data management plan must be updated during the course of the project if there are significant changes, such as: new data, changes in the guidelines of the consortium (e.g. new innovation potential, decision for patent application) or changes in the composition of the consortium (e.g. entry of new consortium members or departure of old members).
 
@@ -46,7 +46,7 @@ A typical Data Management Plan includes the following key elements:
 - [Data Management Resources](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/before-research/data-management-costs)  
   In this section, you address repository costs or any other data management-related expenses that may not be readily available within your institution or may require additional funding.
 
-If you need help with writing your DMP, contact [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan). The data stewards of the RDM support team can help you by reviewing, co-writing, and/or providing feedback on your DMP.
+If you need help with writing your DMP, please [contact us](/docs/contact.md).
 
 ## Tools and Further Reading
 
@@ -58,14 +58,13 @@ If you need help with writing your DMP, contact [**rdmsupport@tue.nl**](https:/
 
 ## FAQ
 
-**Does TU/e have a policy for research data management?**  
+### Does TU/e have a policy for research data management?
+
 No, TU/e is still working on this.
 
-**Is there a template for filling out a data management plan?**  
-All research funders provide templates to help you create your DMP. At TU/e, you can access a dedicated DMP template through the [**DMP tool**](https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900 "https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900") on [**Research Cockpit**](https://tue.atlassian.net/helpcenter/research/ "https://tue.atlassian.net/helpcenter/research/") platform. To download a suitable template visit the website of your funder or have a look at our page on [**data management plans**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan "https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan") for more information.
+### Is there a template for filling out a data management plan?
 
-**Can someone support me with making a data management plan?**  
-Yes, you will receive guidance from your departmental data stewards while completing your DMP via [**DMP tool**](https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900 "https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900"). You can also send an email to [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/faq-rdm "https://www.tue.nl/en/our-university/library/faq-rdm") and your request will be picked up by one of the TU/e’s data stewards.
+All research funders provide templates to help you create your DMP. At TU/e, you can access a dedicated DMP template through the [DMP tool](https://tue.atlassian.net/helpcenter/research/portal/3/article/2712272900) on the [Research Cockpit](https://tue.atlassian.net/helpcenter/research/).
 
-**NWO wants me to consult a TU/e data steward before making a data management plan. Who are they?**  
-The data stewards work for the Research Data Management (RDM) team at Library and Information Services (LIS). You can contact them through [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/faq-rdm "https://www.tue.nl/en/our-university/library/faq-rdm"). Your request will then be picked up by one of the data stewards. [**Here**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward "https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward") you can find out if your department has an embedded data steward, so you can contact that person directly.
+**NWO wants me to consult a TU/e data steward. Can someone support me with making a data management plan?**  
+Yes, you will receive guidance from your departmental data stewards while completing your DMP when creating [a DMP on the Research Cockpit](https://cockpit.research.tue.nl/helpcenter/research/portal/3/article/2712272900). You can also contact a [Data Steward](/docs/contact.md).

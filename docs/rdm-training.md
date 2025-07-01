@@ -10,11 +10,14 @@ Th PROOF program highlights the main developments and topics in open science (op
 
 ## **Tailored training on request**
 
-We offer trainings on request on RDM tailored to interests, specific needs and the level of knowledge of participants. Please contact us at: [**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-training-and-courses) to discuss your request.
+We offer trainings on request on RDM tailored to interests, specific needs and the level of knowledge of participants. Please [contact us](/docs/contact.md) to discuss your request.
 
 ## **Online RDM courses and lectures**
 
-- Essentials 4 Data Support introductory course from Research Data Netherlands (RDNL): [http://datasupport.researchdata.nl/](http://datasupport.researchdata.nl/)
+- [Research Data Netherlands (RDNL)](https://researchdata.nl) Trainings
+
+  - [Essentials 4 Data Support](https://researchdata.nl/en/services/cursus/)
+  - [GDPR 4 Data Support](https://researchdata.nl/en/gdpr-4-data-support-staff/)
 
 - Privacy E-learning course:
   [https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/New-Privacy-E-learning-Course--Privacy-%E2%80%93-The-Basics.aspx](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/New-Privacy-E-learning-Course--Privacy-%E2%80%93-The-Basics.aspx)

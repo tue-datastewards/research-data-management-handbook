@@ -20,7 +20,7 @@ Benefits of using data repository:
 
 There are various data repositories available, some of which are listed below. While these repositories differ in their options for restricted access and, for example, size of data storage, the type of data you want to deposit should be considered.
 
-Before uploading your data into a repository, make sure that you data is suitable for making them openly available. For example, datasets containing personal data or (privacy-)sensitive data require additional attention. They may be published for example under restricted access, or only a description or metadata of the data with an explanation on how the data can be shared. You can also check [**Re3data.org**](http://www.re3data.org/) for an overview of data repositories or contact the data stewards of the [**RDM support team**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-training-and-courses) for a tailored advice.
+Before uploading your data into a repository, make sure that you data is suitable for making them openly available. For example, datasets containing personal data or (privacy-)sensitive data require additional attention. They may be published for example under restricted access, or only a description or metadata of the data with an explanation on how the data can be shared. You can also check [**Re3data.org**](http://www.re3data.org/) for an overview of data repositories or contact the Data Stewards (rdmsupport@tue.nl) for a tailored advice.
 
 [**4TU.ResearchData**](https://data.4tu.nl/info/en/)   
 A Dutch repository for research data initiated by the Dutch technological universities (Eindhoven, Delft, Twente). The repository has received the Data Seal of Approval (guaranteeing long-term storage) and provides restricted access options and flexibility in license choice. Datasets generally come from the fields of engineering and technology but are open to all sciences, are stored in the Netherlands for a minimum of 15 years and are assigned a DOI. Researchers affiliated to the universities of technology in Eindhoven can deposit up to 100 GB of data per year free of charge, where for larger datasets there is a one-off cost of €3/GB (for 15 years storage), which is covered by the TU/e. 4TU.ResearchData can also be synced with your GitHub account.
@@ -38,7 +38,7 @@ Once you have published, archived or deposited research data in a data repositor
 
 In many cases, your research data will be part of or be related to other research output (for example, a journal publication or the underlying research data published in a data repository). In Pure you can easily link research output that is related to each other or part of a larger project. At the bottom of the registration form, a field called *Relations to other content* is shown; this allows you to link research datasets to papers, book chapters, a PhD or master thesis, etc. The exact details on how to do this are explained [**here**](https://assets.w3.tue.nl/w/fileadmin/user_upload/Werkinstructie%20Datasets%20registreren%20in%20Pure%20-%20August%202020.pdf).
 
-For further questions about repositories or registering your dataset in Pure, please contact the data stewards of the RDM support team ([**rdmsupport@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-preservation)).
+For further questions about repositories or registering your dataset in Pure, please contact the Data Stewards (rdmsupport@tue.nl).
 
 ## FAQ
 
@@ -52,7 +52,7 @@ No, if there is a good alternative in your scientific discipline, we advise you 
 Go to [4TU.ResearchData](https://data.4tu.nl/info/en/), select TU/e at Institutional account, log in with your TU/e credentials, fill out the upload form, and attach your data files to the form. You can find instructions [here](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository). You can also check the [demo video](https://www.youtube.com/watch?v=VmQr5oDXpoY) to learn how to use the 4TU.ResearchData repository software.
 
 **Are there any costs involved in uploading datasets in 4TUResearchData?**  
-For TU/e staff the use of 4TU.ResearchData is free up to 100 GB per year per researcher. For example, if you are working on a project with three colleagues, each of you can upload 100 GB of data, in total 300 GB. If your data exceeds this limit, please contact [rdmsupport@tue.nl](https://www.tue.nl/en/our-university/library/faq-rdm).
+For TU/e staff, the use of 4TU.ResearchData is free up to 100 GB per year per researcher. For example, if you are working on a project with three colleagues, each of you can upload 100 GB of data, in total 300 GB. If your data exceeds this limit, please contact rdmsupport@tue.nl.
 
 **Is my dataset immediately online once I have uploaded it?**  
 No, your data set and accompanying description will first be reviewed. You will be informed whether or not your dataset is approved. This will take approximately three working days.

@@ -38,9 +38,9 @@ If you are not sure whether your data is completely anonymized or you have quest
 **Encryption:** if it is not feasible to de-identify the data, encrypting data is also an option. Encryption makes data unreadable or inaccessible to those without a password. The data file itself can be encrypted or the drive, where the data file is located, can be encrypted.
 
 **Ensure storage limitation**  
-Store personal data for no longer than is necessary for your research purposes. Do not store or distribute unnecessary copies of the data. Store identifiable information apart from other information. To comply with the [**code of conduct for research integrity**](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf), de-identified data should be kept for a period appropriate to the respective discipline and methodology.
+Store personal data for no longer than is necessary for your research purposes. Do not store or distribute unnecessary copies of the data. Store identifiable information apart from other information. To comply with the [Netherlands Code of Conduct for Research Integrity](https://www.nwo.nl/sites/nwo/files/documents/Netherlands%2BCode%2Bof%2BConduct%2Bfor%2BResearch%2BIntegrity_2018_UK.pdf), de-identified data should be kept for a period appropriate to the respective discipline and methodology.
 
-For storage options, check [**TU/e storage finder**](https://research-it.pages.tue.nl/storage-finder/), discuss the most suitable storage with your supervisor, or contact the a data steward or Research IT consultant.
+For storage options, check [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html), discuss the most suitable storage with your supervisor, or contact a data steward or Research IT consultant.
 
 **Restrict access**  
 In case of collaboration, define who has access collected data, how you will restrict this, how you will enable access to those authorized, and where you will describe who gets access to the data. Do not share or keep the data in a form which permits identification of data subjects for any longer than is necessary for the purposes for which the personal data are processed.
@@ -68,18 +68,27 @@ If devices or data are lost or stolen please contact the Computer Emergency Resp
 
 ## FAQ
 
-**Where can I find answers to my questions on personal data, GDPR, and privacy?**  
-Have a look at the [**FAQ**](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx) on the website of Privacy. You can also consult the data stewards of Research Data Management through [rdmsupport@tue.nl](https://www.tue.nl/en/our-university/library/faq-rdm).
+### Where can I find answers to my questions on personal data, GDPR, and privacy?
 
-**Do I need to make any specific arrangements before I share the data externally?**  
-Sharing or receiving (personal) data from an external party requires that an appropriate [data agreement](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/agreements.aspx) is put in place. The type of agreement depends on the nature of collaboration between the parties. If you plan on sharing your research data or receiving data from a third party, please contact your [data steward](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward).
+Below are some relevant resources:
 
-**How should I anonymize or pseudonymize my data?**  
-Information on anonymization and pseudonymization can be found [here](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/privacy-and-ethics) and [here](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx#what-are-anonymous%2C-anonymized-and-pseudonymized-personal-data). For further information and support, please contact the data stewards of the RDM support team via [rdmsupport@remove-this.tue.nl](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/privacy-in-research/privacy#).
+- [Personal Data in Research | Research Cockpit (login required)](https://cockpit.research.tue.nl/servicedesk/customer/portal/3/article/2641100840)
+- [FAQ About the GDPR | SharePoint (login required)](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx)
+- [What are personal data? | Utrecht University](https://utrechtuniversity.github.io/dataprivacyhandbook/personal-data.html).
+
+You can also consult a [Data Steward](/docs/contact.md).
+
+### Do I need to make any specific arrangements before I share the data externally?
+
+Sharing or receiving (personal) data from an external party requires an appropriate [data agreement](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/agreements.aspx). The type of agreement depends on the nature of collaboration between the parties. If you plan to share your research data or receiving data from a third party, please contact your [Data Steward](/docs/contact.md).
+
+### How should I anonymize or pseudonymize my data?
+
+Information on anonymization and pseudonymization is available on the [Privacy page](/docs/privacy/privacy/privacy.md) and the [FAQ About the GDPR (login required)](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx#what-are-anonymous%2C-anonymized-and-pseudonymized-personal-data). For further information and support, please contact a [Data Steward](/docs/contact.md).
 
 ## Tools and Further Reading
 
 - [FAQ privacy and security](https://intranet.tue.nl/en/university/services/01-01-1970-information-management-services/protect-your-device-data-and-identity/faq/research/)
-- [Privacy and personal data during the research life cycle](https://www.lcrdm.nl/files/lcrdm/2019-04/LCRDM%20How%20to%20treat%20personal%20data%20in%20research%200_1.pdf)
+- [How to Treat Personal Data in Research | LCRDM](https://lcrdm.nl/wp-content/uploads/2023/03/LCRDM-How-to-treat-personal-data-in-research-0_1.pdf)
 - [TU/e Privacy statement](https://intranet.tue.nl/en/university/services/01-01-1970-information-management-services/protect-your-device-data-and-identity/protect-your-identity/01-01-1970-privacystatement-tue/#c49343)
 - [TU/e Privacy policy](https://intranet.tue.nl/en/university/services/01-01-1970-information-management-services/protect-your-device-data-and-identity/protect-your-identity/01-01-1970-tue-strategy/)

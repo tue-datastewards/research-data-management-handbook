@@ -78,7 +78,7 @@ To make your research sustainable, facilitate reuse of data and allow replicatio
 Your data package should include the following:
 
 - A **README** or **instruction** file which lists the files inside the package and explains their relation and includes a step-by-step instruction on how to use the files to replicate the study.
-- **Raw data files**. If your study is based on a portion of the original dataset, include only the necessary data. Make sure to include de-identified data in your data package and omit [**personal and sensitive data**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/privacy-and-ethics).
+- **Raw data files**. If your study is based on a portion of the original dataset, include only the necessary data. Make sure to include de-identified data in your data package and omit [personal and sensitive data](/docs/privacy/privacy/privacy.md).
 - **Processed data files**. In many cases, the raw data will be transformed to a processed format that is suitable for further analysis.
 - A **data appendix/codebook** which provides information about every variable in your dataset (e.g. variable name, value labels, the type and format of the variable).
 - **Command files/syntax** which includes code scripts that were used to transform the raw data into processed data and code scripts which were used to analyze the data and produce the results. The code should be accompanied by (inline) comments or other instructions needed for others to replicate your study. You should not include information or code in the package that you are not allowed to share (e.g. licensed software).
@@ -110,9 +110,9 @@ More information can be found in this [**paper**](https://journals.plos.org/plo
 
 - [Metadata standards provided by the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/standards/)
 - [Metadata standards on FAIRsharing.org](https://fairsharing.org/)
-- [A quick guide for using Microsoft OneNote as an electronic laboratory notebook (pdf)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable)
-- [11 Tricks for using OneNote as your lab notebook](https://www.ascb.org/careers/11-tricks-for-using-onenote-as-your-lab-notebook/)
-- [Guidelines provided by 4TU.ResearchData for creating a README file (pdf)](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf)
+- [A quick guide for using Microsoft OneNote as an electronic laboratory notebook (PDF)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable)
+- [11 Tricks for using OneNote as your lab notebook (Archived)](https://web.archive.org/web/20240221153200/https://www.ascb.org/web/20240221153200/https://www.ascb.org/careers/11-tricks-for-using-onenote-as-your-lab-notebook/)
+- [Guidelines provided by 4TU.ResearchData for creating a README file (PDF)](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf)
 
 ## FAQ
 

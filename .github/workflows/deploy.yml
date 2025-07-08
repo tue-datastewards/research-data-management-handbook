@@ -4,36 +4,28 @@ on:
   push:
     branches:
       - main
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
-  build:
-    name: Build Docusaurus
+  build-and-deploy:
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 18
-          cache: "npm"
+      - name: Checkout repository 📂
+        uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: npm install
-      - name: Build website
-        run: npm run build
+      - name: Install and build 🔧
+        run: |
+          npm install
+          npm run build
 
-      - name: Upload Build Artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          path: build
-
-  deploy:
-    name: Deploy to GitHub Pages
-    needs: build
+          folder: build # The folder the action should deploy.
+          branch: gh-pages # The branch the action should deploy to.
+          clean-exclude: pr-preview # Exclude the pr-preview folder from being cleaned up before deployment.
+          force: false
 
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
@@ -44,9 +36,3 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

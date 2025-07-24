@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Funder Requirements
+# Funder Requirements hello there!
 
 Research data management (RDM) has become an integral part of the application procedure of many research funders. Funders increasingly began recognizing the importance of research data management in ensuring transparency, reproducibility, and the long-term impact of research. Many funding organizations have implemented specific requirements and guidelines regarding research data management that researchers must adhere to in order to receive funding. These requirements may vary depending on the funding agency and the type of research being conducted.
 

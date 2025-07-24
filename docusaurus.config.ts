@@ -117,6 +117,10 @@ const config: Config = {
               label: "Solution Searcher",
               href: "https://openpar.pages.tue.nl/solution-searcher/",
             },
+            {
+              label: "Open Science Community Eindhoven (OSC/e)",
+              href: "https://sites.google.com/view/osceindhoven/our-community",
+            },
           ],
         },
         {

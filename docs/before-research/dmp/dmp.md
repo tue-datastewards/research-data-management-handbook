@@ -4,13 +4,7 @@ sidebar_position: 3
 
 # Data Management Plan
 
-## Data Management Paragraph
-
-When applying for funding, it has become increasingly common to include a data management paragraph. A data management paragraph is a section within a grant application or research proposal that outlines how the research data will be handled throughout the course of the project. It is a concise yet comprehensive description of the data management practices that the researchers plan to implement to ensure the proper collection, organization, storage, preservation, and sharing of the research data. A more detailed description of data management is included at a later stage (post-award stage) in a data management plan.
-
-For more detailed support or feedback when drafting your data management paragraph, please get in touch with RDM Support or the data steward of your faculty. Please contact a data steward at least a week before your proposal deadline.
-
-## Data Management Plan
+## What is it?
 
 A Data Management Plan (DMP) is a formal document that outlines how research data will be collected, organized, documented, stored, preserved, and shared during and after a research project. It is a crucial component of current research practice and is often required by funding agencies as part of grant applications. A funder-approved DMP is often also a requirement to obtain the first round of funding for a research project.
 

@@ -4,7 +4,6 @@ sidebar_position: 3
 
 # Data Management Paragraph
 
-## What is it?
 
 When applying for funding, it has become increasingly common to include a data management paragraph, also known as data management section. A data management paragraph is a section within a grant application or research proposal that outlines how the research data will be handled throughout the course of the project. It is a concise yet comprehensive description of the data management practices that the researchers plan to implement to ensure the proper collection, organization, storage, preservation, and sharing of the research data. A more detailed description of data management is included at a later stage (post-award stage) in a data management plan.
 

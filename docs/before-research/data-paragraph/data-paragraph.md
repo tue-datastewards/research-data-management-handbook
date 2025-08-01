@@ -27,114 +27,72 @@ As data paragraphs often have size limitations, focus on the topics more relevan
 
 Are you reusing or generating datasets and/or other research outputs (for example, analysis scripts or other code/software, protocols, samples, etcetera)? Is or will the data be available for reuse?
 
-- If reusing data, what is its source? Are you allowed to reuse the dataset (what is the license, have you received permission from the author, or is there a data agreement in place)?
+- If reusing data, what is its source? Are you allowed to reuse the dataset (what is the license, have you received permission from the author, or is there a data agreement in place)?  
+ 
+  **Example sentence I: license** 
+  > The methodology described in this research proposal will be applied to the numerical data previously collected and published by Meijer et al. [9]. The dataset is available through the 4TU.ResearchData repository under the CC-BY 4.0 license. 
 
-<details>
-  <summary>
-    Example sentence I: license
-  </summary>
-  *The methodology described in this research proposal will be applied to the numerical data previously collected and published by Meijer et al. [9]. The dataset is available through the 4TU.ResearchData repository under the CC-BY 4.0 license.*
-</details>
+  **Example sentence II: agreement**
+  > Secondary data processing is used in order to answer our research questions. The data (high-speed videos) is owned by our industrial partner and has been shared with us under a Non-Disclosure Agreement. Although the data is confidential, the analysis script and other research outputs will be made publicly available for the purpose of reuse. 
 
-<details>
-  <summary>
-    Example sentence II: agreement
-  </summary>
-  *Secondary data processing is used in order to answer our research questions. The data (high-speed videos) is owned by our industrial partner and has been shared with us under a Non-Disclosure Agreement. Although the data is confidential, the analysis script and other research outputs will be made publicly available for the purpose of reuse.*
-</details>
+- If not reusing data, explain the reason. 
+  
+  **Example sentence: data collection**
+  > For this unprecedented study, we will be interviewing two hundred participants as currently there is no sufficient data suitable for reuse available. The dataset (textual transcripts) will be presented in an open file format (.txt) and it is expected to not exceed the size of 10GB. After anonymization, the dataset will be made available for reuse via a trusted data repository.
 
-- If not reusing data, explain the reason.
-
-<details>
-  <summary>
-    Example sentence: data collection
-  </summary>
-  *For this unprecedented study, we will be interviewing two hundred participants as currently there is no sufficient data suitable for reuse available. The dataset (textual transcripts) will be presented in an open file format (.txt) and it is expected to not exceed the size of 10GB. After anonymization, the dataset will be made available for reuse via a trusted data repository.*
-</details>
 
 
 ### Data storage and sharing
 
 How will you store data during the project? Will you share data only internally or also externally?
 
-- If storing data on TU/e supported storage, you can include one of the following sentences:
+- If storing data on TU/e supported storage, you can include one of the following sentences: 
+ 
+  **Example sentence I: general statement** 
+  > During the project data and corresponding metadata will be stored on TU-recommended scalable storage solution (for example, SURF Research Drive, TU/e network drive or MS OneDrive). The university guidelines regarding data storage will be adhered to (and discussed with data stewards as necessary). During the active phase of the project, only the researchers involved in the project will have access to the storage folder. Clear folder structure with consistent file naming will be used. Data stored on TU/e recommended solutions is backed-up daily to multiple secure and geographically diverse locations to avoid data loss. External data sharing will be done securely via SURFfilesender. 
 
-<details>
-  <summary>
-    Example sentence I: general statement
-  </summary>
-  *During the project data and corresponding metadata will be stored on TU-recommended scalable storage solution (for example, SURF Research Drive, TU/e network drive or MS OneDrive). The university guidelines regarding data storage will be adhered to (and discussed with data stewards as necessary). During the active phase of the project, only the researchers involved in the project will have access to the storage folder. Clear folder structure with consistent file naming will be used. Data stored on TU/e recommended solutions is backed-up daily to multiple secure and geographically diverse locations to avoid data loss. External data sharing will be done securely via SURFfilesender.*
-</details>
+  **Example sentence II: SURF Research Drive (sharing with external parties required)**
+  > For data storage and sharing during the active research phase, project members will use the SURF Research Drive platform. SURF Research Drive is a national cloud service in the Netherlands designed for storing, synchronizing, and sharing files related to research projects, with a particular emphasis on research data sharing with external collaborators. This platform is hosted and technically managed by SURF in the Netherlands, is ISO 27001 certified, and complies with the [SURF Baseline Information Security](https://www.surf.nl/en/information-security-surf-services). Data in Research Drive is encrypted both at rest and during transfer. Collaborators and other consortium members can be granted access to the TU/e instance of Research Drive using their organizational email address with multifactor authentication. For handling highly confidential data, TU/e members will use the encryption tool Cryptomator Hub, which ensures secure data sharing[^1]. 
 
-<details>
-  <summary>
-    Example sentence II: SURF Research Drive (sharing with external parties required)
-  </summary>
-  *For data storage and sharing during the active research phase, project members will use the SURF Research Drive platform. SURF Research Drive is a national cloud service in the Netherlands designed for storing, synchronizing, and sharing files related to research projects, with a particular emphasis on research data sharing with external collaborators. This platform is hosted and technically managed by SURF in the Netherlands, is ISO 27001 certified, and complies with the [SURF Baseline Information Security](https://www.surf.nl/en/information-security-surf-services). Data in Research Drive is encrypted both at rest and during transfer. Collaborators and other consortium members can be granted access to the TU/e instance of Research Drive using their organizational email address with multifactor authentication. For handling highly confidential data, TU/e members will use the encryption tool Cryptomator Hub, which ensures secure data sharing.*
-
-  For updates, please check: [Data paragraphs etc](https://tue.atlassian.net/wiki/spaces/~5fc658510dd553006fc5a533/pages/2857828407)  
-</details>
-
-<details>
-  <summary>
-    Example sentence III: TU/e Network Drive (sharing with external parties not required)
-  </summary>
-  *During the active research phase, TU/e members will use the TU/e Network Drive for data storage. Technical IT measures ensure only authorized TU/e staff and privileged accounts can access and process data. The system includes ransomware protection, critical vulnerability scanning, a next-generation firewall, data back-up, disaster recovery, and server-side encryption. The primary storage location is a data center with ISO 27001 certification, built to Tier 4 standards for maximum reliability. Furthermore, TU/e has implemented a strategic information security policy based on the NIST framework. The TU/e security organization undergoes the SURFaudit and includes a Chief Information Security Officer, an operational security team, a Computer Emergency Response Team (available during office hours), and a 24/7 Security Operations Center with SIEM capabilities. Additionally, there is an active system software update policy and regular backups of university information systems.*
-
-  For updates, please check: [Data paragraphs etc](https://tue.atlassian.net/wiki/spaces/~5fc658510dd553006fc5a533/pages/2857828407)  
-</details>
+  **Example sentence III: TU/e Network Drive (sharing with external parties not required)**
+  > During the active research phase, TU/e members will use the TU/e Network Drive for data storage. Technical IT measures ensure only authorized TU/e staff and privileged accounts can access and process data. The system includes ransomware protection, critical vulnerability scanning, a next-generation firewall, data back-up, disaster recovery, and server-side encryption. The primary storage location is a data center with ISO 27001 certification, built to Tier 4 standards for maximum reliability. Furthermore, TU/e has implemented a strategic information security policy based on the NIST framework. The TU/e security organization undergoes the SURFaudit and includes a Chief Information Security Officer, an operational security team, a Computer Emergency Response Team (available during office hours), and a 24/7 Security Operations Center with SIEM capabilities. Additionally, there is an active system software update policy and regular backups of university information systems[^1]. 
 
 - If not storing on TU/e supported storage, explain what is used instead including what measures are in place for securing the data.
+
+[^1]: For updates, please check: [Data paragraphs etc](https://tue.atlassian.net/wiki/spaces/~5fc658510dd553006fc5a533/pages/2857828407).
 
 
 ### Data archiving and publishing
 
 How will you store data after the project? Which datasets are going to be made publicly available? Which are not and why (what are the constraints)?
 
-<details>
-  <summary>
-    Example sentence: open data
-  </summary>
-  *Data not subject to access restrictions (e.g. for reasons of ethics, confidentiality, or IP protection) will be disseminated via a trustworthy and compliant data repository (such as 4TU.ResearchData or Zenodo) under a Creative Commons license. Data published in this way follows the FAIR principles and is available open access.*
-</details>
+**Example sentence: open data**
+> Data not subject to access restrictions (e.g. for reasons of ethics, confidentiality, or IP protection) will be disseminated via a trustworthy and compliant data repository (such as 4TU.ResearchData or Zenodo) under a Creative Commons license. Data published in this way follows the FAIR principles and is available open access.
 
 :::tip
 Data relevant to substantiate the research results as well as the data and project documentation (including, for example, the data management plan, informed consent signed by participants, and agreements) should be preserved for at least 10 years.
 ::: 
 
-<details>
-  <summary>
-    Example sentence: archiving
-  </summary>
-  *In accordance with the Netherlands Code of Conduct for Research Integrity all research data and documents relevant for the execution of the project and related to the data handling will be stored for reasons of scientific validation and integrity for 10 years after completion of the project with restricted access. This preservation will take place on a TU/e archive system.*
 
-  For updates, please check: [Data paragraphs etc](https://tue.atlassian.net/wiki/spaces/~5fc658510dd553006fc5a533/pages/2857828407)
+**Example sentence: archiving**
+>In accordance with the Netherlands Code of Conduct for Research Integrity all research data and documents relevant for the execution of the project and related to the data handling will be stored for reasons of scientific validation and integrity for 10 years after completion of the project with restricted access. This preservation will take place on a TU/e archive system[^1][^2].
 
-  See also: [Step-by-step guide on archival package](https://tue.atlassian.net/wiki/spaces/AP/pages/2813460512)
-</details>
+[^2]: See also: [Step-by-step guide on archival package](https://tue.atlassian.net/wiki/spaces/AP/pages/2813460512)
 
 
 ### Other research outputs
 
 Are there any other research outputs worth mentioning? 
 
-- If working with code and/or scripts, do you need to collaborate on the code? Are you documenting it and keeping track of changes? Do you plan to make the code open source? If so, under which license?
+- If working with code and/or scripts, do you need to collaborate on the code? Are you documenting it and keeping track of changes? Do you plan to make the code open source? If so, under which license?  
+ 
+  **Example sentence: TU/e GitLab** 
+  > During the research, we use TU/e GitLab for collaboration and version control of our codes/scripts. They will be easily searchable through creating several GitLab projects each with a clear folder structure and file names. README files and additional documentation will be added to explain the project, code, data, and methods used. Local working copies of files and code used by the researchers in this project will be pushed daily to the corresponding GitLab projects. The code is released under an open-source MIT license, making it freely available for reuse and modification.
 
-<details>
-  <summary>
-    Example sentence: TU/e GitLab 
-  </summary>
-  *During the research, we use TU/e GitLab for collaboration and version control of our codes/scripts. They will be easily searchable through creating several GitLab projects each with a clear folder structure and file names. README files and additional documentation will be added to explain the project, code, data, and methods used. Local working copies of files and code used by the researchers in this project will be pushed daily to the corresponding GitLab projects. The code is released under an open-source MIT license, making it freely available for reuse and modification.*
-</details>
-
-- If creating logbooks, (electronic) lab notebooks, and/or protocols, briefly describe how they will be managed.
-
-<details>
-  <summary>
-    Example sentence: additional documentation
-  </summary>
-  *Additional information on the methodology will be documented in logbooks. At the end of the project, these will be digitized and/or exported to an open file format and also stored alongside the research data.*
-</details>
+- If creating logbooks, (electronic) lab notebooks, and/or protocols, briefly describe how they will be managed. 
+  
+  **Example sentence: additional documentation**
+  > Additional information on the methodology will be documented in logbooks. At the end of the project, these will be digitized and/or exported to an open file format and also stored alongside the research data.
 
 
 ### FAIR principles in practice
@@ -145,28 +103,22 @@ What and how FAIR principles are incorporated to your research data management p
 The research data management practices described in this document (implicitly) incorporate the FAIR principles. Should you want to emphasize them (because this is particularly important for the funder or other reason), the following sentence could be added to the data paragraph.
 :::
 
-<details>
-  <summary>
-    Example sentence: FAIR principles in practice
-  </summary>
-  *Eindhoven University of Technology aims to comply with the FAIR principles and share with the scientific community any data obtained in research projects, if ethical and legal regulations permit doing so. Where possible, data will be published via a trustworthy repository, such as 4TU.ResearchData. Via the repository, data will be:*
-  1. ***Findable*** *by indexing data by search engines on the internet, including rich metadata according to, e.g., the DataCite schemas, and receiving a persistent identifier (DOI),*
-  2. **Accessible** *by using an open internet protocol, including clear authorisation procedures, and, where possible, the data will be shared when related articles are published under an open access license (to be determined, but most likely OSI-approved (for code) or Creative Commons),* 
-  3. ***Interoperable*** *by using standards for metadata (e.g., DataCite), by adding documentation (e.g., README files, codebooks), using preferred formats, and using a standard vocabulary if available, and*
-  4. ***Reusable*** *by including rich metadata, making sure that all data can be opened and used by generally available software (analysis) tools, by adding documentation with instructions for reuse, and by publishing it under an open access license.*
-</details>
+**Example sentence: FAIR principles in practice**
+> Eindhoven University of Technology aims to comply with the FAIR principles and share with the scientific community any data obtained in research projects, if ethical and legal regulations permit doing so. Where possible, data will be published via a trustworthy repository, such as 4TU.ResearchData. Via the repository, data will be:
+> 1. **Findable** by indexing data by search engines on the internet, including rich metadata according to, e.g., the DataCite schemas, and receiving a persistent identifier (DOI),
+> 2. **Accessible** by using an open internet protocol, including clear authorisation procedures, and, where possible, the data will be shared when related articles are published under an open access license (to be determined, but most likely OSI-approved (for code) or Creative Commons), 
+> 3. **Interoperable** by using standards for metadata (e.g., DataCite), by adding documentation (e.g., README files, codebooks), using preferred formats, and using a standard vocabulary if available, and
+> 4. **Reusable** by including rich metadata, making sure that all data can be opened and used by generally available software (analysis) tools, by adding documentation with instructions for reuse, and by publishing it under an open access license.
 
 
 ### Costs and resources available
 
-Do you expect that costs/expenses will be incurred from the data processing activities during and after your project? What are the services (or tooling) required for conducting the research data management? 
+Do you expect that costs/expenses will be incurred from the data processing activities during and after your project? What are the services (or tooling) required for conducting the research data management?  
 
-<details>
-  <summary>
-    Example sentence: RDM costs
-  </summary>
-  *Data management and making the data FAIR (assigning DOI, describing the data, assigning metadata to the data, etc.) is part of the ongoing research activities of involved researchers. Although we do not foresee any extra expenses, a budget of 5000 euros is reserved for RDM purposes.*
-</details>
+- If no additional costs are expected, consider describing the main data management activities involved and who is responsible for their execution. 
+
+  **Example sentence: RDM costs** 
+  > Data management and making the data FAIR (assigning DOI, describing the data, assigning metadata to the data, etc.) is part of the ongoing research activities of involved researchers. Although we do not foresee any extra expenses, a budget of 5000 euros is reserved for RDM purposes.
 
 - If additional costs are expected, make sure to include them in the budget section of your proposal. Consider, for example, activities/services such as anonymization, documentation, data cleaning, and file conversion/digitization. 
 
@@ -174,20 +126,12 @@ Do you expect that costs/expenses will be incurred from the data processing acti
 If relevant, mention the research support and/or resources available at no additional cost.
 :::
 
-<details>
-  <summary>
-    Example sentence I: support available
-  </summary>
-  *To ensure that data collection in the project adheres to the highest ethical and privacy standards, all studies will undergo prior screening and approval by relevant parties, including the Ethics Review Board, Data Stewards Team, and Privacy Team, as appropriate. Additionally, the university provides dedicated staff to offer support in areas such as Research IT infrastructure, Open Access, intellectual property, and legal matters.*
-</details>
+**Example sentence I: support available**
+> To ensure that data collection in the project adheres to the highest ethical and privacy standards, all studies will undergo prior screening and approval by relevant parties, including the Ethics Review Board, Data Stewards Team, and Privacy Team, as appropriate. Additionally, the university provides dedicated staff to offer support in areas such as Research IT infrastructure, Open Access, intellectual property, and legal matters.
 
-<details>
-  <summary>
-    Example sentence II: 4TU.ResearchData repository
-  </summary>
-  *4TU.ResearchData is able to archive 100GB of data per researcher per year free of charge for all TU/e researchers. We do not expect to exceed this and therefore there are no additional costs for long-term preservation.*
-</details>
-
+**Example sentence II: 4TU.ResearchData repository**
+> 4TU.ResearchData is able to archive 100GB of data per researcher per year free of charge for all TU/e researchers. We do not expect to exceed this and therefore there are no additional costs for long-term preservation.
+  
 
 ### Useful links
 

@@ -76,7 +76,7 @@ Data relevant to substantiate the research results as well as the data and proje
 **Example sentence: archiving**
 >In accordance with the Netherlands Code of Conduct for Research Integrity all research data and documents relevant for the execution of the project and related to the data handling will be stored for reasons of scientific validation and integrity for 10 years after completion of the project with restricted access. This preservation will take place on a TU/e archive system[^1][^2].
 
-[^2]: See also: [Step-by-step guide on archival package](https://tue.atlassian.net/wiki/spaces/AP/pages/2813460512)
+[^2]: See also: [Step-by-step guide on archival package](https://tue.atlassian.net/wiki/external/NjYxZDExZmQ2YzYzNGM3MzhjOWEyNGQwOTgyY2YyZGE)
 
 
 ### Other research outputs

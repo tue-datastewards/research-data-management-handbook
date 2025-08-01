@@ -140,5 +140,4 @@ If relevant, mention the research support and/or resources available at no addit
 
 - [Writing a data management plan | Radboud University](https://www.ru.nl/rdm/planning-research/data-management-paragraph/)
 
-- [Data paragraphs etc](https://tue.atlassian.net/wiki/spaces/~5fc658510dd553006fc5a533/pages/2857828407)
 

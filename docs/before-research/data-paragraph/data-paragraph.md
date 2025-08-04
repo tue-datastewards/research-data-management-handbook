@@ -2,20 +2,17 @@
 sidebar_position: 3
 ---
 
-# Data Management Paragraph
+# Data Paragraph (Grant Proposal)
 
 
-When applying for funding, it has become increasingly common to include a data management paragraph, also known as data management section. A data management paragraph is a section within a grant application or research proposal that outlines how the research data will be handled throughout the course of the project. It is a concise yet comprehensive description of the data management practices that the researchers plan to implement to ensure the proper collection, organization, storage, preservation, and sharing of the research data. A more detailed description of data management is included at a later stage (post-award stage) in a data management plan.
+When applying for funding, it has become increasingly common to include a data paragraph, also known as data management paragraph or data management section. A data paragraph is a section within a grant application or research proposal that outlines how the research data will be handled throughout the course of the project. It is a concise yet comprehensive description of the data management practices that the researchers plan to implement to ensure the proper collection, organization, storage, preservation, and sharing of the research data. A more detailed description of data management is included at a later stage (post-award stage) in a [Data Management Plan](../dmp/dmp.md).
 
-
-## How do I do it?
-
-Some funding agencies, such as NWO, provide a specific template for the data management paragraph in your proposal. If you do not have a template to refer to or are unsure how to begin, refer to our guide in the next section. It includes a checklist and sentence examples to help you get started. For more detailed support or feedback when drafting your data management paragraph, please get in touch with RDM Support or the data steward of your faculty. Please contact a data steward at least a week before your proposal deadline.
+Some funding agencies, such as NWO, provide a specific template for the data paragraph in your proposal. If you do not have a template to refer to or are unsure how to begin, refer to our guide in the next section. It includes a checklist and sentence examples to help you get started. For more detailed support or feedback when drafting your data paragraph, please get in touch with RDM Support or the data steward of your faculty. Please contact a data steward at least a week before your proposal deadline.
 
 
 ## Checklist and examples
 
-While a dedicated section on research data management may not be required by all funding agencies, we strongly encourage researchers to consider the following questions when preparing a project proposal. Use these questions as a checklist for your data management section, select example sentences, and adapt as needed to fit the specifics of your research.
+While a dedicated section on research data management may not be required by all funding agencies, we strongly encourage researchers to consider the following questions when preparing a project proposal. Use these questions as a checklist for your data paragraph, select example sentences, and adapt as needed to fit the specifics of your research.
 
 :::tip
 As data paragraphs often have size limitations, focus on the topics more relevant to your research and/or funder (usually **data reuse** or how **FAIR principles** are incorporated to the research).

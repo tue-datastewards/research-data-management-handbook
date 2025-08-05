@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[6840],{1680:e=>{e.exports=JSON.parse('{"tags":[{"label":"data stewards","permalink":"/pr-preview/pr-68/blog/tags/data-stewards","description":"Topics related to data stewards","count":1}]}')}}]);

@@ -1,0 +1,44 @@
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.blockquote {
+  position: relative;
+  padding: 1rem;
+  margin: 0;
+  border-left: 4px solid var(--ifm-color-primary);
+  background-color: var(--ifm-color-background);
+  font-style: italic;
+}
+
+.buttonContainer {
+  display: flex;
+  column-gap: 0.2rem;
+  position: absolute;
+  right: 0.4rem;
+  top: 0;
+  transition: opacity 0.3s ease-in-out;
+  opacity: 0;
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 4px;
+}
+
+.copyButton {
+  background-color: transparent;
+  display: flex;
+  cursor: pointer;
+  color: var(--ifm-color-primary);
+  font-size: 1.2rem;
+  padding: 0.5rem;
+}
+
+.container:hover .buttonContainer {
+  opacity: 0.3;
+}
+
+.container:hover .buttonContainer:hover,
+.copyButton:hover {
+  opacity: 1;
+}

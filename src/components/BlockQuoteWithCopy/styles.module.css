@@ -6,9 +6,9 @@
 
 .blockquote {
   position: relative;
-  padding: 1rem;
-  margin: 0;
-  border-left: 4px solid var(--ifm-color-primary);
+  padding: 0.5rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--ifm-color-primary);
   background-color: var(--ifm-color-background);
   font-style: italic;
 }

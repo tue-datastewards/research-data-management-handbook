@@ -6,11 +6,11 @@ export default function BlockQuoteWithCopy(props: React.PropsWithChildren) {
   const quoteRef = useRef<HTMLQuoteElement>(null)
 
   async function onCopyButtonClick() {
-    const outerHTML = quoteRef.current.outerHTML
+    const innerHTML = quoteRef.current.innerHTML
     const innerText = quoteRef.current.innerText
 
     const clipboardItem = new ClipboardItem({
-      ["text/html"]: outerHTML,
+      ["text/html"]: innerHTML,
       ["text/plain"]: innerText,
     })
 

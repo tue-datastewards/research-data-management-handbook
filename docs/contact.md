@@ -12,21 +12,21 @@ The data stewards of TU/e Research Data Management can be contacted via rdmsuppo
 - Davide Nardi (d.nardi@tue.nl)
 - Lucia Forrová (l.forrova@tue.nl)
 - Jayakrishnan H R Nair (h.r.nair@tue.nl)
+- Jonathan Gerona (j.gerona@tue.nl)
 - Neda Norouzi (n.norouzi1@tue.nl)
-- Mariana Oshima Menegon (m.oshima.menegon@tue.nl)
 - Liz Guzman Ramirez (l.guzman.ramirez@tue.nl)
 - Nami Sunami (n.sunami@tue.nl)
 
 ## By Department
 
-| Department                                       | Data steward           |
-| ------------------------------------------------ | ---------------------- |
-| Applied Physics and Science Education            | Nami Sunami            |
-| Biomedical Engineering                           | Neda Norouzi           |
-| Built Environment                                | Lucia Forrová          |
-| Chemical Engineering &amp; Chemistry             | Nami Sunami            |
-| Electrical Engineering                           | Angela Aleksovska      |
-| Industrial Design                                | Mariana Oshima Menegon |
-| Industrial Engineering &amp; Innovation Sciences | Jayakrishnan H R Nair  |
-| Mathematics and Computer Science                 | Davide Nardi           |
-| Mechanical Engineering                           | Neda Norouzi           |
+| Department                                       | Data steward          |
+| ------------------------------------------------ | --------------------- |
+| Applied Physics and Science Education            | Nami Sunami           |
+| Biomedical Engineering                           | Neda Norouzi          |
+| Built Environment                                | Lucia Forrová         |
+| Chemical Engineering &amp; Chemistry             | Nami Sunami           |
+| Electrical Engineering                           | Angela Aleksovska     |
+| Industrial Design                                | Jonathan Gerona       |
+| Industrial Engineering &amp; Innovation Sciences | Jayakrishnan H R Nair |
+| Mathematics and Computer Science                 | Davide Nardi          |
+| Mechanical Engineering                           | Neda Norouzi          |

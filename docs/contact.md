@@ -14,7 +14,6 @@ The data stewards of TU/e Research Data Management can be contacted via rdmsuppo
 - Jayakrishnan H R Nair (h.r.nair@tue.nl)
 - Jonathan Gerona (j.gerona@tue.nl)
 - Neda Norouzi (n.norouzi1@tue.nl)
-- Mariana Oshima Menegon (m.oshima.menegon@tue.nl)
 - Liz Guzman Ramirez (l.guzman.ramirez@tue.nl)
 - Nami Sunami (n.sunami@tue.nl)
 

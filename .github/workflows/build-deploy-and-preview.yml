@@ -27,6 +27,7 @@ jobs:
           npm run build
 
       - name: Deploy preview
+        id: preview-step
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./build/

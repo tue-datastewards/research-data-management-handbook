@@ -35,3 +35,4 @@ jobs:
         with:
           source-dir: ./build/
           pages-base-url: "rdm.tue.nl"
+          token: ${{ secrets.PREVIEW_DEPLOY_SECRET }}

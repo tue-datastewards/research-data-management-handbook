@@ -28,13 +28,34 @@ jobs:
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
-        env:
+        with:
+          source-dir: ./build/
+          pages-base-url: "rdm.tue.nl"
           # Token for deploying to GitHub Pages
           # permissions:
           #   contents: write
           #   pull-requests: write
-          GITHUB_TOKEN: ${{ secrets.PREVIEW_DEPLOY_SECRET }}
-        with:
-          source-dir: ./build/
-          pages-base-url: "rdm.tue.nl"
           token: ${{ secrets.PREVIEW_DEPLOY_SECRET }}
+          comment: false
+
+      - uses: marocchino/sticky-pull-request-comment@v2
+        if: steps.preview-step.outputs.deployment-action == 'deploy' && env.deployment_status == 'success'
+        with:
+          GITHUB_TOKEN: ${{ secrets.PREVIEW_DEPLOY_SECRET }}
+          header: pr-preview
+          message: |
+            [PR Preview Action](https://github.com/rossjrw/pr-preview-action) ${{ steps.preview-step.outputs.action-version }}
+            :---:
+            | <p></p> :rocket: View preview at <br> ${{ steps.preview-step.outputs.preview-url }} <br><br>
+            | <h6>Built to branch [`${{ env.PREVIEW_BRANCH }}`](${{ github.server_url }}/${{ github.repository }}/tree/${{ env.PREVIEW_BRANCH }}) at ${{ steps.preview-step.outputs.action-start-time }}. <br> Preview will be ready when the [GitHub Pages deployment](${{ github.server_url }}/${{ github.repository }}/deployments) is complete. <br><br> </h6>
+
+      - uses: marocchino/sticky-pull-request-comment@v2
+        if: steps.preview-step.outputs.deployment-action == 'remove' && env.deployment_status == 'success'
+        with:
+          GITHUB_TOKEN: ${{ secrets.PREVIEW_DEPLOY_SECRET }}
+          header: pr-preview
+          message: |
+            [PR Preview Action](https://github.com/rossjrw/pr-preview-action) ${{ steps.preview-step.outputs.action-version }}
+            :---:
+            Preview removed because the pull request was closed.
+            ${{ steps.preview-step.outputs.action-start-time }}

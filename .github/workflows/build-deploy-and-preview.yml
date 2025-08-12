@@ -28,11 +28,12 @@ jobs:
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
-        with:
-          source-dir: ./build/
-          pages-base-url: "rdm.tue.nl"
+        env:
           # Token for deploying to GitHub Pages
           # permissions:
           #   contents: write
           #   pull-requests: write
-          token: ${{ secrets.PREVIEW_DEPLOY_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.PREVIEW_DEPLOY_SECRET }}
+        with:
+          source-dir: ./build/
+          pages-base-url: "rdm.tue.nl"

@@ -5,21 +5,23 @@ Link to the page: https://tue-datastewards.github.io/research-data-management-ha
 
 ## Local Development
 
-To start a local development server, you need to have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
+To start a local development server, you need to have [Node.js](https://nodejs.org/) installed.
 
 1. Clone this repository
 
 2. Install dependencies
 
 ```bash
-yarn
+npm install
 ```
 
 3. Start the development server
 
 ```bash
-yarn start
+npm start
 ```
+
+This will open the browser to http://localhost:3000/
 
 ## License
 

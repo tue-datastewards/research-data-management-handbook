@@ -5,7 +5,7 @@ Link to the page: https://tue-datastewards.github.io/research-data-management-ha
 
 ## Local Development
 
-To start a local development server, you need to have [Node.js](https://nodejs.org/).
+To start a local development server, you need to have [Node.js](https://nodejs.org/) installed.
 
 1. Clone this repository
 

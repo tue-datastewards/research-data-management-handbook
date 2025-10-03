@@ -17,4 +17,4 @@ For a quick start, check our general RDM guidelines and FAQ.
 
 Data management is a crucial aspect of the **research data lifecycle**, which involves the various stages of data handling from its inception to its ultimate disposition. Throughout the research data lifecycle, data management includes tasks such as planning your research, collecting data using various methods, processing and analysing data, organizing and documenting data, securely storing and preserving it, sharing it responsibly, and eventually properly disposing of or archiving it for future reuse. This systematic approach to data management ensures that research data remains reliable, accessible, and compliant with ethical and legal requirements, promoting transparency and contributing to better and more efficient scientific research.
 
-![Research Data Lifecycle](lifecycle.png)
+![Research Data Lifecycle](lifecycle.svg)

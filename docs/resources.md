@@ -6,7 +6,7 @@ import TabItem from '@theme/TabItem';
 
 # Useful resources
 
-Relevant resources mentioned on the [RDM booklet](https://doi.org/10.5281/zenodo.15736840).
+Relevant resources mentioned on the [RDM booklet](https://doi.org/10.5281/zenodo.15736839).
 
 ## RDM support
 

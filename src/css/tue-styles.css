@@ -18,8 +18,8 @@
 
 :root {
   font-family: "Lato", sans-serif;
+  --ifm-font-size-base: 110%;
 }
-
 h1,
 h2,
 h3,

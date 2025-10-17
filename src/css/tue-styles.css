@@ -1,0 +1,30 @@
+/* Following TU/e Visual Identity Manual V2 1218  */
+
+@font-face {
+  font-family: "Lato";
+  src: format("trueType"), url("/fonts/Lato-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato";
+  font-weight: 700;
+  src: format("trueType"), url("/fonts/Lato-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: format("woff"), url("/fonts/Gilroy-Bold.woff");
+}
+
+:root {
+  font-family: "Lato", sans-serif;
+  --ifm-font-size-base: 110%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Gilroy", sans-serif;
+}

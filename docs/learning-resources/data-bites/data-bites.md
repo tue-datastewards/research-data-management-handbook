@@ -8,7 +8,7 @@ Join our series of online sessions designed to spread awareness on various topic
 
 ## What to expect
 
-Each session features a quick 15 minute talk or demo, followed by a 15-minute chat, focusing on one specific RDM topic. From RDM essentials, FAIR principles, documentation, versioning, storage to preparing data for publishing (to name just a few). We keep it basic and crucial, ensuring you leave with a clear understanding of each topic. Data Bites is your ticket to understanding RDM in a relaxed and friendly setting.
+Each session features a quick 15-minute talk or demo, followed by a 15-minute chat, focusing on one specific RDM topic. From RDM essentials, FAIR principles, documentation, versioning, storage to preparing data for publishing (to name just a few). We keep it basic and crucial, ensuring you leave with a clear understanding of each topic. Data Bites is your ticket to understanding RDM in a relaxed and friendly setting.
 
 ## Why attend 
 

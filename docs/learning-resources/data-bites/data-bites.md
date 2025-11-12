@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Data Bites sessions
 
-Join our series of online sessions designed to spread awareness on various topics related to Research Data Management and have an opportunity to take a short break from your busy day, and learn something new and useful! See the upcoming sessions in the [schedule 2026](#schedule-2026).
+Join our series of online sessions designed to spread awareness on various topics related to Research Data Management. This is an opportunity to take a short break from your busy day, and learn something new and useful! See the upcoming sessions in the [schedule 2026](#schedule-2026).
 
 ## What to expect
 

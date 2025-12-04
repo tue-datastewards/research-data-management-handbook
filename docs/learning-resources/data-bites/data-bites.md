@@ -12,7 +12,7 @@ Each session features a quick 15-minute talk or demo, followed by a 15-minute ch
 
 ## Why attend
 
-🚀 Gain quick insights into RDM
+🚀 Gain practical knowledge into RDM
 
 🤝 Engage in open discussions and get immediate support on your problem
 
@@ -34,13 +34,17 @@ Each session features a quick 15-minute talk or demo, followed by a 15-minute ch
 
 ## Schedule 2026
 
-|  Date  | Session title and abstract                                                                                                                                                                                                                                                                                                                                                                                               | Invite         |
-| :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-| Jan 29 | **Research Data Management basics** <br/> We will discuss the importance of proper RDM in academia, the benefits it brings, and the common and best practices for managing your research data.                                                                                                                                                                                                                           | Following soon |
-| Feb 26 | **Research Archival Package Solution (RAPS) - preservation of data underlying scientific publications** <br/> Curious about how to safeguard your research data for long-term? Meet RAPS: TU/e’s new solution designed to help researchers preserve the data underlying their scientific publications with ease and security. In this session, we’ll explore what RAPS is, who it’s for, and how you can start using it. | Following soon |
-| Mar 26 | **Data Management Plans and why every project needs one** <br/> DMPs are often required by funders, but they are more than just paperwork. How can a DMP help you stay organized, and what does it include? Let's find out in this session.                                                                                                                                                                              | Following soon |
-| Apr 30 | **Privacy, Security and Ethics in Research Projects** <br/> Privacy and Ethics matter in all research, with or without human data. In this session, we'll cover how to protect data and follow TU/e's ethics and privacy guidelines, with the use of Research Cockpit.                                                                                                                                                   | Following soon |
-| May 28 | **Publication of data** <br/> Abstract following soon                                                                                                                                                                                                                                                                                                                                                                    | Following soon |
+|  Date  | Session title and abstract                                                                                                                                                                                                                                                                                                                                                                                   | Invite         |
+| :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| Jan 29 | **Research Data Management basics** <br/> We will discuss the importance of proper RDM in academia, the benefits it brings, and the common and best practices for managing your research data.                                                                                                                                                                                                               | Following soon |
+| Feb 26 | **Research Archival Package Solution (RAPS) - preservation of data underlying scientific papers** <br/> Curious about how to safeguard your research data for long-term? Meet RAPS: TU/e’s new solution designed to help researchers preserve the data underlying their scientific papers with ease and security. In this session, we’ll explore what RAPS is, who it’s for, and how you can start using it. | Following soon |
+| Mar 26 | **Data Management Plans and why every project needs one** <br/> DMPs are often required by funders, but they are more than just paperwork. How can a DMP help you stay organized, and what does it include? Let's find out in this session.                                                                                                                                                                  | Following soon |
+| Apr 30 | **Privacy, Security and Ethics in Research Projects** <br/> Privacy and Ethics matter in all research, with or without human data. In this session, we'll cover how to protect data and follow TU/e's ethics and privacy guidelines, with the use of Research Cockpit.                                                                                                                                       | Following soon |
+| May 28 | **How to create a data package** <br/> Whether you aim to share, publish, or archive your data,                                                                                                                                                                                                                                                                                                              |
+
+creating a comprehensive data package is essential. Join
+us for this session to discover the essential elements that
+should be included in every data package. | Following soon |
 
 ## Previous sessions
 

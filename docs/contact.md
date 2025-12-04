@@ -9,13 +9,13 @@ The data stewards of TU/e Research Data Management can be contacted via rdmsuppo
 ## Data Stewards
 
 - Angela Aleksovska (a.aleksovska@tue.nl)
+- Richard Dennis (r.dennis@tue.nl)
 - Lucia Forrová (l.forrova@tue.nl)
 - Jonathan Gerona (j.gerona@tue.nl)
 - Jayakrishnan H R Nair (h.r.nair@tue.nl)
 - Davide Nardi (d.nardi@tue.nl)
 - Neda Norouzi (n.norouzi1@tue.nl)
 - Liz Guzman Ramirez (l.guzman.ramirez@tue.nl)
-- Richard Dennis (r.dennis@tue.nl)
 - Nami Sunami (n.sunami@tue.nl)
 
 ## By Department

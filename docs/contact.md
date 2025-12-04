@@ -15,6 +15,7 @@ The data stewards of TU/e Research Data Management can be contacted via rdmsuppo
 - Jonathan Gerona (j.gerona@tue.nl)
 - Neda Norouzi (n.norouzi1@tue.nl)
 - Liz Guzman Ramirez (l.guzman.ramirez@tue.nl)
+- Richard Dennis (r.dennis@tue.nl)
 - Nami Sunami (n.sunami@tue.nl)
 
 ## By Department
@@ -29,4 +30,4 @@ The data stewards of TU/e Research Data Management can be contacted via rdmsuppo
 | Industrial Design                                | Jonathan Gerona       |
 | Industrial Engineering &amp; Innovation Sciences | Jayakrishnan H R Nair |
 | Mathematics and Computer Science                 | Davide Nardi          |
-| Mechanical Engineering                           | Neda Norouzi          |
+| Mechanical Engineering                           | Richard Dennis        |

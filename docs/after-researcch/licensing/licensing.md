@@ -43,20 +43,16 @@ To select a license, you can use [**this tool**](https://choosealicense.com/), 
 
 ## FAQ
 
-### Licenses
-
-**Which creative commons license should I use for my dataset?**  
+### Which creative commons license should I use for my dataset?  
 You should select a license that allows access to your data by as many people as possible, with the fewest restrictions. See our page on [data storage and sharing](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing) for more information. If you need help choosing a license, please [contact us](/docs/contact.md).
 
-### Software licenses
-
-**Are Creative Commons (CC) licenses suitable for software?**  
+### Are Creative Commons (CC) licenses suitable for software?
 No, CC licenses are not suited for software licensing.
 
-**Which license should I use for my research software code?**  
+### Which license should I use for my research software code?
 Consider a GPL-compatible license or a BSD-like/MIT license. You can find more information in the [Software](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/research-software) section.
 
-**I wrote a piece of software code for my research. Am I the owner of this code?**  
+### I wrote a piece of software code for my research. Am I the owner of this code?
 TU/e is working on guidelines on this. If you have any questions regarding the IP-rights you can contact [The Gate](https://www.tue.nl/en/impact/the-gate).
 
 ## Tools and Further Reading

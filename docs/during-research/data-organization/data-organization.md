@@ -2,11 +2,15 @@
 sidebar_position: 1
 ---
 
-# Data Organization
+# Data Organization & Formats
+
+## Data Organization
 
 Proper data organization will enable you and others to find the correct version of the correct dataset quickly and easily. **Consistent and clear file naming**, **a logically arranged set of folders for storing data files** and **consistent version management** will all be helpful.
 
-## File naming
+Note that, apart from keeping your file naming, folder structure and version management up-to-date, it is important to implement measures to prevent loss of your work. To that end, make sure to make regular backups, especially if you are dealing with dynamic or important data. Depending on the [storage solution](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing), an automatic back-up may be available.
+
+### File naming
 
 Systematic file names will help you identify the correct datasets without having to open them. Good file names are:
 
@@ -16,7 +20,7 @@ Systematic file names will help you identify the correct datasets without having
 
 The sequence of elements of which a file name is composed (e.g. subject/content description, date, version, file type, project number, research team) is relevant if you wish to sort your data files in any specific order. Compile a README file explaining the meaning of the file names, and keep it with your files and update it regularly.
 
-## Good practices for file naming
+Good practices for file naming:
 
 - Do not use special characters (e.g., ~!@#$%^&\*:?). Most software does not accept these in filenames.
 - Use filenames that are independent of folder names.
@@ -28,11 +32,11 @@ The sequence of elements of which a file name is composed (e.g. subject/content 
   - Camel case, e.g. NameOfFile
   - Dashes, e.g. name-of-file
 
-## FOLDER STRUCTURE
+### Folder structure
 
 Not only are good file names important for quick and easy data file identification, so is a clear folder structure. Think of how you are going to arrange your research data (and other research-related documents) in folders and subfolders right from the start of your project. An arrangement in 3-4 layers will usually do. Try to avoid more layers. Ways to arrange your data files into folders may be by file type, method (e.g. interview, survey, experiment, observation) or type of material (e.g. data, documentation, publications). It is beneficial to capture your chosen folder structure in a README file or in a diagram for a visual representation.
 
-## Good practices for folder structure
+Good practices for folder structure:
 
 - Your folder structure must still make sense to you when you return from holiday. It should also make sense to your colleagues and should be machine-operable.
 - A simple folder structure on a Windows machine could look like something like this:
@@ -68,21 +72,17 @@ projectName
   - **/temp** is where you can save temporary or intermediate files.
 - Use relative path names in your code or define your paths at the top of the script. This will make it easier for someone else to use your code.
 
-## Version Management
+### Version Management
 
 While clear file naming and folder structure can be sufficient in version management, more complex studies (e.g. many documents, data and code) can require more sophisticated version management. For example, when you are **working with many collaborators** on a project, it can be difficult to keep track of the latest version, or to work on a document simultaneously. Solutions, such as using Git for version management, can be useful for these projects. Moreover, separate ongoing and complete work: identify milestone or master versions which cannot be altered or deleted and thus decide which versions to keep, for how long and how to organize them.
 
-_**Good practices for version management**_
+Good practices for version management:
 
 - Remove non-relevant versions.
 - Work with easy to manage number versions.
 - Keep working versions separately from master versions.
 - Make a table with all changes per version described.
 - Use Git.
-
-## Disaster Prevention
-
-Apart from keeping your file naming, folder structure and version management up-to-date, it is important to implement measures to prevent loss of your work. To that end, make sure to make regular backups, especially if you are dealing with dynamic or important data. Depending on the [storage solution](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing), an automatic back-up may be available.
 
 ## Data Formats
 

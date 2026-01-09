@@ -88,8 +88,8 @@ Good practices for version management:
 
 Research data comes in many formats. Whether data can be reused – now and in the future – also depends on the format of the data and the software required to read it. Here are some recommendations that help to make your data sustainable, usable and accessible by others for the long term:
 
-- Use a **standardized file format** that can be opened with open source software. The file format should be well documented and the documentation should be openly available. Examples are: .txt (unicode), .csv, .xml, .json, .zip. [Here](https://dans.knaw.nl/en/file-formats/) you can find a list of preferred formats that the Data Archiving and Networked Services (DANS) recommends.
-- Use a format that is **future-proof**. Give preference to **simple** over complex formats. For example, the (unicode) .txt format has a simple format for storing text, while a .docx file has more complex properties.
+- Use a **standardized file format** that can be opened with open source software. The file format should be well documented and the documentation should be openly available. Examples are: <code>.txt</code> (unicode), <code>.csv</code>, <code>.xml</code>, <code>.json</code>, <code>.zip</code>. [Here](https://dans.knaw.nl/en/file-formats/) you can find a list of preferred formats that the Data Archiving and Networked Services (DANS) recommends.
+- Use a format that is **future-proof**. Give preference to **simple** over complex formats. For example, the (unicode) <code>.txt</code> format has a simple format for storing text, while a <code>.docx</code> file has more complex properties.
 - If no open data format is available for your data type, use the closed data format that is **most commonly used**.
 - If an open file format lacks functions that are specific to their closed variant, it may be useful to store the data in **both data formats**: the open data format and the closed commercial file format.
 - Use **unencrypted** and **uncompressed** (or lossless compressed) formats.
@@ -101,8 +101,8 @@ Find in the table below preferred file formats and formats that are not suitable
 
 The preferred formats best guarantees long-term sustainability and accessibility based on three criteria:
 
-- frequently used in the research field;
-- have open specifications;
+- frequently used in the research field.
+- have open specifications.
 - are independent of specific software, developers or vendors when possible.
 
 | Data type                                            | Preferred formats                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Formats not recommended                                                                                                                                                                                     |

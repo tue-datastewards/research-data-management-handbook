@@ -8,17 +8,17 @@ External trainings and other resources that can deepen your knowledge in Researc
 
 ## ETH Zurich RDM Summer School materials
 
-Presentation slides of the comprehensive [ETH Research Data Management Summer School] (https://unlimited.ethz.ch/spaces/DD/pages/194128041/ETH+RDM+Summer+School+Material).
+Presentation slides of the comprehensive [ETH Research Data Management Summer School](https://unlimited.ethz.ch/spaces/DD/pages/194128041/ETH+RDM+Summer+School+Material).
 
-## Research Data Management e-learning course (for researchers)
+## RDM e-learning course (for researchers)
 
 [E-learning ourse](https://www.deic.dk/en/data-management/get-started/guides/research-data-management-rdm-elearning-course) developed by the Danish universities and aimed at PhD students, researchers and research support staff, consisting of 3 video modules open to all.
 
-## Research Data Management for students
+## RDM for students
 
-Introductory [e-learning course](https://absalon.ku.dk/courses/58268) Research Data Management designed specifically for bachelor and master students at the University of Copenhagen eager to develop their skills when handling data in their bachelor or master projects.
+Introductory [e-learning course](https://absalon.ku.dk/courses/58268) on Research Data Management designed specifically for bachelor and master students at the University of Copenhagen eager to develop their skills when handling data in their bachelor or master projects.
 
-## Research Data Management and Open Science guidance and training materials
+## RDM and Open Science guidance and training materials
 
 Useful [video resources](https://www.aalto.fi/en/services/research-data-management-rdm-and-open-science) from the Aalto University.
 

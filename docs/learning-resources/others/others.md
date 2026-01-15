@@ -24,7 +24,7 @@ Introductory [e-learning course](https://absalon.ku.dk/courses/58268) on Researc
 
 ## RDM and Open Science guidance and training materials
 
-Useful [video resources](https://www.aalto.fi/en/services/research-data-management-rdm-and-open-science) from the Aalto University.
+Useful [videos](https://www.youtube.com/@aaltoresearchservices) and [other resources](https://www.aalto.fi/en/services/research-data-management-rdm-and-open-science) from the Aalto University.
 
 ## **Online RDM and related courses**
 

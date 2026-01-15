@@ -6,6 +6,10 @@ sidebar_position: 4
 
 External trainings and other resources that can deepen your knowledge in Research Data Management:
 
+## RDM 101 e-learning course
+
+Content of the TU Delft course for PhD candidates, [Research Data Management 101 (RDM 101)](https://tu-delft-library.github.io/rdm101-book/intro.html) openly available and as a self-learning course.
+
 ## ETH Zurich RDM Summer School materials
 
 Presentation slides of the comprehensive [ETH Research Data Management Summer School](https://unlimited.ethz.ch/spaces/DD/pages/194128041/ETH+RDM+Summer+School+Material).

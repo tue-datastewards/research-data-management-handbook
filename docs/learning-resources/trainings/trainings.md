@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Internal trainings
+# Internal Trainings
 
 Overview of internal trainings on RDM and related topics.
 
@@ -17,4 +17,3 @@ This course, designed for PhDs and PDocs, highlights the main developments and t
 ## Privacy Canvas course
 
 The _Privacy - The Basics_ course will teach you about the basics of privacy at the TU/e. This course is available for every employee with or without any prior knowledge about privacy. Check the [TU/e intranet page](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/New-Privacy-E-learning-Course--Privacy-%E2%80%93-The-Basics.aspx) for more information.
-

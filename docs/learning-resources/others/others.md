@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Other resources
+# External Resources
 
 ## **Online RDM and related courses**
 
@@ -10,5 +10,4 @@ Check the [Research Data Netherlands (RDNL) website](https://researchdata.nl) fo
 
 ## 4TU learning materials
 
-Useful [learning resource](https://oit.tudelft.nl/FAIR4TU_Submission_Help/main/intro.html) including [screencasts](https://oit.tudelft.nl/FAIR4TU_Submission_Help/main/software_deposit_features/git_integration.html) about the 4TU.ResearchData repository.  
-
+Useful [learning resource](https://oit.tudelft.nl/FAIR4TU_Submission_Help/main/intro.html) including [screencasts](https://oit.tudelft.nl/FAIR4TU_Submission_Help/main/software_deposit_features/git_integration.html) about the 4TU.ResearchData repository.

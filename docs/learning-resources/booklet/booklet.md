@@ -2,12 +2,11 @@
 sidebar_position: 4
 ---
 
-# RDM booklet
+# RDM Booklet
 
-The printed material titled *Data Stewards Team Introduction to Research Data Management*, or RDM booklet for short, was created with the goal of providing a new researcher at TU/e with the basic knowlegde on this subject. 
+The printed material titled _Data Stewards Team Introduction to Research Data Management_, or RDM booklet for short, was created with the goal of providing a new researcher at TU/e with the basic knowlegde on this subject.
 
 Get a copy with your department's [data steward](/docs/contact.md) or access the PDF version online via the DOI [10.5281/zenodo.15736839](https://doi.org/10.5281/zenodo.15736839).
-
 
 ## Useful resources
 
@@ -29,11 +28,10 @@ Throughout the booklet, several resources are mentioned. Here you find a curated
 
 ### Research infrastructure
 
-- Platform for managing research project related processes and IT resources / [Research Cockpit](https://cockpit.research.tue.nl/servicedesk/customer/portals) 
+- Platform for managing research project related processes and IT resources / [Research Cockpit](https://cockpit.research.tue.nl/servicedesk/customer/portals)
 - Storage and other solutions catalog / [PAR Solution Searcher](https://storagefinder.tue.nl)
-- Archive / [RAPS](https://cockpit.research.tue.nl/servicedesk/customer/portal/7/article/2723872789) 
-- Data safe haven / [myDRE](https://cockpit.research.tue.nl/servicedesk/customer/portal/16) 
+- Archive / [RAPS](https://cockpit.research.tue.nl/servicedesk/customer/portal/7/article/2723872789)
+- Data safe haven / [myDRE](https://cockpit.research.tue.nl/servicedesk/customer/portal/16)
 - Client-side encryption tool/ [Cryptomator Hub](https://cockpit.research.tue.nl/servicedesk/customer/portal/11)
 - Data repository / [4TU.ResearchData](https://data.4tu.nl)
 - Code repository / [GitLab](https://gitlab.tue.nl/users/sign_in)
-

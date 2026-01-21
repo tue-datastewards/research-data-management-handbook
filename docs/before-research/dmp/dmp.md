@@ -52,7 +52,7 @@ If you need help with writing your DMP, please [contact us](/docs/contact.md).
 
 ### Does TU/e have a policy for research data management?
 
-No, TU/e is still working on this.
+Yes, TU/e has a [Research Data Management Framework Policy](https://zenodo.org/records/15309047) since September 2025.
 
 ### Is there a template for filling out a data management plan?
 

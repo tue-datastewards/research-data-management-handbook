@@ -30,7 +30,7 @@ Introductory [e-learning course](https://absalon.ku.dk/courses/58268) on Researc
 
 Useful [videos](https://www.youtube.com/@aaltoresearchservices) and [other resources](https://www.aalto.fi/en/services/research-data-management-rdm-and-open-science) from the Aalto University.
 
-## **Online RDM and related courses**
+## Online RDM and related courses
 
 Check the [Research Data Netherlands (RDNL) website](https://researchdata.nl) for more in-depth trainings such as the [Essentials 4 Data Support](https://researchdata.nl/en/services/cursus/) and the [GDPR 4 Data Support](https://researchdata.nl/en/gdpr-4-data-support-staff/) online modules.
 

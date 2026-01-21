@@ -6,6 +6,10 @@ sidebar_position: 4
 
 External trainings and other resources that can deepen your knowledge in Research Data Management:
 
+## Introduction to RDM e-learning course
+
+[E-learning course](https://maken.wikiwijs.nl/218766/Introduction_to_Research_Data_Management#!page-8376212) from the Vrije Universiteit Amsterdam.
+
 ## RDM 101 e-learning course
 
 Content of the TU Delft course for PhD candidates [Research Data Management 101 (RDM 101)](https://tu-delft-library.github.io/rdm101-book/intro.html) is openly available as a self-learning course.
@@ -26,7 +30,7 @@ Introductory [e-learning course](https://absalon.ku.dk/courses/58268) on Researc
 
 Useful [videos](https://www.youtube.com/@aaltoresearchservices) and [other resources](https://www.aalto.fi/en/services/research-data-management-rdm-and-open-science) from the Aalto University.
 
-## **Online RDM and related courses**
+## Online RDM and related courses
 
 Check the [Research Data Netherlands (RDNL) website](https://researchdata.nl) for more in-depth trainings such as the [Essentials 4 Data Support](https://researchdata.nl/en/services/cursus/) and the [GDPR 4 Data Support](https://researchdata.nl/en/gdpr-4-data-support-staff/) online modules.
 

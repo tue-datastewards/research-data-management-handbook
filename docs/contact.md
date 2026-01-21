@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Contact us
+# Contact Us
 
 The data stewards of TU/e Research Data Management can be contacted via rdmsupport@tue.nl or via the contact details below:
 

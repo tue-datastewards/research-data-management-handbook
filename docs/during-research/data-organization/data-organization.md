@@ -14,9 +14,9 @@ Note that, apart from keeping your file naming, folder structure and version man
 
 Systematic file names will help you identify the correct datasets without having to open them. Good file names are:
 
-- **Consistent** (based on file naming conventions)
-- **Distinctive** (distinguishing between various file versions and files with similar subjects)
-- **Indicative** (meaningful)
+- **Consistent:** based on file naming conventions
+- **Distinctive:** distinguishing between various file versions and files with similar subjects
+- **Indicative:** meaningful
 
 The sequence of elements of which a file name is composed (e.g. subject/content description, date, version, file type, project number, research team) is relevant if you wish to sort your data files in any specific order. Compile a README file explaining the meaning of the file names, and keep it with your files and update it regularly.
 
@@ -32,9 +32,13 @@ Good practices for file naming:
   - Camel case, e.g. NameOfFile
   - Dashes, e.g. name-of-file
 
+:::tip
+Establish a naming convention when working with collaborators and record it in your Data Management Plan
+:::
+
 ### Folder structure
 
-Not only are good file names important for quick and easy data file identification, so is a clear folder structure. Think of how you are going to arrange your research data (and other research-related documents) in folders and subfolders right from the start of your project. An arrangement in 3-4 layers will usually do. Try to avoid more layers. Ways to arrange your data files into folders may be by file type, method (e.g. interview, survey, experiment, observation) or type of material (e.g. data, documentation, publications). It is beneficial to capture your chosen folder structure in a README file or in a diagram for a visual representation.
+Not only are good file names important for quick and easy data file identification, so is a clear folder structure. Think of how you are going to arrange your research data (and other research-related documents) in folders and subfolders right from the start of your project. An arrangement in 3 layers will usually do. Try to avoid more layers. Ways to arrange your data files into folders may be by file type, method (e.g. interview, survey, experiment, observation) or type of material (e.g. data, documentation, publications). It is beneficial to capture your chosen folder structure in a README file or in a diagram for a visual representation.
 
 Good practices for folder structure:
 
@@ -43,7 +47,8 @@ Good practices for folder structure:
 
 ```
 projectName
-├── data
+├── README.txt
+├── rawData
 │   └── myData.csv
 ├── processing
 │   ├── importableDatafiles
@@ -64,7 +69,8 @@ projectName
 ```
 
 - Explanation:
-  - **/data** contains the input data. The content of this folder should remain untouched.
+  - **README** includes an overview of the files in the folder.
+  - **/rawData** contains the input data. The content of this folder should remain untouched.
   - **/importableDatafiles** contains a working copy of the original data.
   - **/code** contains the code files.
   - **/output** contains the final output files that provide content for your paper. Consider creating a new subfolder for your figures.

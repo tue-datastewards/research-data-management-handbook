@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# FAIR data
+# FAIR Principles
 
 The [**FAIR principles**](https://www.go-fair.org/fair-principles/) are the standard for responsible data management and practicing open science. They focus on ensuring that research data are reusable, will actually be reused and will become as valuable as possible. FAIR is not only aimed at human beings but puts emphasis on enhancing the ability of machines to automatically find and use the data. FAIR stands for:
 

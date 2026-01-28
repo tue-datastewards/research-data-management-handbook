@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Data Storage and Sharing
+# Data Storage & Sharing
 
 Adopting good practices in storing and sharing your research data can save a lot of time in finding and interpreting, but also securing your data. There are various ways to store and share your research data safely as your project progresses, along with other means to ensure data security.
 

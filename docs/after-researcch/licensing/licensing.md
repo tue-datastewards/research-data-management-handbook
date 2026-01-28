@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Licensing
+# Data & Software Licensing
 
 ## Data Licensing
 

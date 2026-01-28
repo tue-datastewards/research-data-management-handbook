@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Documentation and Metadata
+# Documentation & Metadata
 
 ## Documentation
 
@@ -39,12 +39,10 @@ Example of the generic metadata scheme:
 - Name: Title of data set
 
 - Authors:
-
   - Pete Johnson
   - Jane Doe
 
 - Keywords:
-
   - KeyWord1
   - KeyWord2
   - KeyWord3
@@ -70,25 +68,6 @@ Example of the generic metadata scheme:
 A generally accepted minimum standard for describing information on the web, including research data, is Dublin Core. Further information on this metadata standard is available at: [**Dublin core**](https://dublincore.org/).
 
 For more information on disciplinary metadata standards see also [**Digital Curation Centre**](https://www.dcc.ac.uk/guidance/standards/metadata) and the Metadata Directory that has been set up under the auspices of the Research Data Alliance: [**RDA Metadata Directory**](https://rdamsc.bath.ac.uk/subject-index). A curated resource on data and metadata standards, inter-related to databases and data policies can be found at [**FAIRsharing**](https://fairsharing.org/).
-
-## Data Package
-
-To make your research sustainable, facilitate reuse of data and allow replication of a study, a **data package** should be made. The information in the data package should correspond to the information in the article that reports the results. Other researchers should be able to replicate your study independently and solely based on this information. The information should be concise yet as complete as possible.
-
-Your data package should include the following:
-
-- A **README** or **instruction** file which lists the files inside the package and explains their relation and includes a step-by-step instruction on how to use the files to replicate the study.
-- **Raw data files**. If your study is based on a portion of the original dataset, include only the necessary data. Make sure to include de-identified data in your data package and omit [personal and sensitive data](/docs/privacy/privacy/privacy.md).
-- **Processed data files**. In many cases, the raw data will be transformed to a processed format that is suitable for further analysis.
-- A **data appendix/codebook** which provides information about every variable in your dataset (e.g. variable name, value labels, the type and format of the variable).
-- **Command files/syntax** which includes code scripts that were used to transform the raw data into processed data and code scripts which were used to analyze the data and produce the results. The code should be accompanied by (inline) comments or other instructions needed for others to replicate your study. You should not include information or code in the package that you are not allowed to share (e.g. licensed software).
-- **Protocols** which were used during the study, for instance about the performed experiments.
-- **Lab journals.**
-- **A reference to any publication** which is based on the data.
-- **[License information](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/research-software)** which specifies the terms under which the data can be used, modified and distributed.
-- Other metadata, for example the parameters used in your study.
-
-A good yet sometimes daunting way to test the completeness of your data package is to check if you would be able to replicate your study yourself with only the information in the package.
 
 ## Electronic Lab Notebook
 

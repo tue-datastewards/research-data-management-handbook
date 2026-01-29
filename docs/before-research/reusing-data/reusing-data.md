@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# (Re)use of existing data
+# Data Reuse
 
 Instead of acquiring new data, it might be more efficient to reuse existing data. This may be data collected by others but also data you collected previously. Reusing research data offers numerous benefits to both individual researchers and the broader scientific community. In general, reusing research data is a practice that benefits researchers by saving time and resources, reducing data redundancy, improving the rigor of research through validation and reproducibility, enabling comparative and interdisciplinary studies, and promoting a collaborative scientific culture and knowledge exchange. Reusing existing data can sometimes be more ethically sound than collecting new data, especially when dealing with sensitive topics or vulnerable populations. It reduces the need to subject participants to additional data collection processes.
 

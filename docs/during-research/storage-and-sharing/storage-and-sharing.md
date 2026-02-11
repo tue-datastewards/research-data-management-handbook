@@ -51,7 +51,7 @@ If you would like to send a data package to internal or external parties without
 - Do not open e-mails and attachments from unknown senders.
 - Never store sensitive data on portable USB devices.
 - If you don’t trust what you see on your notebook, immediately shut down the notebook, disconnect the network and call Information Management & Services (+31 40 247 2000) - A full shutdown of a notebook requires pressing and holding the power key for a minimum of 20 seconds.
-- If devices or data are lost or stolen, please contact the Computer Emergency Response Team ([**cert@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing) / +31 40 247 5678) as quickly as possible and within 24 hours if personal data are involved.
+- If devices or data are lost or stolen, please contact the Computer Emergency Response Team ([cert@tue.nl](mailto:cert@tue.nl) / +31 40 247 5678) as quickly as possible and within 24 hours if personal data are involved.
 
 ## FAQ
 

@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Proper data organization will enable you and others to find the correct version of the correct dataset quickly and easily. **Consistent and clear file naming**, **a logically arranged set of folders for storing data files** and **consistent version management** will all be helpful.
 
-Note that, apart from keeping your file naming, folder structure and version management up-to-date, it is important to implement measures to prevent loss of your work. To that end, make sure to make regular backups, especially if you are dealing with dynamic or important data. Depending on the [storage solution](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing), an automatic back-up may be available.
+Note that, apart from keeping your file naming, folder structure and version management up-to-date, it is important to implement measures to prevent loss of your work. To that end, make sure to make regular backups, especially if you are dealing with dynamic or important data. Depending on the [storage solution](/docs/during-research/storage-and-sharing/), an automatic back-up may be available.
 
 ### File naming
 

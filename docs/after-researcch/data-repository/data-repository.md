@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Data Repository
 
-If you wish to make your data openly available, increase the visibility of your research, make your data FAIR, and comply with [**funder requirements**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/funder-requirements), you may consider to publish your data in a data repository. Data repositories contribute to the openness, transparency, and reproducibility of research by providing a standardized and accessible way to share and store data, fostering a more interconnected and impactful scientific community.
+If you wish to make your data openly available, increase the visibility of your research, make your data FAIR, and comply with [funder requirements](/docs/before-research/funder-requirements), you may consider to publish your data in a data repository. Data repositories contribute to the openness, transparency, and reproducibility of research by providing a standardized and accessible way to share and store data, fostering a more interconnected and impactful scientific community.
 
 Benefits of using data repository:
 

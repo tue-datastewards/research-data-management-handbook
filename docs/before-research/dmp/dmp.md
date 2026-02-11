@@ -10,7 +10,7 @@ Data Management Plans are essential tools for promoting best practices in resear
 
 A DMP is a **living document**: you write it before a research project starts and keep updating it throughout the research project. You may not know all the answers at the beginning, and circumstances may change. The data management plan must be updated during the course of the project if there are significant changes, such as: new data, changes in the guidelines of the consortium (e.g. new innovation potential, decision for patent application) or changes in the composition of the consortium (e.g. entry of new consortium members or departure of old members).
 
-You can find the policies and conditions of several important research funders and links to DPM templates [**here**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/funder-requirements).
+You can find the policies and conditions of several important research funders and links to DPM templates on the [Funder Requirements page](/docs/before-research/funder-requirements).
 
 A typical Data Management Plan includes the following key elements:
 

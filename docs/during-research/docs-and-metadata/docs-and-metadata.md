@@ -16,7 +16,7 @@ _How to keep project documentation_
 - Regardless of whether a dataset is described in a published article or not, you should consider what documentation future users of your data require to understand and reuse this data.
 - It is best to write and regularly update the documentation during a research project.
 - You can keep your documentation in a README file which explains to re-users what they should know about the data and how they can use the data. This will also help your future you to understand what you have done and how you have done it.
-- When sharing [**research software**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/research-software), comprehensive documentation is crucial to ensure that users can understand, utilize, and contribute to the software effectively. Especially useful is including inline comments to explain lines of code and complex algorithms within your codebase.
+- When sharing [**research software**](/docs/during-research/research-software/), comprehensive documentation is crucial to ensure that users can understand, utilize, and contribute to the software effectively. Especially useful is including inline comments to explain lines of code and complex algorithms within your codebase.
 
 Compared to metadata, documentation is more specifically aimed at the human user and not necessarily machine-readable.
 

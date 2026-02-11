@@ -65,7 +65,7 @@ Example of the generic metadata scheme:
 
 - Correspondence: j.doe@tue.nl
 
-[**Repositories**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-preservation) such as 4TU.Research Data and Data Archiving and Networked Services (DANS-EASY) use the DataCite Metadata Schema. This is a generic metadata standard that provides a list of core metadata properties for an accurate and consistent identification of data so that your data can easily be cited and retrieved. When you deposit your data in these two repositories, you will be asked to provide this type of metadata.
+[**Repositories**](/docs/after-researcch/data-repository/) such as 4TU.Research Data and Data Archiving and Networked Services (DANS-EASY) use the DataCite Metadata Schema. This is a generic metadata standard that provides a list of core metadata properties for an accurate and consistent identification of data so that your data can easily be cited and retrieved. When you deposit your data in these two repositories, you will be asked to provide this type of metadata.
 
 A generally accepted minimum standard for describing information on the web, including research data, is Dublin Core. Further information on this metadata standard is available at: [**Dublin core**](https://dublincore.org/).
 

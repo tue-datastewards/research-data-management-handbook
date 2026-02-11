@@ -63,7 +63,7 @@ Deciding which research data to archive involves careful evaluation of different
 
 **Use Data Repositories**
 
-- Choose reputable [**data repositories**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-preservation) that align with your field of research and offer appropriate metadata and access options.
+- Choose reputable [**data repositories**](/docs/after-researcch/data-repository) that align with your field of research and offer appropriate metadata and access options.
 
 **Review and Update**
 

@@ -57,7 +57,7 @@ More information can be found [**here**](https://ec.europa.eu/info/funding-tende
 ## FAQ
 
 **Does NWO require me to make the research software code available to others?**  
-Yes, if the [research code](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/research-software) is needed to access and process the data or if the research software code is the outcome of your research. If you cannot make your software available, you must explain this in your [data management plan](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan).
+Yes, if the [research code](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/research-software) is needed to access and process the data or if the research software code is the outcome of your research. If you cannot make your software available, you must explain this in your [data management plan](/docs/before-research/dmp).
 
 **What should I do to comply with my funder’s data management requirements?**  
-That depends on the funder. Often, you need to address data management in your proposal and write a more elaborate [data management plan](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-management-plan) once you have been awarded the funding. Usually, you cannot start your project without approval of the data management plan by the funder.
+That depends on the funder. Often, you need to address data management in your proposal and write a more elaborate [data management plan](/docs/before-research/dmp) once you have been awarded the funding. Usually, you cannot start your project without approval of the data management plan by the funder.

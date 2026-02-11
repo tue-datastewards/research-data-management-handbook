@@ -8,13 +8,13 @@ Adopting good practices in storing and sharing your research data can save a lot
 
 ## Data storage 
 
-Data safety entails protecting data against loss by making regular back-ups of your data, while guaranteeing data security by preventing unauthorized access. Together with appropriate [**data organization**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-organization), such as clear folder structure and adding sufficient [**metadata**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata) to facilitate re-use of your data, there are various ways to warrant research data safety. Main safe storage facilities supported by TU/e are:
+Data safety entails protecting data against loss by making regular back-ups of your data, while guaranteeing data security by preventing unauthorized access. Together with appropriate [**data organization**](/docs/during-research/data-organization), such as clear folder structure and adding [**metadata**](/docs/during-research/docs-and-metadata) to facilitate re-use of your data, there are various ways to warrant research data safety. Main safe storage facilities supported by TU/e are:
 
 [![Where to store my data flowchart](storage-flowchart.jpg)](https://assets.w3.tue.nl/w/fileadmin/LIS/Library/SURFdrive%20-%20Storage%20Flowchartv2.pdf)
 
 - **TU/e Network drives** **(Primary research storage solution)**
 
-  Departments and research groups can request their collective group folders which staff members have access to. These folders can be used for sharing research data with other TU/e researchers. Network drives are suitable for the storage of regular and special category of personal data as well as any type of confidential data. Data on TU/e network drives are backed up daily and copies (snapshots) are retained for 30 days. For further information or requests, please contact LIS ([lisservices@remove-this.tue.nl](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing#)).
+  Departments and research groups can request their collective group folders which staff members have access to. These folders can be used for sharing research data with other TU/e researchers. Network drives are suitable for the storage of regular and special category of personal data as well as any type of confidential data. Data on TU/e network drives are backed up daily and copies (snapshots) are retained for 30 days. You can request TU/e Network Drive via the [Topdesk Form, Request/change TU/e Network Drive](https://tue.topdesk.net/tas/public/ssp/content/serviceflow?unid=a660bced4a574da5afa7ae5e1ccc87ad&openedFromService=true) (TU/e login required).
 
 - **OneDrive (Your own personal TU/e storage)**  
   A cloud storage service for data storage and sharing, hosted by Microsoft. Datasets are stored on servers in Europe. Each TU/e member has access to a personal storage of 1TB space, accessed via TU/e account. Data can be easily shared with other researchers with a Microsoft account, both within and outside TU/e (for collaboration on a project, check Research Drive or Sharepoint options below). Data can also be shared with guest users or external parties via a “share link” functionality. OneDrive can be used to store **[normal personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)**. Contact your [Data Steward](/docs/contact.md) in case you are going to store sensitive or **[special personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)**.
@@ -51,7 +51,7 @@ If you would like to send a data package to internal or external parties without
 - Do not open e-mails and attachments from unknown senders.
 - Never store sensitive data on portable USB devices.
 - If you don’t trust what you see on your notebook, immediately shut down the notebook, disconnect the network and call Information Management & Services (+31 40 247 2000) - A full shutdown of a notebook requires pressing and holding the power key for a minimum of 20 seconds.
-- If devices or data are lost or stolen, please contact the Computer Emergency Response Team ([**cert@tue.nl**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing) / +31 40 247 5678) as quickly as possible and within 24 hours if personal data are involved.
+- If devices or data are lost or stolen, please contact the Computer Emergency Response Team ([cert@tue.nl](mailto:cert@tue.nl) / +31 40 247 5678) as quickly as possible and within 24 hours if personal data are involved.
 
 ## FAQ
 
@@ -62,7 +62,7 @@ You can find information on all storage products supported by TU/e on [PAR Solut
 It is important to store the key file at another location (i.e., using another storage solution or a separate, password-protected/encrypted folder) than the research data.
 
 **What should I do if I need more storage space for my research data?**  
-You can send a request for more storage space to [LIS Services](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing#).
+First, check the storage options offered at TU/e on [Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html). Choose a storage option that suits your needs, and send a request to access or expand storage space.
 
 **How can I share my datasets with my (external) project partners?**  
 You can use Research Drive, Teams / SharePoint, or OneDrive to share access to external collaborators. For one-time transfer of your data, you can use [SURFfilesender](https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted).

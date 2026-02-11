@@ -16,7 +16,7 @@ Throughout the booklet, several resources are mentioned. Here you find a curated
 
 ### RDM support
 
-- [Data stewards' contact per department](contact.md)
+- [Data stewards' contact per department](/docs/contact.md)
 - [Data Stewards Team's Newsletter](https://par.copernica.tue.nl)
 - [TU/e DMP template](https://cockpit.research.tue.nl/servicedesk/customer/portal/3/article/2712272900?source=topic)
 - Videos on RDM (coming soon)

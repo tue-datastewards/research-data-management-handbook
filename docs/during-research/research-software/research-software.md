@@ -8,10 +8,10 @@ sidebar_position: 4
 
 ## FAIR research software
 
-Although not all [**FAIR**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/fair) principles are directly applicable to research software, the philosophy remains the same:
+Although not all [**FAIR**](/docs/before-research/FAIR/) principles are directly applicable to research software, the philosophy remains the same:
 
-- Your software should be findable by publishing it in a publicly accessible repository and assigning it a [**persistent identifier**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-organization) (for each version), for example a citable DOI.
-- Rich [**metadata**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata) should be provided, as well as appropriate [**documentation**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata).
+- Your software should be findable by publishing it in a publicly accessible repository and assigning it a persistent identifier (for each version), for example a citable DOI.
+- [Metadata and documentation](/docs/during-research/docs-and-metadata) should accompany the software
 - Publish your research software in one of the available software repositories to achieve findability, accessibility and reusability. This will also help you manage version control.
 - In order to facilitate machine readability and data exchange, research software and its associated metadata should use a **formal, accessible, shared and broadly applicable language**.
 - Software and its associated metadata are accessible using a **standardized communications protocol** that is open, free and universally implementable.

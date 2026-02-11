@@ -64,7 +64,7 @@ The university has appointed a Data Protection Officer (DPO) as an independent, 
 
 ## What to do in case of a suspected data breach?
 
-If devices or data are lost or stolen please contact the Computer Emergency Response Team ([cert@tue.nl](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/privacy-and-ethics)) as quickly as possible and definitely within 24 hours if personal data is involved. More information can be found [**here**](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/data-breach-report-it.aspx).
+If devices or data are lost or stolen please contact the Computer Emergency Response Team ([cert@tue.nl](mailto:cert@tue.nl)) as quickly as possible and definitely within 24 hours if personal data is involved. More information can be found [**here**](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/data-breach-report-it.aspx).
 
 ## FAQ
 

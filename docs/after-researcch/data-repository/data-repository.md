@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Data Repository
 
-If you wish to make your data openly available, increase the visibility of your research, make your data FAIR, and comply with [**funder requirements**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/funder-requirements), you may consider to publish your data in a data repository. Data repositories contribute to the openness, transparency, and reproducibility of research by providing a standardized and accessible way to share and store data, fostering a more interconnected and impactful scientific community.
+If you wish to make your data openly available, increase the visibility of your research, make your data FAIR, and comply with [funder requirements](/docs/before-research/funder-requirements), you may consider to publish your data in a data repository. Data repositories contribute to the openness, transparency, and reproducibility of research by providing a standardized and accessible way to share and store data, fostering a more interconnected and impactful scientific community.
 
 Benefits of using data repository:
 
@@ -14,7 +14,7 @@ Benefits of using data repository:
 - Promotion and help with adhering to [**FAIR principles**](/docs/before-research/FAIR/FAIR.md)
 - A **persistent identifier** (e.g. **DOI**, Handle) will be assigned to your dataset, which provides a permanent link to the data, making your data findable and citable.
 - Option to choose suitable **[license](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/after-research/licensing)**, providing clarity for the potential user of your data whether and how re-use of your data is permitted (see licenses).
-- The requirement to add appropriate [**metadata**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata) to the data.
+- The requirement to add appropriate [**metadata**](/docs/during-research/docs-and-metadata) to the data.
 
 ## Available Repositories
 

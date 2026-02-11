@@ -16,13 +16,13 @@ _How to keep project documentation_
 - Regardless of whether a dataset is described in a published article or not, you should consider what documentation future users of your data require to understand and reuse this data.
 - It is best to write and regularly update the documentation during a research project.
 - You can keep your documentation in a README file which explains to re-users what they should know about the data and how they can use the data. This will also help your future you to understand what you have done and how you have done it.
-- When sharing [**research software**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/research-software), comprehensive documentation is crucial to ensure that users can understand, utilize, and contribute to the software effectively. Especially useful is including inline comments to explain lines of code and complex algorithms within your codebase.
+- When sharing [**research software**](/docs/during-research/research-software/), comprehensive documentation is crucial to ensure that users can understand, utilize, and contribute to the software effectively. Especially useful is including inline comments to explain lines of code and complex algorithms within your codebase.
 
 Compared to metadata, documentation is more specifically aimed at the human user and not necessarily machine-readable.
 
 ## Metadata
 
-Metadata is **'data about data'**. It refers to descriptive information about a project's documentation and data, making it easier to locate, understand, and manage. Metadata includes attributes such as project title, authors, creation date, keywords, geo location as well as attached licenses. Proper metadata enhances searchability, categorization, and retrieval of project documents and datasets. Metadata is an intrinsic element of the [**FAIR**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/fair) principles because it provides information that enables the (future) user or computer to find the data and understand what the dataset entails. Without metadata, reuse and reproducibility are impossible. Unlike documentation, metadata should be machine-readable.
+Metadata is **'data about data'**. It refers to descriptive information about a project's documentation and data, making it easier to locate, understand, and manage. Metadata includes attributes such as project title, authors, creation date, keywords, geo location as well as attached licenses. Proper metadata enhances searchability, categorization, and retrieval of project documents and datasets. Metadata is an intrinsic element of the [**FAIR**](/docs/before-research/FAIR/) principles because it provides information that enables the (future) user or computer to find the data and understand what the dataset entails. Without metadata, reuse and reproducibility are impossible. Unlike documentation, metadata should be machine-readable.
 
 In short, metadata:
 
@@ -39,10 +39,12 @@ Example of the generic metadata scheme:
 - Name: Title of data set
 
 - Authors:
+
   - Pete Johnson
   - Jane Doe
 
 - Keywords:
+
   - KeyWord1
   - KeyWord2
   - KeyWord3
@@ -63,7 +65,7 @@ Example of the generic metadata scheme:
 
 - Correspondence: j.doe@tue.nl
 
-[**Repositories**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-preservation) such as 4TU.Research Data and Data Archiving and Networked Services (DANS-EASY) use the DataCite Metadata Schema. This is a generic metadata standard that provides a list of core metadata properties for an accurate and consistent identification of data so that your data can easily be cited and retrieved. When you deposit your data in these two repositories, you will be asked to provide this type of metadata.
+[**Repositories**](/docs/after-researcch/data-repository/) such as 4TU.Research Data and Data Archiving and Networked Services (DANS-EASY) use the DataCite Metadata Schema. This is a generic metadata standard that provides a list of core metadata properties for an accurate and consistent identification of data so that your data can easily be cited and retrieved. When you deposit your data in these two repositories, you will be asked to provide this type of metadata.
 
 A generally accepted minimum standard for describing information on the web, including research data, is Dublin Core. Further information on this metadata standard is available at: [**Dublin core**](https://dublincore.org/).
 
@@ -90,13 +92,13 @@ More information can be found in this [**paper**](https://journals.plos.org/plo
 - [Metadata standards provided by the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/standards/)
 - [Metadata standards on FAIRsharing.org](https://fairsharing.org/)
 - [A quick guide for using Microsoft OneNote as an electronic laboratory notebook (PDF)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable)
-- [11 Tricks for using OneNote as your lab notebook (Archived)](https://web.archive.org/web/20240221153200/https://www.ascb.org/web/20240221153200/https://www.ascb.org/careers/11-tricks-for-using-onenote-as-your-lab-notebook/)
+- [11 Tricks for using OneNote as your lab notebook (Archived)](https://web.archive.org/web/20240221153200/https://www.ascb.org/careers/11-tricks-for-using-onenote-as-your-lab-notebook/)
 - [Guidelines provided by 4TU.ResearchData for creating a README file (PDF)](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf)
 
 ## FAQ
 
 **What are metadata?**  
-In short, [metadata](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata) is simply a description of an object (for example, a dataset). Metadata is needed to retrieve a dataset, to make a dataset understandable for others and to indicate the provenance of the dataset. Based on discipline, various metadata standards exist, see [here](https://www.dcc.ac.uk/guidance/standards/metadata).
+In short, [metadata](/docs/during-research/docs-and-metadata) is simply a description of an object (for example, a dataset). Metadata is needed to retrieve a dataset, to make a dataset understandable for others and to indicate the provenance of the dataset. Based on discipline, various metadata standards exist, see [here](https://www.dcc.ac.uk/guidance/standards/metadata).
 
 **Is there a metadata and data structure standard for neuroimaging data (e.g., (f)MRI, EEG, MEG)?**  
 Yes, please visit [this page](https://bids-specification.readthedocs.io/en/stable/02-common-principles.html#examples) for more details.

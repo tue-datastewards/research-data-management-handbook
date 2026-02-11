@@ -10,7 +10,7 @@ Instead of acquiring new data, it might be more efficient to reuse existing data
 
 There are several ways to find existing research data for reuse. Here are some methods and platforms you can explore:
 
-- _Online_ [**_Data Repositories_**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-preservation) _and Data Archives,_ e.g., 4TU.ResearchData, Zenodo, DANS
+- _Online_ [**_Data Repositories_**](/docs/after-researcch/data-repository) _and Data Archives,_ e.g., 4TU.ResearchData, Zenodo, DANS
 
 - _Institutional Repositories_: Many universities and research institutions maintain their own repositories where researchers can deposit and access data related to their fields of study.
 

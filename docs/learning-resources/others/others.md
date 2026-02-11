@@ -32,7 +32,7 @@ Useful [videos](https://www.youtube.com/@aaltoresearchservices) and [other resou
 
 ## Online RDM and related courses
 
-Check the [Research Data Netherlands (RDNL) website](https://researchdata.nl) for more in-depth trainings such as the [Essentials 4 Data Support](https://researchdata.nl/en/services/cursus/) and the [GDPR 4 Data Support](https://researchdata.nl/en/gdpr-4-data-support-staff/) online modules.
+Check the [Research Data Netherlands (RDNL) website](https://researchdata.nl) for more in-depth trainings such as the [Essentials 4 Data Support](https://researchdata.nl/en/essentials-4-data-support/) and the [GDPR 4 Data Support](https://researchdata.nl/en/gdpr-4-data-support/) online modules.
 
 ## 4TU learning materials
 

@@ -62,7 +62,7 @@ You can find information on all storage products supported by TU/e on [PAR Solut
 It is important to store the key file at another location (i.e., using another storage solution or a separate, password-protected/encrypted folder) than the research data.
 
 **What should I do if I need more storage space for my research data?**  
-You can send a request for more storage space to [LIS Services](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing#).
+First, check the storage options offered at TU/e on [Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html). Choose a storage option that suits your needs, and send a request to access or expand storage space.
 
 **How can I share my datasets with my (external) project partners?**  
 You can use Research Drive, Teams / SharePoint, or OneDrive to share access to external collaborators. For one-time transfer of your data, you can use [SURFfilesender](https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted).

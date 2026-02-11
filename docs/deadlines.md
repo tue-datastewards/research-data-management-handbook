@@ -12,7 +12,7 @@ At the proposal stage, you need to write a section on RDM in the application for
 
 ## Data Management Plan
 
-After your proposal has been awarded funding, you should draft the first version of the DMP. In general, DMP needs to be completed within 4-6 months after awarding the project, based on [**funder requirements**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/funder-requirements).
+After your proposal has been awarded funding, you should draft the first version of the DMP. In general, DMP needs to be completed within 4-6 months after awarding the project, based on [**funder requirements**](/docs/before-research/funder-requirements).
 
 A funder-approved DMP is often a requirement to obtain the first round of funding for a research project. Not writing the DMP or a rejected DMP may delay the start of your research project or receiving the funds. The Data Stewards of RDM support can help you by reviewing, co-writing, and/or providing feedback on your DMP.
 

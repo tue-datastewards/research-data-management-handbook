@@ -22,7 +22,7 @@ Compared to metadata, documentation is more specifically aimed at the human user
 
 ## Metadata
 
-Metadata is **'data about data'**. It refers to descriptive information about a project's documentation and data, making it easier to locate, understand, and manage. Metadata includes attributes such as project title, authors, creation date, keywords, geo location as well as attached licenses. Proper metadata enhances searchability, categorization, and retrieval of project documents and datasets. Metadata is an intrinsic element of the [**FAIR**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/fair) principles because it provides information that enables the (future) user or computer to find the data and understand what the dataset entails. Without metadata, reuse and reproducibility are impossible. Unlike documentation, metadata should be machine-readable.
+Metadata is **'data about data'**. It refers to descriptive information about a project's documentation and data, making it easier to locate, understand, and manage. Metadata includes attributes such as project title, authors, creation date, keywords, geo location as well as attached licenses. Proper metadata enhances searchability, categorization, and retrieval of project documents and datasets. Metadata is an intrinsic element of the [**FAIR**](/docs/before-research/FAIR/) principles because it provides information that enables the (future) user or computer to find the data and understand what the dataset entails. Without metadata, reuse and reproducibility are impossible. Unlike documentation, metadata should be machine-readable.
 
 In short, metadata:
 

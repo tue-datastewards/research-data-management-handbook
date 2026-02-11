@@ -8,7 +8,7 @@ Adopting good practices in storing and sharing your research data can save a lot
 
 ## Data storage 
 
-Data safety entails protecting data against loss by making regular back-ups of your data, while guaranteeing data security by preventing unauthorized access. Together with appropriate [**data organization**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-organization), such as clear folder structure and adding [**metadata**](/docs/during-research/docs-and-metadata) to facilitate re-use of your data, there are various ways to warrant research data safety. Main safe storage facilities supported by TU/e are:
+Data safety entails protecting data against loss by making regular back-ups of your data, while guaranteeing data security by preventing unauthorized access. Together with appropriate [**data organization**](/docs/during-research/data-organization), such as clear folder structure and adding [**metadata**](/docs/during-research/docs-and-metadata) to facilitate re-use of your data, there are various ways to warrant research data safety. Main safe storage facilities supported by TU/e are:
 
 [![Where to store my data flowchart](storage-flowchart.jpg)](https://assets.w3.tue.nl/w/fileadmin/LIS/Library/SURFdrive%20-%20Storage%20Flowchartv2.pdf)
 

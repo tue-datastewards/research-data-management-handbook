@@ -14,7 +14,7 @@ Benefits of using data repository:
 - Promotion and help with adhering to [**FAIR principles**](/docs/before-research/FAIR/FAIR.md)
 - A **persistent identifier** (e.g. **DOI**, Handle) will be assigned to your dataset, which provides a permanent link to the data, making your data findable and citable.
 - Option to choose suitable **[license](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/after-research/licensing)**, providing clarity for the potential user of your data whether and how re-use of your data is permitted (see licenses).
-- The requirement to add appropriate [**metadata**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata) to the data.
+- The requirement to add appropriate [**metadata**](/docs/during-research/docs-and-metadata) to the data.
 
 ## Available Repositories
 

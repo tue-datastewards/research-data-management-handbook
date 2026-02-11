@@ -39,10 +39,12 @@ Example of the generic metadata scheme:
 - Name: Title of data set
 
 - Authors:
+
   - Pete Johnson
   - Jane Doe
 
 - Keywords:
+
   - KeyWord1
   - KeyWord2
   - KeyWord3
@@ -96,7 +98,7 @@ More information can be found in this [**paper**](https://journals.plos.org/plo
 ## FAQ
 
 **What are metadata?**  
-In short, [metadata](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata) is simply a description of an object (for example, a dataset). Metadata is needed to retrieve a dataset, to make a dataset understandable for others and to indicate the provenance of the dataset. Based on discipline, various metadata standards exist, see [here](https://www.dcc.ac.uk/guidance/standards/metadata).
+In short, [metadata](/docs/during-research/docs-and-metadata) is simply a description of an object (for example, a dataset). Metadata is needed to retrieve a dataset, to make a dataset understandable for others and to indicate the provenance of the dataset. Based on discipline, various metadata standards exist, see [here](https://www.dcc.ac.uk/guidance/standards/metadata).
 
 **Is there a metadata and data structure standard for neuroimaging data (e.g., (f)MRI, EEG, MEG)?**  
 Yes, please visit [this page](https://bids-specification.readthedocs.io/en/stable/02-common-principles.html#examples) for more details.

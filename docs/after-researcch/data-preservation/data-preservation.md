@@ -31,7 +31,7 @@ Deciding which research data to archive involves careful evaluation of different
 
 **Assess Data Quality and Documentation**
 
-- Ensure that the data are [**well-documented**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/documentation-and-metadata), properly [**organized**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-organization), and adequately described.
+- Ensure that the data are [**well-documented**](/docs/during-research/docs-and-metadata), properly [**organized**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-organization), and adequately described.
 - Include metadata that provide context, methods, variables, and any relevant information for understanding the data.
 
 **Evaluate Reusability and Reproducibility**

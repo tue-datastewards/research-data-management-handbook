@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Proper data organization will enable you and others to find the correct version of the correct dataset quickly and easily. **Consistent and clear file naming**, **a logically arranged set of folders for storing data files** and **consistent version management** will all be helpful.
 
-Note that, apart from keeping your file naming, folder structure and version management up-to-date, it is important to implement measures to prevent loss of your work. To that end, make sure to make regular backups, especially if you are dealing with dynamic or important data. Depending on the [storage solution](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-storage-and-sharing), an automatic back-up may be available.
+Note that, apart from keeping your file naming, folder structure and version management up-to-date, it is important to implement measures to prevent loss of your work. To that end, make sure to make regular backups, especially if you are dealing with dynamic or important data. Depending on the [storage solution](/docs/during-research/storage-and-sharing/), an automatic back-up may be available.
 
 ### File naming
 
@@ -99,7 +99,7 @@ Research data comes in many formats. Whether data can be reused – now and in t
 - If no open data format is available for your data type, use the closed data format that is **most commonly used**.
 - If an open file format lacks functions that are specific to their closed variant, it may be useful to store the data in **both data formats**: the open data format and the closed commercial file format.
 - Use **unencrypted** and **uncompressed** (or lossless compressed) formats.
-- Check the **preferred data formats of the** [repository](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/rdm-themes/data-preservation) of your choice. [Here](https://data.4tu.nl/s/documents/Preferred_File_Formats_2023.pdf) you can find the file formats recommended by 4TU.ResearchData.
+- Check the **preferred data formats of the** [repository](/docs/after-researcch/data-repository) of your choice. 4TU.ResearchData provides a [list of preferred file formats](https://data.4tu.nl/s/documents/Preferred_File_Formats_2023.pdf).
 
 ### Preferred data formats
 

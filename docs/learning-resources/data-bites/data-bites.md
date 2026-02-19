@@ -45,9 +45,9 @@ Each session features a quick 15-minute talk or demo, followed by a 15-minute ch
 
 ### 2026
 
-|  Date  | Session title and abstract                                                                                                                                                                     | Resources                                                                                       |
-| :----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Jan 29 | **Research Data Management basics** <br/> We will discuss the importance of proper RDM in academia, the benefits it brings, and the common and best practices for managing your research data. | [Video](hhttps://zenodo.org/records/18479954) [Slide deck](https://zenodo.org/records/18414589) |
+|  Date  | Session title and abstract                                                                                                                                                                     | Resources                                                                                      |
+| :----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Jan 29 | **Research Data Management basics** <br/> We will discuss the importance of proper RDM in academia, the benefits it brings, and the common and best practices for managing your research data. | [Video](https://zenodo.org/records/18479954) [Slide deck](https://zenodo.org/records/18414589) |
 
 ### 2024 & 2025
 

@@ -1,0 +1,8 @@
+{
+  "label": "Introduction",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Research data should be handled following Research Data Management best practices to ensure the data integrity, accessibility, and reusability. Following these practices throughout the Research Data Lifecycle supports valid and transparent research in aligment with the FAIR principles."
+  }
+}

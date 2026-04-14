@@ -22,7 +22,7 @@ Compared to metadata, documentation is more specifically aimed at the human user
 
 ## Metadata
 
-Metadata is **'data about data'**. It refers to descriptive information about a project's documentation and data, making it easier to locate, understand, and manage. Metadata includes attributes such as project title, authors, creation date, keywords, geo location as well as attached licenses. Proper metadata enhances searchability, categorization, and retrieval of project documents and datasets. Metadata is an intrinsic element of the [**FAIR**](/docs/before-research/FAIR/) principles because it provides information that enables the (future) user or computer to find the data and understand what the dataset entails. Without metadata, reuse and reproducibility are impossible. Unlike documentation, metadata should be machine-readable.
+Metadata is **'data about data'**. It refers to descriptive information about a project's documentation and data, making it easier to locate, understand, and manage. Metadata includes attributes such as project title, authors, creation date, keywords, geo location as well as attached licenses. Proper metadata enhances searchability, categorization, and retrieval of project documents and datasets. Metadata is an intrinsic element of the [**FAIR**](/docs/intro/FAIR/) principles because it provides information that enables the (future) user or computer to find the data and understand what the dataset entails. Without metadata, reuse and reproducibility are impossible. Unlike documentation, metadata should be machine-readable.
 
 In short, metadata:
 
@@ -39,12 +39,10 @@ Example of the generic metadata scheme:
 - Name: Title of data set
 
 - Authors:
-
   - Pete Johnson
   - Jane Doe
 
 - Keywords:
-
   - KeyWord1
   - KeyWord2
   - KeyWord3
@@ -65,7 +63,7 @@ Example of the generic metadata scheme:
 
 - Correspondence: j.doe@tue.nl
 
-[**Repositories**](/docs/after-researcch/data-repository/) such as 4TU.Research Data and Data Archiving and Networked Services (DANS-EASY) use the DataCite Metadata Schema. This is a generic metadata standard that provides a list of core metadata properties for an accurate and consistent identification of data so that your data can easily be cited and retrieved. When you deposit your data in these two repositories, you will be asked to provide this type of metadata.
+[**Repositories**](/docs/after-research/data-repository/) such as 4TU.Research Data and Data Archiving and Networked Services (DANS-EASY) use the DataCite Metadata Schema. This is a generic metadata standard that provides a list of core metadata properties for an accurate and consistent identification of data so that your data can easily be cited and retrieved. When you deposit your data in these two repositories, you will be asked to provide this type of metadata.
 
 A generally accepted minimum standard for describing information on the web, including research data, is Dublin Core. Further information on this metadata standard is available at: [**Dublin core**](https://dublincore.org/).
 

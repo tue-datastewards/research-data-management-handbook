@@ -6,7 +6,7 @@ sidebar_position: 3
 
 A Data Management Plan (DMP) is a formal document that outlines how research data will be collected, organized, documented, stored, preserved, and shared during and after a research project. It is a crucial component of current research practice and is often required by funding agencies as part of grant applications. A funder-approved DMP is often also a requirement to obtain the first round of funding for a research project.
 
-Data Management Plans are essential tools for promoting best practices in research data management, increasing the value of research outputs, and ensuring compliance with funder requirements. A DMP helps you at an early stage to plan how to make your research data [**FAIR**](/docs/before-research/FAIR/FAIR.md) and your research reproducible. It can also help you to comply with data protection laws and protect the [**privacy**](/docs/privacy/privacy/privacy.md) of data subjects. Furthermore, a DMP can increase the impact of your research and make it more efficient.
+Data Management Plans are essential tools for promoting best practices in research data management, increasing the value of research outputs, and ensuring compliance with funder requirements. A DMP helps you at an early stage to plan how to make your research data [**FAIR**](/docs/intro/FAIR/FAIR.md) and your research reproducible. It can also help you to comply with data protection laws and protect the [**privacy**](/docs/privacy/privacy/privacy.md) of data subjects. Furthermore, a DMP can increase the impact of your research and make it more efficient.
 
 A DMP is a **living document**: you write it before a research project starts and keep updating it throughout the research project. You may not know all the answers at the beginning, and circumstances may change. The data management plan must be updated during the course of the project if there are significant changes, such as: new data, changes in the guidelines of the consortium (e.g. new innovation potential, decision for patent application) or changes in the composition of the consortium (e.g. entry of new consortium members or departure of old members).
 
@@ -23,7 +23,7 @@ A typical Data Management Plan includes the following key elements:
 - [**Data Storage and Backup**](../../during-research/storage-and-sharing/)  
   Plans for secure data storage, backup strategies to prevent data loss, and measures to ensure the integrity of the data over time. Generally, simply mentioning that the data will be stored securely and backed up in institutional storage solutions is often sufficient. Additional details become more relevant if you opt for external storage solutions not provided or managed by the TU/e. In such cases, providing further elaboration is necessary.
 
-- [**Data Preservation and Archiving**](../../after-researcch/data-preservation/)  
+- [**Data Preservation and Archiving**](../../after-research/data-preservation/)  
   Here you address a strategy for preserving the research data beyond the project's lifespan, including plans for long-term storage/archiving and potential data dissemination. For long-term data storage, you may consider a data repository if you plan to publicly share your data.
 
 - [**Data Sharing and Accessibility**](../../during-research/storage-and-sharing/)  

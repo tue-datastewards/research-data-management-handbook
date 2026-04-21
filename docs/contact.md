@@ -10,11 +10,11 @@ The data stewards of TU/e Research Data Management can be contacted via rdmsuppo
 
 - Angela Aleksovska (a.aleksovska@tue.nl)
 - Richard Dennis (r.dennis@tue.nl)
-- Lucia Forrová (l.forrova@tue.nl)
 - Jonathan Gerona (j.gerona@tue.nl)
 - Jayakrishnan H R Nair (h.r.nair@tue.nl)
 - Davide Nardi (d.nardi@tue.nl)
 - Neda Norouzi (n.norouzi1@tue.nl)
+- Gouri Patil (g.patil@tue.nl)
 - Liz Guzman Ramirez (l.guzman.ramirez@tue.nl)
 - Nami Sunami (n.sunami@tue.nl)
 
@@ -24,7 +24,7 @@ The data stewards of TU/e Research Data Management can be contacted via rdmsuppo
 | ------------------------------------------------ | --------------------- |
 | Applied Physics and Science Education            | Nami Sunami           |
 | Biomedical Engineering                           | Neda Norouzi          |
-| Built Environment                                | Lucia Forrová         |
+| Built Environment                                | Gouri Patil           |
 | Chemical Engineering &amp; Chemistry             | Nami Sunami           |
 | Electrical Engineering                           | Angela Aleksovska     |
 | Industrial Design                                | Jonathan Gerona       |

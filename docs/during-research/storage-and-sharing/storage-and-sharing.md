@@ -32,15 +32,17 @@ Note that additional security measures are needed when you store or share **[spe
 
 Storing data on personal computers or mobile hard disks or USBs is discouraged due to irregular back-ups and the high potential for loss of the data. Storing data in cloud services outside the EU (Google Drive, Dropbox, iCloud or private (i.e., without TU/e credentials) OneDrive) should also be avoided because of possible non-compliance with the GDPR. Tailored advice on data storing and sharing can be provided, and storage solutions arranged, by the [Data Stewards](/docs/contact.md).
 
-## Data Sharing 
+## Data sharing 
 
 During your research, you may want to share your data with other researchers or organizations. When choosing data storage, consider whether you would like to share your data internally (within TU/e) or externally (outside of TU/e). In [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html), you can see which storage solutions support your sharing preference.
 
 If you would like to send a data package to internal or external parties without giving them access to your storage, you can always use [**SURFfilesender**](https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted) to send files to anyone outside or inside of TU/e. Make sure to always encrypt files that include **[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840).**
 
-**Note:** Sharing or receiving (personal) data from an external party requires a [**data agreement**](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/agreements.aspx) the type of agreement depends on the nature of collaboration between the parties. If you plan on sharing your research data or receiving data from a third party, please contact your [**data steward**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward).
+### Data agreements
 
-## Tips & Tricks on Data Security 
+Sharing or receiving (personal) data from an external party requires a [**data agreement**](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/agreements.aspx). In general, a data agreement defines the scope, responsibilities, and rights of the parties involved in the processing of data. The type of agreement depends on the nature of collaboration between the parties. If you plan on sharing your research data or receiving data from a third party, please contact your [**data steward**](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management/contact-a-data-steward).
+
+## Data security tips & tricks
 
 - Always use hard drive encryption (e.g., Bitlocker on Windows (already installed on TU/e laptops) and FileVault on Apple).
 - Lock your PC when you leave, to block unauthorized physical access (shortcut Windows + L).

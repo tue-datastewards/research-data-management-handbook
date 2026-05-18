@@ -13,12 +13,12 @@ Research data refers to the information, records, and observations collected or 
 - Images and audio/video recordings
 - Interview questions and transcripts
 
-## Raw, processed & analyzed data
+## Raw, processed & analysed data
 
 At different stages of the research, research data can be classified in the following types:
 
 - **Raw data** is the original data that you have collected but have
-  not yet processed or analyzed. This can include data from various
+  not yet processed or analysed. This can include data from various
   collection methods such as experiments, computer simulations,
   interviews, and observations. Data you have not collected yourself,
   but obtained from others for reuse (secondary data), may be
@@ -27,7 +27,7 @@ At different stages of the research, research data can be classified in the foll
   transcribed, cleaned, organized, transformed, anonymized, validated
   and checked, making it suitable for analysis. This can include steps
   like removing errors, normalizing values, or converting formats.
-- **Analyzed data** is data that has been examined and interpreted
+- **Analysed data** is data that has been examined and interpreted
   to draw conclusions or insights. This involves applying statistical
   methods, algorithms, or other analytical techniques to processed
   data. This is usually the data that is represented or included in the
@@ -38,7 +38,7 @@ At different stages of the research, research data can be classified in the foll
 
 It is also useful to distinguish the types of data above between active and definitive data.
 
-- **Active or mutable data** refers to data that are still subject to change, such as data being collected or actively processed and/or analyzed.
+- **Active or mutable data** refers to data that are still subject to change, such as data being collected or actively processed and/or analysed.
 - **Definitive or immutable data** refers to data that have reached a stable state and are no longer expected to change, for example the datasets underlying published results.
 
 Active data typically require flexible working environments, while definitive data should be preserved in a stable and well-documented form to ensure long-term accessibility, reproducibility, and integrity.

@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Project documentation serves as a comprehensive record of the project's lifecycle, decisions, actions, and outcomes. Documentation adds context to your data and offers numerous benefits.
 
-Documentation includes, for example, the aim of the study, the methodology, or the instruments (and their settings) and measures that were used. Also, code books, laboratory notebooks/Electronic Lab Notebooks (**ELNs**) and experimental protocols are examples of documentation. Moreover, documentation includes usage conditions and explains the relations between the files.
+Documentation includes, for example, the aim of the study, the methodology, or the instruments (and their settings) and measures that were used. Also, code books, laboratory notebooks/[Electronic Lab Notebooks (**ELNs**)](#electronic-lab-notebook) and experimental protocols are examples of documentation. Moreover, documentation includes usage conditions and explains the relations between the files.
 
 _How to keep project documentation_
 
@@ -19,6 +19,22 @@ _How to keep project documentation_
 - When sharing [**research software**](/docs/during-research/research-software/), comprehensive documentation is crucial to ensure that users can understand, utilize, and contribute to the software effectively. Especially useful is including inline comments to explain lines of code and complex algorithms within your codebase.
 
 Compared to metadata, documentation is more specifically aimed at the human user and not necessarily machine-readable.
+
+### Electronic Lab Notebook
+
+An electronic lab notebook (ELN) is an organizational tool that can help you to document your studies. It helps you to keep track of what steps you took in your research and communicates the details of your project to others. If you have ever been in the situation where you could not retrace the details of a study you conducted some time ago, you will understand the value of an ELN. An ELN contains **the details needed to understand what was done in the study**, including:
+
+- Hypotheses
+- Methods
+- Observations
+- Protocols
+- Notes
+
+An ELN should be **shareable**, **searchable** and **secured**. The content and structure of an ELN will often differ across disciplines.
+
+One option for creating an ELN is MS OneNote. Although it is not specifically designed for scientific purposes, OneNote can easily be adapted to an ELN workflow, independent of discipline or research method. It provides a hierarchical structure that includes Section Groups (this could be a research project), Sections (this could be the Methods section) and Pages (e.g., a Page in the Methods section could describe details of the apparatus you used in your study). OneNote allows for handwritten or typed notes, video and audio recordings, diagrams, images, drawings, screen clippings, equations, etc. An ELN in OneNote can easily be shared through platforms such as MS Teams or MS OneDrive and can be opened on different devices (laptops, smartphones, etc.). OneNote is also compatible with other MS applications, such as Excel or PowerPoint.
+
+More information can be found in this [**paper**](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable) or in this [**manual**](https://www.bioinformatics.babraham.ac.uk/training/OneNote%20manual.pdf).
 
 ## Metadata
 
@@ -68,22 +84,6 @@ Example of the generic metadata scheme:
 A generally accepted minimum standard for describing information on the web, including research data, is Dublin Core. Further information on this metadata standard is available at: [**Dublin core**](https://dublincore.org/).
 
 For more information on disciplinary metadata standards see also [**Digital Curation Centre**](https://www.dcc.ac.uk/guidance/standards/metadata) and the Metadata Directory that has been set up under the auspices of the Research Data Alliance: [**RDA Metadata Directory**](https://rdamsc.bath.ac.uk/subject-index). A curated resource on data and metadata standards, inter-related to databases and data policies can be found at [**FAIRsharing**](https://fairsharing.org/).
-
-## Electronic Lab Notebook
-
-An electronic lab notebook (ELN) is an organizational tool that can help you to document your studies. It helps you to keep track of what steps you took in your research and communicates the details of your project to others. If you have ever been in the situation where you could not retrace the details of a study you conducted some time ago, you will understand the value of an ELN. An ELN contains **the details needed to understand what was done in the study**, including:
-
-- Hypotheses
-- Methods
-- Observations
-- Protocols
-- Notes
-
-An ELN should be **shareable**, **searchable** and **secured**. The content and structure of an ELN will often differ across disciplines.
-
-One option for creating an ELN is MS OneNote. Although it is not specifically designed for scientific purposes, OneNote can easily be adapted to an ELN workflow, independent of discipline or research method. It provides a hierarchical structure that includes Section Groups (this could be a research project), Sections (this could be the Methods section) and Pages (e.g., a Page in the Methods section could describe details of the apparatus you used in your study). OneNote allows for handwritten or typed notes, video and audio recordings, diagrams, images, drawings, screen clippings, equations, etc. An ELN in OneNote can easily be shared through platforms such as MS Teams or MS OneDrive and can be opened on different devices (laptops, smartphones, etc.). OneNote is also compatible with other MS applications, such as Excel or PowerPoint.
-
-More information can be found in this [**paper**](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable) or in this [**manual**](https://www.bioinformatics.babraham.ac.uk/training/OneNote%20manual.pdf).
 
 ## Tools and Further Reading
 

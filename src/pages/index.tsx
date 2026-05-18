@@ -6,7 +6,10 @@ import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
 
+import ReadyToStartDMP from "@site/src/components/ReadyToStartDMP";
+
 import styles from "./index.module.css";
+import ScreenshotResearchCockpit from "@site/static/img/screenshot-research-cockpit.jpg";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -39,6 +42,7 @@ export default function Home(): ReactNode {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <ReadyToStartDMP />
       </main>
     </Layout>
   );

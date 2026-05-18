@@ -81,6 +81,7 @@ Revisit archiving decisions periodically to ensure continued compliance with pol
 
 ### What is the difference between raw, processed, and analysed data?
 Raw data are the original data that you have collected but have not yet processed or analysed. For instance: audio files, archives, observations, field notes and data from experiments. Data you have not collected yourself and that you are reusing, may be considered raw data.  
+
 Processed data are the data that you have digitised, translated, transcribed, cleaned, validated, checked and/or anonymised.  
 Analysed data are the models, graphs, tables, texts and so on that you have created based on the raw and the processed data, and that are intended to aid in the discovery of useful information, the presentation of conclusions, and decision-making.
 

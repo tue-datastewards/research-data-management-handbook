@@ -6,11 +6,13 @@ export default function ReadyToStartDMP(): ReactNode {
   return (
     <section className={styles.section}>
       <div className="container">
-        <img
-          src={ScreenshotResearchCockpit}
-          alt="Screenshot of Research Cockpit"
-          className={styles.screenshot}
-        />
+        <a href="https://cockpit.research.tue.nl" target="_blank">
+          <img
+            src={ScreenshotResearchCockpit}
+            alt="Screenshot of Research Cockpit"
+            className={styles.screenshot}
+          />
+        </a>
         <h2>Ready to start your Data Management Plan?</h2>
         <p>
           Are you ready to prepare your Data Management Plan? Visit Research

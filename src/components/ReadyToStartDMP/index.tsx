@@ -19,7 +19,7 @@ export default function ReadyToStartDMP(): ReactNode {
           Cockpit to start preparing your plan.
         </p>
         <p>
-          You can also start an Ethical Approval, or search research tools are
+          You can also start an Ethical Approval, or request research tools
           available at TU/e.
         </p>
         <button

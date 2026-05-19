@@ -84,6 +84,12 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
+          href: "https://cockpit.research.tue.nl",
+          label: "Research Cockpit",
+          position: "right",
+        },
+
+        {
           href: "https://github.com/tue-datastewards/research-data-management-handbook",
           label: "GitHub",
           position: "right",

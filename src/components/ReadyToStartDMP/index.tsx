@@ -22,14 +22,13 @@ export default function ReadyToStartDMP(): ReactNode {
           You can also start an Ethical Approval, or request research tools
           available at TU/e.
         </p>
-        <button
+        <a
           className="button button--primary button--lg"
-          onClick={() =>
-            window.open("https://cockpit.research.tue.nl", "_blank")
-          }
+          href="https://cockpit.research.tue.nl"
+          target="_blank"
         >
           Go to Research Cockpit
-        </button>
+        </a>
       </div>
     </section>
   );

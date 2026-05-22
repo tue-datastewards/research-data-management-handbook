@@ -8,21 +8,21 @@ sidebar_position: 2
 
 Project documentation serves as a comprehensive record of the project's lifecycle, decisions, actions, and outcomes. Documentation adds context to your data and offers numerous benefits.
 
-Documentation includes, for example, the aim of the study, the methodology, or the instruments (and their settings) and measures that were used. Also, code books, laboratory notebooks/[Electronic Lab Notebooks (**ELNs**)](#electronic-lab-notebook) and experimental protocols are examples of documentation. Moreover, documentation includes usage conditions and explains the relations between the files.
+Documentation includes, for example, the aim of the study, the methodology, or the instruments (and their settings) and measures that were used. Also, code books, laboratory notebooks or [Electronic Lab Notebooks](#electronic-lab-notebook), and experimental protocols are examples of documentation. Moreover, documentation includes usage conditions and explains the relations between the files.
 
 _How to keep project documentation_
 
 - Part of the documentation must be written when you publish a scientific article based on your data.
 - Regardless of whether a dataset is described in a published article or not, you should consider what documentation future users of your data require to understand and reuse this data.
 - It is best to write and regularly update the documentation during a research project.
-- You can keep your documentation in a README file which explains to re-users what they should know about the data and how they can use the data. This will also help your future you to understand what you have done and how you have done it.
-- When sharing [**research software**](/docs/during-research/research-software/), comprehensive documentation is crucial to ensure that users can understand, utilize, and contribute to the software effectively. Especially useful is including inline comments to explain lines of code and complex algorithms within your codebase.
+- You can keep your documentation in a [README file](#readme-file) which explains to re-users what they should know about the data and how they can use the data. This will also help your future you to understand what you have done and how you have done it.
+- When sharing [research software](/docs/during-research/research-software/), comprehensive documentation is crucial to ensure that users can understand, utilize, and contribute to the software effectively. Especially useful is including inline comments to explain lines of code and complex algorithms within your codebase.
 
 Compared to metadata, documentation is more specifically aimed at the human user and not necessarily machine-readable.
 
 ### Electronic Lab Notebook
 
-An electronic lab notebook (ELN) is an organizational tool that can help you to document your studies. It helps you to keep track of what steps you took in your research and communicates the details of your project to others. If you have ever been in the situation where you could not retrace the details of a study you conducted some time ago, you will understand the value of an ELN. An ELN contains **the details needed to understand what was done in the study**, including:
+An Electronic Lab Notebook (ELN) is an organizational tool that can help you to document your studies. It helps you to keep track of what steps you took in your research and communicates the details of your project to others. If you have ever been in the situation where you could not retrace the details of a study you conducted some time ago, you will understand the value of an ELN. An ELN contains **the details needed to understand what was done in the study**, including:
 
 - Hypotheses
 - Methods
@@ -35,6 +35,21 @@ An ELN should be **shareable**, **searchable** and **secured**. The content 
 One option for creating an ELN is MS OneNote. Although it is not specifically designed for scientific purposes, OneNote can easily be adapted to an ELN workflow, independent of discipline or research method. It provides a hierarchical structure that includes Section Groups (this could be a research project), Sections (this could be the Methods section) and Pages (e.g., a Page in the Methods section could describe details of the apparatus you used in your study). OneNote allows for handwritten or typed notes, video and audio recordings, diagrams, images, drawings, screen clippings, equations, etc. An ELN in OneNote can easily be shared through platforms such as MS Teams or MS OneDrive and can be opened on different devices (laptops, smartphones, etc.). OneNote is also compatible with other MS applications, such as Excel or PowerPoint.
 
 More information can be found in this [**paper**](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable) or in this [**manual**](https://www.bioinformatics.babraham.ac.uk/training/OneNote%20manual.pdf).
+
+### README file
+
+A README file **provides a description of your data in a human-readable, user-friendly format**. Usually, the README file is the first file that others will check to understand your datasets or data package. We recommend using a text-based format to create the README file, such as plain text <code>.txt</code> or Markdown <code>.md</code>.
+A README file usually contains the following information:
+
+- Project and/or publication name and summary
+- Authors/creators of the data and contact information
+- List of files or folder tree, describing each data file with a brief description
+- Description of how files relate to each other (e.g., which analysis script is used to produce which data file).
+
+:::tip
+You can download the **TU/e README file template** in [10.5281/zenodo.19692008](https://doi.org/10.5281/zenodo.19692009).
+Please note that this is a recommendation, and not all fields may apply to your research.
+:::
 
 ## Metadata
 
@@ -87,6 +102,7 @@ For more information on disciplinary metadata standards see also [**Digital Cura
 
 ## Tools and Further Reading
 
+- [Guide on how to create README files from Cornell Data Services](https://data.research.cornell.edu/data-management/sharing/readme/)
 - [Metadata standards provided by the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/standards/)
 - [Metadata standards on FAIRsharing.org](https://fairsharing.org/)
 - [A quick guide for using Microsoft OneNote as an electronic laboratory notebook (PDF)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006918&type=printable)

@@ -39,6 +39,9 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
+          // Automatically render "Last updated on <date>" on each doc page,
+          // sourced from Git history at build time.
+          showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:

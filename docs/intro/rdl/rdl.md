@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+for_glossary: true
+codata_uri: https://terms.codata.org/rdmt/research-data-lifecycle
 ---
 
 # Research Data Lifecycle

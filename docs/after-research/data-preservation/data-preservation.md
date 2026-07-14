@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+for_glossary: true
+codata_uri: https://terms.codata.org/rdmt/preservation
 ---
 
 # Data Preservation

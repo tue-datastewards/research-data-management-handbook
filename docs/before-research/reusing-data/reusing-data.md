@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+for_glossary: true
+codata_uri: https://terms.codata.org/rdmt/re-use
 ---
 
 # Data Reuse

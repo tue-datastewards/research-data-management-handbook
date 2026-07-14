@@ -29,3 +29,90 @@
 
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Glossary styles */
+.glossary__intro {
+  font-style: italic;
+  color: var(--ifm-font-color-base);
+  opacity: 0.85;
+}
+
+.glossary__list {
+  list-style: none;
+  padding: 0;
+}
+
+.glossary__item {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+}
+
+.glossary__item:last-child {
+  border-bottom: none;
+}
+
+.glossary__item-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.glossary__item-link {
+  text-decoration: none;
+  font-size: 1.125rem;
+}
+
+.glossary__item-link:hover {
+  text-decoration: underline;
+}
+
+.glossary__codata-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 0.375rem;
+  background-color: var(--ifm-color-primary);
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.85;
+}
+
+.glossary__codata-badge:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.glossary__definition {
+  margin-top: 0.5rem;
+}
+
+.glossary__definition-text {
+  margin: 0;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--ifm-color-primary-lightest);
+  background-color: var(--ifm-background-color);
+  font-style: italic;
+  line-height: 1.7;
+}
+
+[data-theme="dark"] .glossary__definition-text {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+.glossary__definition-source {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.8rem;
+  color: var(--ifm-font-color-base);
+  opacity: 0.6;
+}
+
+.glossary__no-definition {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--ifm-font-color-base);
+  opacity: 0.5;
+}

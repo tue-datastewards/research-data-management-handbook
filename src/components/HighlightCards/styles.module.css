@@ -1,0 +1,9 @@
+.section {
+  padding-bottom: 4rem;
+}
+
+.bg-card {
+  background-color: #ddd;
+  padding: 1.5rem;
+  margin: 15px;
+}

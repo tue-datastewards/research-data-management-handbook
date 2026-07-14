@@ -43,6 +43,25 @@ export default function HighlightCards(): ReactNode {
             </div>
           </div>
         </div>
+        <div className="row gx-5">
+          <div className={clsx("col", styles["bg-card"])}>
+            <h2>Make your data more useful!</h2>
+            <p>
+              Are you a student/researcher with a dataset that you'd like to
+              organise better, document properly, and prepare for (future)
+              sharing in repositories such as 4TU.ResearchData or Zenodo?
+            </p>
+            <div className="text--center">
+              <a
+                className="button button--primary button--lg"
+                href="/docs/learning-resources/fair-clinic/"
+                target="_blank"
+              >
+                Join the FAIR Data Clinic
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );

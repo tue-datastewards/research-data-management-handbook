@@ -1,0 +1,31 @@
+.docH1 {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.glossaryLink {
+  color: var(--ifm-color-primary-lightest);
+  opacity: 0.6;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.glossaryLink:hover {
+  opacity: 1;
+  color: var(--ifm-color-primary);
+}
+
+.badgeIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 1.5px solid var(--ifm-color-primary-lightest);
+  font-weight: 700;
+  font-size: 10px;
+  font-family: var(--ifm-font-family-base);
+  line-height: 1;
+}

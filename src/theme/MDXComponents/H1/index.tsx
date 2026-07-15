@@ -16,17 +16,20 @@ export default function DocH1({ componentRef, ...rest }: H1Props) {
   }
 
   return (
-    <MDXHeading as="h1" componentRef={componentRef} className={styles.docH1} {...rest}>
+    <MDXHeading
+      as="h1"
+      componentRef={componentRef}
+      className={styles.docH1}
+      {...rest}
+    >
       {rest.children as React.ReactNode}
-      <sup>
-        <a
-          href={badgeInfo.href}
-          className={styles.glossaryLink}
-          title="See definition in the glossary"
-        >
-          <span className={styles.badgeIcon}>?</span>
-        </a>
-      </sup>
+      <a
+        href={badgeInfo.href}
+        className={styles.glossaryLink}
+        title="See definition in the glossary"
+      >
+        <span className={styles.badgeIcon}>?</span>
+      </a>
     </MDXHeading>
   );
 }

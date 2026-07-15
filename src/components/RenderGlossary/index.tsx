@@ -25,26 +25,6 @@ export default function RenderGlossary() {
 
   return (
     <div className="glossary">
-      <p className="glossary__intro">
-        This glossary is aligned with the{" "}
-        <a
-          href="https://terms.codata.org/rdmt"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          CODATA Research Data Management Terminology (RDM-T)
-        </a>
-        , a SKOS-controlled vocabulary maintained by the{" "}
-        <a
-          href="https://codata.org/initiatives/data-science-and-stewardship/rdm-terminology-wg"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          CODATA RDM Terminology Working Group
-        </a>
-        .
-      </p>
-
       <ul className="glossary__list">
         {glossaryData.map((term, index) => {
           const anchorId = slugify(term.codata_uri);
@@ -96,6 +76,26 @@ export default function RenderGlossary() {
           );
         })}
       </ul>
+
+      <p className="glossary__intro">
+        This glossary is aligned with the{" "}
+        <a
+          href="https://terms.codata.org/rdmt"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          CODATA Research Data Management Terminology (RDM-T)
+        </a>
+        , a SKOS-controlled vocabulary maintained by the{" "}
+        <a
+          href="https://codata.org/initiatives/data-science-and-stewardship/rdm-terminology-wg"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          CODATA RDM Terminology Working Group
+        </a>
+        .
+      </p>
     </div>
   );
 }

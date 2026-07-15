@@ -1,4 +1,5 @@
 import React from "react";
+import { MoveUpRight } from "lucide-react";
 import glossaryData from "@generated/generate-glossary/default/glossary-manifest.json";
 
 function slugify(codataUri: string): string {
@@ -54,7 +55,7 @@ export default function RenderGlossary() {
                   className="glossary__codata-badge"
                   title="View in CODATA RDM-T vocabulary"
                 >
-                  CODATA ↗
+                  CODATA <MoveUpRight size={12} />
                 </a>
               </div>
               {term.codataDefinition ? (

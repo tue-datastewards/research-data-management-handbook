@@ -83,6 +83,7 @@
 .glossary__codata-badge:hover {
   opacity: 1;
   text-decoration: none;
+  color: #fff;
 }
 
 .glossary__definition {

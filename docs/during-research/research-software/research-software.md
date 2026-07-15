@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+for_glossary: true
+codata_uri: https://terms.codata.org/rdmt/research-software
 ---
 
 # Research Software

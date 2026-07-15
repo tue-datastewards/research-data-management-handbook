@@ -88,7 +88,7 @@ const config: Config = {
         { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://cockpit.research.tue.nl",
-          label: "Research Cockpit",
+          label: "Research Cockpit \u{1F512}",
           position: "right",
         },
 
@@ -119,7 +119,7 @@ const config: Config = {
           title: "TU/e Resources",
           items: [
             {
-              label: "Research Cockpit",
+              label: "Research Cockpit \u{1F512}",
               href: "https://cockpit.research.tue.nl",
             },
             {

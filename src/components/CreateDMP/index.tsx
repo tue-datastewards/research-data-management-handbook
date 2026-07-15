@@ -1,3 +1,5 @@
+import { LockKeyhole } from 'lucide-react';
+
 export default function CreateDMP() {
   return (
     <>
@@ -7,6 +9,7 @@ export default function CreateDMP() {
         target="_blank"
       >
         Create a Data Management Plan on Research Cockpit
+        <LockKeyhole size={10} strokeWidth={2.5} style={{ marginLeft: '0.25rem' }} />
       </a>
     </>
   );

@@ -36,21 +36,26 @@ async function fetchDefinitions(terms) {
   const uris = terms
     .map((t) => `<${t.codata_uri}>`)
     .join(" ");
-  const query = `PREFIX skos: <http://www.w3.org/2004/02/skos/core#> SELECT ?uri ?def WHERE { VALUES ?uri { ${uris} } ?uri skos:definition ?def }`;
+  const query = `PREFIX skos: <http://www.w3.org/2004/02/skos/core#> SELECT ?uri ?label ?def WHERE { VALUES ?uri { ${uris} } OPTIONAL { ?uri skos:prefLabel ?label } OPTIONAL { ?uri skos:definition ?def } }`;
 
   try {
     const result = await fetchSparql(query);
     const definitions = {};
+    const labels = {};
     if (result?.results?.bindings) {
       for (const binding of result.results.bindings) {
         const uri = binding.uri?.value;
         const def = binding.def?.value;
+        const label = binding.label?.value;
         if (uri && def) {
           definitions[uri] = def;
         }
+        if (uri && label && !labels[uri]) {
+          labels[uri] = label;
+        }
       }
     }
-    return definitions;
+    return { definitions, labels };
   } catch (error) {
     console.warn(
       `[generate-glossary] Failed to fetch definitions from SPARQL endpoint: ${error.message}`,
@@ -94,10 +99,11 @@ module.exports = function pluginGenerateGlossary(context, options) {
       console.info(
         `[generate-glossary] Fetching definitions from CODATA SPARQL endpoint...`,
       );
-      const definitions = await fetchDefinitions(glossaryTerms);
+      const { definitions, labels } = await fetchDefinitions(glossaryTerms);
 
       for (const term of glossaryTerms) {
         term.codataDefinition = definitions[term.codata_uri] || null;
+        term.codataLabel = labels[term.codata_uri] || null;
       }
 
       return actions.createData(

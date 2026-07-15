@@ -47,6 +47,11 @@ export default function RenderGlossary() {
               <div className="glossary__item-header">
                 <a href={term.permalink} className="glossary__item-link">
                   <strong>{term.term}</strong>
+                  {term.codataLabel && term.codataLabel.toLowerCase() !== term.term.toLowerCase() && (
+                    <span className="glossary__codata-label">
+                      ({term.codataLabel})
+                    </span>
+                  )}
                 </a>
                 <a
                   href={`https://vocabs.ardc.edu.au/repository/api/lda/codata/codata-research-data-management-terminology/v002/resource?uri=${encodeURIComponent(term.codata_uri)}`}

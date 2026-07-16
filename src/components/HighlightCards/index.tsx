@@ -1,6 +1,7 @@
 import React, { ReactNode } from "react";
 import styles from "./styles.module.css";
 import clsx from "clsx";
+import { LockKeyhole } from "lucide-react";
 
 export default function HighlightCards(): ReactNode {
   return (
@@ -21,6 +22,11 @@ export default function HighlightCards(): ReactNode {
                 target="_blank"
               >
                 Go to Research Cockpit
+                <LockKeyhole
+                  size={10}
+                  strokeWidth={2.5}
+                  style={{ marginLeft: "0.50rem" }}
+                />
               </a>
             </div>
           </div>

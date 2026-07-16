@@ -1,0 +1,11 @@
+.lockLink {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 0.25rem;
+}
+
+.lockIcon {
+  color: var(--ifm-color-primary-darkest);
+  opacity: 0.5;
+  flex-shrink: 0;
+}

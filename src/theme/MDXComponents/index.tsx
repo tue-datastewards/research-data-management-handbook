@@ -1,7 +1,6 @@
 import React, {type ComponentProps} from 'react';
 import Head from '@docusaurus/Head';
 import MDXCode from '@theme/MDXComponents/Code';
-import MDXA from '@theme/MDXComponents/A';
 import MDXPre from '@theme/MDXComponents/Pre';
 import MDXDetails from '@theme/MDXComponents/Details';
 import MDXHeading from '@theme/MDXComponents/Heading';
@@ -12,13 +11,14 @@ import Admonition from '@theme/Admonition';
 import Mermaid from '@theme/Mermaid';
 import type {MDXComponentsObject} from '@theme/MDXComponents';
 import DocH1 from '@theme/MDXComponents/H1';
+import LoginLinkWrapper from '@site/src/components/LoginLink';
 
 const MDXComponents: MDXComponentsObject = {
   Head,
   details: MDXDetails,
   Details: MDXDetails,
   code: MDXCode,
-  a: MDXA,
+  a: LoginLinkWrapper,
   pre: MDXPre,
   ul: MDXUl,
   li: MDXLi,

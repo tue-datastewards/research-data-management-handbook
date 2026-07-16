@@ -130,6 +130,10 @@ const config: Config = {
               label: "Open Science Community Eindhoven (OSC/e)",
               href: "https://sites.google.com/view/osceindhoven/our-community",
             },
+            {
+              label: "Research Cockpit Playbook",
+              href: "https://tue-rdi.github.io/Research-Cockpit-Playbook",
+            },
           ],
         },
         {

@@ -6,28 +6,6 @@ sidebar_position: 7
 
 The data stewards of TU/e Research Data Management can be contacted via rdmsupport@tue.nl or via the contact details below:
 
-## Data Stewards
+import DataStewardCards from "@site/src/components/DataStewardCard";
 
-- Angela Aleksovska (a.aleksovska@tue.nl)
-- Richard Dennis (r.dennis@tue.nl)
-- Jonathan Gerona (j.gerona@tue.nl)
-- Jayakrishnan H R Nair (h.r.nair@tue.nl)
-- Davide Nardi (d.nardi@tue.nl)
-- Neda Norouzi (n.norouzi1@tue.nl)
-- Gouri Patil (g.patil@tue.nl)
-- Liz Guzman Ramirez (l.guzman.ramirez@tue.nl)
-- Nami Sunami (n.sunami@tue.nl)
-
-## By Department
-
-| Department                                       | Data steward          |
-| ------------------------------------------------ | --------------------- |
-| Applied Physics and Science Education            | Nami Sunami           |
-| Biomedical Engineering                           | Neda Norouzi          |
-| Built Environment                                | Gouri Patil           |
-| Chemical Engineering &amp; Chemistry             | Nami Sunami           |
-| Electrical Engineering                           | Angela Aleksovska     |
-| Industrial Design                                | Jonathan Gerona       |
-| Industrial Engineering &amp; Innovation Sciences | Jayakrishnan H R Nair |
-| Mathematics and Computer Science                 | Davide Nardi          |
-| Mechanical Engineering                           | Richard Dennis        |
+<DataStewardCards />

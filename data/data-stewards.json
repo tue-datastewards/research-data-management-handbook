@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Angela Aleksovska",
+    "email": "a.aleksovska@tue.nl",
+    "imageUrl": "",
+    "orcid": "0009-0005-0012-7508",
+    "role": "Data Steward",
+    "departments": ["Electrical Engineering"]
+  },
+  {
+    "name": "Richard Dennis",
+    "email": "r.dennis@tue.nl",
+    "imageUrl": "",
+    "orcid": "0000-0002-4472-7194",
+    "role": "Data Steward",
+    "departments": ["Mechanical Engineering"]
+  },
+  {
+    "name": "Jonathan Gerona",
+    "email": "j.gerona@tue.nl",
+    "imageUrl": "",
+    "orcid": "",
+    "role": "Data Steward",
+    "departments": ["Industrial Design"]
+  },
+  {
+    "name": "Jayakrishnan H R Nair",
+    "email": "h.r.nair@tue.nl",
+    "imageUrl": "https://research.tue.nl/files-asset/344608150/JSP00635a.JPG",
+    "orcid": "",
+    "role": "Data Steward",
+    "departments": ["Industrial Engineering & Innovation Sciences"]
+  },
+  {
+    "name": "Davide Nardi",
+    "email": "d.nardi@tue.nl",
+    "imageUrl": "https://research.tue.nl/files-asset/342351810/Screenshot_2024-10-18_105511.jpeg",
+    "orcid": "0009-0008-8263-8038",
+    "role": "Data Steward",
+    "departments": ["Mathematics and Computer Science"]
+  },
+  {
+    "name": "Neda Norouzi",
+    "email": "n.norouzi1@tue.nl",
+    "imageUrl": "https://research.tue.nl/files-asset/342287539/Profile_Photo-bme.jpg",
+    "orcid": "0000-0001-7179-888X",
+    "role": "Data Steward",
+    "departments": ["Biomedical Engineering"]
+  },
+  {
+    "name": "Gouri Patil",
+    "email": "g.patil@tue.nl",
+    "imageUrl": "",
+    "orcid": "0000-0002-6734-2940",
+    "role": "Data Steward",
+    "departments": ["Built Environment"]
+  },
+  {
+    "name": "Liz Guzman Ramirez",
+    "email": "l.guzman.ramirez@tue.nl",
+    "imageUrl": "https://research.tue.nl/files-asset/343947032/Liz.jpg",
+    "orcid": "0000-0001-5668-3021",
+    "role": "Data Stewards' Team Lead"
+  },
+  {
+    "name": "Nami Sunami",
+    "email": "n.sunami@tue.nl",
+    "imageUrl": "https://research.tue.nl/files-asset/317655342/Nami_Sunami_-_Profile_Picture_2024.jpg",
+    "orcid": "0000-0001-5482-8370",
+    "role": "Data Steward",
+    "departments": ["Applied Physics and Science Education", "Chemical Engineering & Chemistry"]
+  }
+]

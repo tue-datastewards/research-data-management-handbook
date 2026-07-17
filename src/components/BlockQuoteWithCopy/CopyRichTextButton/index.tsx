@@ -1,24 +1,18 @@
-import React, {
-  useCallback,
-  useState,
-  useRef,
-  useEffect,
-  type ReactNode,
-} from "react"
-import clsx from "clsx"
-import { translate } from "@docusaurus/Translate"
-import Button from "@site/src/components/BlockQuoteWithCopy/Button"
-import IconCopy from "@theme/Icon/Copy"
-import IconSuccess from "@theme/Icon/Success"
+import React, { useCallback, useState, useRef, useEffect, type ReactNode } from "react";
+import clsx from "clsx";
+import { translate } from "@docusaurus/Translate";
+import Button from "@site/src/components/BlockQuoteWithCopy/Button";
+import IconCopy from "@theme/Icon/Copy";
+import IconSuccess from "@theme/Icon/Success";
 
-import styles from "./styles.module.css"
+import styles from "./styles.module.css";
 
 function title() {
   return translate({
     id: "theme.CodeBlock.copy",
     message: "Copy",
     description: "The copy button label on code blocks",
-  })
+  });
 }
 
 function ariaLabel(isCopied: boolean) {
@@ -32,45 +26,41 @@ function ariaLabel(isCopied: boolean) {
         id: "theme.CodeBlock.copyButtonAriaLabel",
         message: "Copy code to clipboard",
         description: "The ARIA label for copy code blocks button",
-      })
+      });
 }
 
 type CopyRichTextButtonProps = {
-  className?: string
-  onClick?: () => void
-  title?: () => string
-}
+  className?: string;
+  onClick?: () => void;
+  title?: () => string;
+};
 
 export default function CopyRichTextButton({
   className,
   onClick = () => {},
 }: CopyRichTextButtonProps): ReactNode {
-  const [isCopied, setIsCopied] = useState(false)
-  const copyTimeout = useRef<number | undefined>(undefined)
+  const [isCopied, setIsCopied] = useState(false);
+  const copyTimeout = useRef<number | undefined>(undefined);
 
   const changeButton = useCallback(() => {
-    setIsCopied(true)
+    setIsCopied(true);
     copyTimeout.current = window.setTimeout(() => {
-      setIsCopied(false)
-    }, 1000)
-  }, [])
+      setIsCopied(false);
+    }, 1000);
+  }, []);
 
   function handleButtonClick() {
-    changeButton()
-    onClick()
+    changeButton();
+    onClick();
   }
 
-  useEffect(() => () => window.clearTimeout(copyTimeout.current), [])
+  useEffect(() => () => window.clearTimeout(copyTimeout.current), []);
 
   return (
     <Button
       aria-label={ariaLabel(isCopied)}
       title={title()}
-      className={clsx(
-        className,
-        styles.copyButton,
-        isCopied && styles.copyButtonCopied
-      )}
+      className={clsx(className, styles.copyButton, isCopied && styles.copyButtonCopied)}
       onClick={handleButtonClick}
     >
       <span className={styles.copyButtonIcons} aria-hidden="true">
@@ -78,5 +68,5 @@ export default function CopyRichTextButton({
         <IconSuccess className={styles.copyButtonSuccessIcon} />
       </span>
     </Button>
-  )
+  );
 }

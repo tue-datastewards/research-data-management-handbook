@@ -17,8 +17,8 @@ export default function RenderGlossary() {
   if (glossaryData.length === 0) {
     return (
       <p>
-        No glossary terms found. Add <code>for_glossary: true</code> and a{" "}
-        <code>codata_uri</code> to your page front matter.
+        No glossary terms found. Add <code>for_glossary: true</code> and a <code>codata_uri</code>{" "}
+        to your page front matter.
       </p>
     );
   }
@@ -34,13 +34,9 @@ export default function RenderGlossary() {
                 <a href={term.permalink} className="glossary__item-link">
                   <strong>{term.term}</strong>
                 </a>
-                {term.codataLabel &&
-                  term.codataLabel.toLowerCase() !==
-                    term.term.toLowerCase() && (
-                    <span className="glossary__codata-label">
-                      ({term.codataLabel})
-                    </span>
-                  )}
+                {term.codataLabel && term.codataLabel.toLowerCase() !== term.term.toLowerCase() && (
+                  <span className="glossary__codata-label">({term.codataLabel})</span>
+                )}
                 <a
                   href={`https://vocabs.ardc.edu.au/repository/api/lda/codata/codata-research-data-management-terminology/v002/resource?uri=${encodeURIComponent(term.codata_uri)}`}
                   target="_blank"
@@ -53,9 +49,7 @@ export default function RenderGlossary() {
               </div>
               {term.codataDefinition ? (
                 <div className="glossary__definition">
-                  <p className="glossary__definition-text">
-                    {term.codataDefinition}
-                  </p>
+                  <p className="glossary__definition-text">{term.codataDefinition}</p>
                   <p className="glossary__definition-source">
                     Source:{" "}
                     <a
@@ -68,9 +62,7 @@ export default function RenderGlossary() {
                   </p>
                 </div>
               ) : (
-                <p className="glossary__no-definition">
-                  Definition not available from CODATA
-                </p>
+                <p className="glossary__no-definition">Definition not available from CODATA</p>
               )}
             </li>
           );
@@ -79,11 +71,7 @@ export default function RenderGlossary() {
 
       <p className="glossary__intro">
         This glossary is aligned with the{" "}
-        <a
-          href="https://terms.codata.org/rdmt"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://terms.codata.org/rdmt" target="_blank" rel="noopener noreferrer">
           CODATA Research Data Management Terminology (RDM-T)
         </a>
         , a SKOS-controlled vocabulary maintained by the{" "}

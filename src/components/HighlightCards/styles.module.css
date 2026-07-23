@@ -7,3 +7,7 @@
   padding: 1.5rem;
   margin: 15px;
 }
+
+:global([data-theme="dark"]) .bg-card {
+  background-color: var(--ifm-card-background-color);
+}

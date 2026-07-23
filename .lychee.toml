@@ -1,0 +1,49 @@
+# Configuration for the link checker used in CI.
+# Used by the scheduled link check in .github/workflows/check-links.yml.
+
+# Show info-level output
+verbose = "info"
+
+# Output format
+format = "detailed"
+
+# Timeout in seconds for each request
+timeout = 30
+
+# Accept timed out requests (they may be valid but slow)
+accept_timeouts = true
+
+# Exclude loopback/localhost addresses from checking
+exclude_loopback = true
+
+# Exclude URLs matching these patterns
+exclude = [
+    # TU/e internal services requiring authentication
+    "^https://tue\\.topdesk\\.net",
+    "^https://.*\\.tue\\.nl/.*login",
+    # PDF files that return 415 Unsupported Media Type
+    "\\.pdf$",
+    # Exclude common false positive patterns
+    "^http://localhost",
+]
+
+# Only check these file extensions
+extensions = ["md", "mdx", "html"]
+
+# Number of threads to utilize
+threads = 4
+
+# Maximum number of retries before a link is declared dead
+max_retries = 3
+
+# Minimum wait time between retries
+retry_wait_time = 2
+
+# User agent to send with each request
+user_agent = "Mozilla/5.0 (compatible; lychee-link-checker)"
+
+# Accept these status codes as valid
+accept = ["200", "204", "429"]
+
+# Request method - use GET as fallback when HEAD fails
+method = ["head", "get"]

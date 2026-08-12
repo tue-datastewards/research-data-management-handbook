@@ -2,9 +2,13 @@
 sidebar_position: 5
 ---
 
-# External Resources
+# Other Resources
 
 External trainings and other resources that can deepen your knowledge in Research Data Management:
+
+## Guidance for TU/e Supervisors on Reviewing DMPs
+
+[Document](https://zenodo.org/records/20826054) providing guidelines for PhD supervisors on how to review their candidates' data management plans (DMP) during their 9th-month evaluation and other period of their PhD trajectory.
 
 ## Introduction to RDM e-learning course
 

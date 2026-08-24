@@ -15,6 +15,14 @@ export default function HighlightCards(): ReactNode {
               preparing your plan. You can also start an Ethical Approval, or request research tools
               available at TU/e.
             </p>
+            <div className="text--center margin--sm">
+              <video controls width="300" preload="metadata">
+                <source
+                  src="https://zenodo.org/records/18470682/files/DMP_ERB_2025.mp4"
+                  type="video/mp4"
+                />
+              </video>
+            </div>
             <div className="text--center">
               <a
                 className="button button--primary button--lg"

@@ -16,12 +16,7 @@ export default function DocH1({ componentRef, ...rest }: H1Props) {
   }
 
   return (
-    <MDXHeading
-      as="h1"
-      componentRef={componentRef}
-      className={styles.docH1}
-      {...rest}
-    >
+    <MDXHeading as="h1" componentRef={componentRef} className={styles.docH1} {...rest}>
       {rest.children as React.ReactNode}
       <a
         href={badgeInfo.href}

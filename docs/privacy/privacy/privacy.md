@@ -76,7 +76,8 @@ Below are some relevant resources:
 
 - [Personal Data in Research | Research Cockpit (login required)](https://cockpit.research.tue.nl/servicedesk/customer/portal/3/article/2641100840)
 - [FAQ About the GDPR | SharePoint (login required)](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/about-the-gdpr.aspx)
-- [What are personal data? | Utrecht University](https://utrechtuniversity.github.io/dataprivacyhandbook/personal-data.html).
+- [What are personal data? | Utrecht University](https://utrechtuniversity.github.io/dataprivacyhandbook/personal-data.html)
+- [Privacy - The Basics Canvas course | TU/e internal (login required)](https://tuenl.sharepoint.com/sites/intranet-privacy-security/SitePages/New-Privacy-E-learning-Course--Privacy-%E2%80%93-The-Basics.aspx)
 
 You can also consult a [Data Steward](/docs/contact.md).
 

@@ -9,17 +9,21 @@ function fetchSparql(query) {
     url.searchParams.set("query", query);
     url.searchParams.set("output", "json");
 
-    const req = https.get(url.toString(), { headers: { Accept: "application/sparql-results+json" } }, (res) => {
-      let data = "";
-      res.on("data", (chunk) => (data += chunk));
-      res.on("end", () => {
-        try {
-          resolve(JSON.parse(data));
-        } catch (e) {
-          reject(new Error(`Invalid JSON from SPARQL endpoint`));
-        }
-      });
-    });
+    const req = https.get(
+      url.toString(),
+      { headers: { Accept: "application/sparql-results+json" } },
+      (res) => {
+        let data = "";
+        res.on("data", (chunk) => (data += chunk));
+        res.on("end", () => {
+          try {
+            resolve(JSON.parse(data));
+          } catch (e) {
+            reject(new Error(`Invalid JSON from SPARQL endpoint`));
+          }
+        });
+      },
+    );
     req.on("error", reject);
     req.setTimeout(15000, () => {
       req.destroy();
@@ -33,9 +37,7 @@ async function fetchDefinitions(terms) {
     return {};
   }
 
-  const uris = terms
-    .map((t) => `<${t.codata_uri}>`)
-    .join(" ");
+  const uris = terms.map((t) => `<${t.codata_uri}>`).join(" ");
   const query = `PREFIX skos: <http://www.w3.org/2004/02/skos/core#> SELECT ?uri ?label ?def WHERE { VALUES ?uri { ${uris} } OPTIONAL { ?uri skos:prefLabel ?label } OPTIONAL { ?uri skos:definition ?def } }`;
 
   try {
@@ -69,8 +71,7 @@ module.exports = function pluginGenerateGlossary(context, options) {
     name: "generate-glossary",
 
     async allContentLoaded({ allContent, actions }) {
-      const docsContent =
-        allContent["docusaurus-plugin-content-docs"]?.default;
+      const docsContent = allContent["docusaurus-plugin-content-docs"]?.default;
 
       if (!docsContent || !docsContent.loadedVersions) {
         return;
@@ -96,9 +97,7 @@ module.exports = function pluginGenerateGlossary(context, options) {
 
       glossaryTerms.sort((a, b) => a.term.localeCompare(b.term));
 
-      console.info(
-        `[generate-glossary] Fetching definitions from CODATA SPARQL endpoint...`,
-      );
+      console.info(`[generate-glossary] Fetching definitions from CODATA SPARQL endpoint...`);
       const { definitions, labels } = await fetchDefinitions(glossaryTerms);
 
       for (const term of glossaryTerms) {
@@ -106,10 +105,7 @@ module.exports = function pluginGenerateGlossary(context, options) {
         term.codataLabel = labels[term.codata_uri] || null;
       }
 
-      return actions.createData(
-        "glossary-manifest.json",
-        JSON.stringify(glossaryTerms),
-      );
+      return actions.createData("glossary-manifest.json", JSON.stringify(glossaryTerms));
     },
   };
 };

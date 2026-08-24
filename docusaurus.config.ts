@@ -1,10 +1,10 @@
-import { themes as prismThemes } from "prism-react-renderer"
-import type { Config } from "@docusaurus/types"
-import type * as Preset from "@docusaurus/preset-classic"
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-const isPreview = process.env.PREVIEW_PATH !== undefined
+const isPreview = process.env.PREVIEW_PATH !== undefined;
 
 const config: Config = {
   title: "TU/e Research Data Management Handbook",
@@ -165,6 +165,6 @@ const config: Config = {
     require.resolve("docusaurus-lunr-search"),
     require.resolve("./plugins/generate-glossary"),
   ],
-}
+};
 
-export default config
+export default config;

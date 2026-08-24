@@ -1,7 +1,9 @@
+[![DOI](https://zenodo.org/badge/975450488.svg)](https://doi.org/10.5281/zenodo.20747759)
+
 # Research Data Management Handbook
 
 Learn how to manage your research data at TU/e with the Research Data Management Handbook.
-Link to the page: https://tue-datastewards.github.io/research-data-management-handbook/ 
+Link to the page: https://tue-datastewards.github.io/research-data-management-handbook/
 
 ## Glossary
 

@@ -1,15 +1,15 @@
-import type { ReactElement, ReactNode } from "react"
-import clsx from "clsx"
-import Heading from "@theme/Heading"
-import styles from "./styles.module.css"
-import { Bike, Coffee, Sprout } from "lucide-react"
+import type { ReactElement, ReactNode } from "react";
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
+import { Bike, Coffee, Sprout } from "lucide-react";
 
 type FeatureItem = {
-  title: string
-  href: string
-  Icon: typeof Sprout
-  description: ReactNode
-}
+  title: string;
+  href: string;
+  Icon: typeof Sprout;
+  description: ReactNode;
+};
 
 const FeatureList: FeatureItem[] = [
   {
@@ -18,8 +18,8 @@ const FeatureList: FeatureItem[] = [
     href: "docs/category/before-research",
     description: (
       <>
-        Are you planning your research project? Do you need a Data Management
-        Plan? Find out how to prepare for your research project.
+        Are you planning your research project? Do you need a Data Management Plan? Find out how to
+        prepare for your research project.
       </>
     ),
   },
@@ -28,10 +28,7 @@ const FeatureList: FeatureItem[] = [
     href: "docs/category/during-research",
     Icon: Bike,
     description: (
-      <>
-        Are you conducting your research project? Looking for where to store
-        your data?
-      </>
+      <>Are you conducting your research project? Looking for where to store your data?</>
     ),
   },
   {
@@ -39,13 +36,10 @@ const FeatureList: FeatureItem[] = [
     href: "docs/category/after-research",
     Icon: Coffee,
     description: (
-      <>
-        Congratulations for finishing your project! Find out how to archive and
-        share your data.
-      </>
+      <>Congratulations for finishing your project! Find out how to archive and share your data.</>
     ),
   },
-]
+];
 
 function Feature({ title, Icon, description, href }: FeatureItem) {
   return (
@@ -60,7 +54,7 @@ function Feature({ title, Icon, description, href }: FeatureItem) {
         <p>{description}</p>
       </div>
     </div>
-  )
+  );
 }
 
 export default function HomepageFeatures(): ReactNode {
@@ -74,5 +68,5 @@ export default function HomepageFeatures(): ReactNode {
         </div>
       </div>
     </section>
-  )
+  );
 }

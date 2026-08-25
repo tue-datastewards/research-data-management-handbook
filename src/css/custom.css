@@ -124,3 +124,58 @@
   color: var(--ifm-font-color-base);
   opacity: 0.5;
 }
+
+/* Hide navbar search on the home page (pages plugin = homepage) */
+html.plugin-pages .navbar__search {
+  display: none;
+}
+
+/* Hero search bar */
+.hero-search-bar {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.hero-search-bar__input {
+  width: 100%;
+  max-width: 32rem;
+  padding: 0.875rem 1.25rem;
+  font-size: 1.125rem;
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  border-radius: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  outline: none;
+  transition: border-color 0.2s, background-color 0.2s;
+}
+
+.hero-search-bar__input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.hero-search-bar__input:focus {
+  border-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.hero-search-bar__input:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Override algolia-autocomplete dropdown for hero context */
+.hero-search-bar .algolia-autocomplete {
+  width: 100%;
+  max-width: 32rem;
+}
+
+[data-theme="dark"] .hero-search-bar__input {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme="dark"] .hero-search-bar__input:focus {
+  background-color: rgba(255, 255, 255, 0.2);
+}

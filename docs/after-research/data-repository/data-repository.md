@@ -40,7 +40,7 @@ Please check [the demo video](https://www.youtube.com/watch?v=VmQr5oDXpoY) to le
 
 ### DANS
 
-[DANS](https://dans.knaw.nl/) is a Dutch repository for research data offering domain-specific digital repositories for research data, the DANS Data Stations. There is a data station for archaeology, for social & humanities, for nature & technical sciences, and a data station for the life sciences. These repositories use the open-source Dataverse software developed by Harvard University.
+[DANS](https://dans.knaw.nl/) is a Dutch repository for research data offering domain-specific digital repositories for research data, the DANS Data Stations. Depositing data in a DANS Data Station is free of charge up to 50 GB per account. There is a data station for archaeology, for social & humanities, for nature & technical sciences, and a data station for the life sciences. These repositories use the open-source Dataverse software developed by Harvard University.
 
 ## Registration of Your Dataset in Pure
 

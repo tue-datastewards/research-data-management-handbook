@@ -22,23 +22,31 @@ Benefits of using data repository:
 
 There are various data repositories available, some of which are listed below. While these repositories differ in their options for restricted access and, for example, size of data storage, the type of data you want to deposit should be considered.
 
-Before uploading your data into a repository, make sure that you data is suitable for making them openly available. For example, datasets containing personal data or (privacy-)sensitive data require additional attention. They may be published for example under restricted access, or only a description or metadata of the data with an explanation on how the data can be shared. You can also check [**Re3data.org**](http://www.re3data.org/) for an overview of data repositories or contact the Data Stewards (rdmsupport@tue.nl) for a tailored advice.
+Before uploading your data into a repository, make sure that you data is suitable for making them openly available. For example, datasets containing personal data or (privacy-)sensitive data require additional attention. They may be published for example under restricted access, or only a description or metadata of the data with an explanation on how the data can be shared.
 
-[**4TU.ResearchData**](https://data.4tu.nl/info/en/)   
-A Dutch repository for research data initiated by the Dutch technological universities (Eindhoven, Delft, Twente). The repository has received the Data Seal of Approval (guaranteeing long-term storage) and provides restricted access options and flexibility in license choice. Datasets generally come from the fields of engineering and technology but are open to all sciences, are stored in the Netherlands for a minimum of 15 years and are assigned a DOI. Researchers affiliated to the universities of technology in Eindhoven can deposit up to 100 GB of data per year free of charge, where for larger datasets there is a one-off cost of €3/GB (for 15 years storage), which is covered by the TU/e. 4TU.ResearchData can also be synced with your GitHub account.
+When choosing a repository for your data, be sure to think of the criteria the repository needs to meet in terms of your data, funders and journal editors (e.g. assigning a DOI, adding adequate metadata, and being able to select a license). You can ask your peers if they know discipline-specific repositories that are commonly used in your field of research but make sure these repositories meet your criteria.
+
+You can also consider using one of the data repositories below. Check [**Re3data.org**](http://www.re3data.org/) for an overview of data repositories or contact the Data Stewards (rdmsupport@tue.nl) for tailored advice.
+
+### 4TU.ResearchData 
+
+[4TU.ResearchData](https://data.4tu.nl/info/en/) is a Dutch repository for research data initiated by the Dutch technological universities (Eindhoven, Delft, Twente). The repository has received the Data Seal of Approval (guaranteeing long-term storage) and provides restricted access options and flexibility in license choice. Datasets generally come from the fields of engineering and technology but are open to all sciences, are stored in the Netherlands for a minimum of 15 years and are assigned a DOI. Researchers affiliated to the universities of technology in Eindhoven can deposit up to 100 GB of data per year free of charge, where for larger datasets there is a one-off cost of €3/GB (for 15 years storage), which is covered by the TU/e. 4TU.ResearchData can also be synced with your GitHub account.
 
 Please check [the demo video](https://www.youtube.com/watch?v=VmQr5oDXpoY) to learn how to use the 4TU.ResearchData repository software.
 
-[**Zenodo**](https://zenodo.org/)   
-A European initiative providing a data repository for research data from all fields. Zenodo can also be connected to GitHub, enabling code citation from GitHub (https://guides.github.com/activities/citable-code/). The repository allows for restricted access and a choice from a variety of licenses. Datasets are stored within the EU, are preserved for a minimum of ten years, and assigned a DOI. Research data up to 50 GB can be stored for free, but deposition of larger datasets must be negotiated.
+### Zenodo
 
-When choosing a repository for your data, be sure to think of the criteria the repository needs to meet in terms of your data, funders and journal editors (e.g. assigning a DOI, adding adequate metadata, and being able to select a license). You can ask your peers if they know discipline-specific repositories that are commonly used in your field of research but make sure these repositories meet your criteria.
+[Zenodo](https://zenodo.org/) is an European initiative providing a data repository for research data from all fields. Zenodo can also be connected to GitHub, enabling code citation from GitHub (https://guides.github.com/activities/citable-code/). The repository allows for restricted access and a choice from a variety of licenses. Datasets are stored within the EU, are preserved for a minimum of ten years, and assigned a DOI. Research data up to 50 GB can be stored for free, but deposition of larger datasets must be negotiated.
+
+### DANS
+
+[DANS](https://dans.knaw.nl/) is a Dutch repository for research data offering domain-specific digital repositories for research data, the DANS Data Stations. There is a data station for archaeology, for social & humanities, for nature & technical sciences, and a data station for the life sciences. These repositories use the open-source Dataverse software developed by Harvard University.
 
 ## Registration of Your Dataset in Pure
 
 Once you have published, archived or deposited research data in a data repository, please register your research data in **Pure**. Pure is the source system for registration of all forms of TU/e research output, including research data. Please note that Pure is intended for the **registration** of records of datasets or data collections. **Do not use Pure to archive the actual data**. The actual data must be deposited in a data repository. If you have not done this yet, please do this first.
 
-In many cases, your research data will be part of or be related to other research output (for example, a journal publication or the underlying research data published in a data repository). In Pure you can easily link research output that is related to each other or part of a larger project. At the bottom of the registration form, a field called _Relations to other content_ is shown; this allows you to link research datasets to papers, book chapters, a PhD or master thesis, etc. The exact details on how to do this are explained [**here**](https://assets.w3.tue.nl/w/fileadmin/user_upload/Werkinstructie%20Datasets%20registreren%20in%20Pure%20-%20August%202020.pdf).
+In many cases, your research data will be part of or be related to other research output (for example, a journal publication or the underlying research data published in a data repository). In Pure you can easily link research output that is related to each other or part of a larger project. At the bottom of the registration form, a field called *Relations to other content* is shown; this allows you to link research datasets to papers, book chapters, a PhD or master thesis, etc. The exact details on how to do this are explained [**here**](https://assets.w3.tue.nl/w/fileadmin/user_upload/Werkinstructie%20Datasets%20registreren%20in%20Pure%20-%20August%202020.pdf).
 
 For further questions about repositories or registering your dataset in Pure, please contact the Data Stewards (rdmsupport@tue.nl).
 

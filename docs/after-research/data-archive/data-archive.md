@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Data Package
+# Data Archive
 
 To make your research sustainable, facilitate reuse of data and allow replication of a study, a **data package** should be made. The information in the data package should correspond to the information in the article that reports the results. Other researchers should be able to replicate your study independently and solely based on this information. The information should be concise yet as complete as possible.
 

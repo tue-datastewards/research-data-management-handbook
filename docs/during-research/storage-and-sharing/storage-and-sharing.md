@@ -4,7 +4,7 @@ for_glossary: true
 codata_uri: https://terms.codata.org/rdmt/data-sharing
 ---
 
-# Data Storage & Sharing
+# Secure Storage & Sharing
 
 Adopting good practices in storing and sharing your research data can save a lot of time in finding and interpreting, but also securing your data. There are various ways to store and share your research data safely as your project progresses, along with other means to ensure data security.
 
@@ -14,7 +14,7 @@ Data safety entails protecting data against loss by making regular back-ups of 
 
 To get an overview of storage solutions offered and supported by TU/e, visit [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html). If you are in doubt, please contact your [Data Steward](/docs/contact.md).
 
-Storing data on personal computers or mobile hard disks or USBs is discouraged due to irregular back-ups and the high potential for loss of the data. Storing data in cloud services outside the EU (Google Drive, Dropbox, iCloud or private (i.e., without TU/e credentials) OneDrive) should also be avoided because of possible non-compliance with the GDPR. Tailored advice on data storing and sharing can be provided, and storage solutions arranged, by the [Data Stewards](/docs/contact.md).
+Storing data on personal computers or mobile hard disks or USBs is discouraged due to irregular back-ups and the high potential for loss of the data. Storing data in cloud services outside the EU (Google Drive, Dropbox, iCloud or private (i.e., without TU/e credentials) OneDrive) should also be avoided because of possible non-compliance with the GDPR. Never store sensitive data on portable USB devices. Tailored advice on data storing and sharing can be provided, and storage solutions arranged, by the [Data Stewards](/docs/contact.md).
 
 ## Data sharing 
 
@@ -54,16 +54,16 @@ A cloud storage service for data storage and sharing, hosted by Microsoft. Datas
 
 MS OneDrive is your **own personal TU/e storage**. Upon leaving the university, your personal OneDrive account and all its content will be deleted. If you have project data that others (within your research group/colleagues) may need or your results will be included in a publication, make sure to transfer them into a shared storage, such as Network drive, before your departure from TU/e.
 
-## Data security tips & tricks
+## Security tips & tricks
 
-- Always use hard drive encryption (e.g., Bitlocker on Windows (already installed on TU/e laptops) and FileVault on Apple).
-- Lock your PC when you leave, to block unauthorized physical access (shortcut Windows + L).
-- Keep your operating system up to date.
-- Do not use public Wi-Fi networks without VPN.
-- [Use unique, strong passwords](https://my.norton.com/extspa/passwordmanager?path=pwd-gen) and keep them private.
-- Use a spam filter in your e-mail client.
-- Do not open e-mails and attachments from unknown senders.
-- Never store sensitive data on portable USB devices.
+Digital data is prone to risks, like hacking or cyber-attacks. To mitigate these risks, it is crutial to ensure that suitable security measures are in place for your digital environments. Consider the following tips & tricks when working in a digital environment:
+
+- Never share your login details and always use long, unique passwords. A helpful tip is to create memorable sentences as your password. Additionally, make sure your TU/e account password is different from the ones you use for other services outside TU/e.
+- Automatically update your laptop, smartphone, or table, including their operating system.
+- Enable your firewall, screen saver, password protection, and antivirus software at all times. Avoid opening emails and attachments from unknown senders, and promptly report any suspicious messages using the _Report_ button in MS Outlook.
+- Use Full-Disk Encryption (FDE) to prevent others extracting information from your devices. You may use Filevault (Mac) or Bitlocker (Windows) to encrypt your device.
+- Avoid working in environments where others can easily view your screen or overhear your conversations. Always lock your screen and your device with cable lock, available via the TU/e Self-Service Portal, when stepping away.
+- When working remotely, always use the TU/e Virtual Private Network (VPN) using EduVPN to securely access and transfer data, as it protects the connection between your device and univeristy systems. Do not use public WiFi connections.
 - If you don’t trust what you see on your notebook, immediately shut down the notebook, disconnect the network and call Information Management & Services (+31 40 247 2000) - A full shutdown of a notebook requires pressing and holding the power key for a minimum of 20 seconds.
 - If devices or data are lost or stolen, please contact the Computer Emergency Response Team ([cert@tue.nl](mailto:cert@tue.nl) / +31 40 247 5678) as quickly as possible and within 24 hours if personal data are involved.
 

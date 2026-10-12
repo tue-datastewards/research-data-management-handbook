@@ -42,8 +42,8 @@ A cloud storage service that allows data storage, synchronization, and secure sh
 
 SURF Research Drive is the preferable solution for **external collaboration storage**.
 
-:::tip
-Here you find an example use-case: A researcher is looking for a storage for biomedical sample data, including special category personal data.
+:::tip[Example use-case]
+A researcher is looking for a storage for biomedical sample data, including special category personal data.
 The researcher wants to keep the data available in case they leave TU/e and needs to share the data with an external partner.
 The recommended storage solution is SURF Research Drive with encryption[^1].
 :::

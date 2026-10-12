@@ -6,6 +6,15 @@ sidebar_position: 2
 
 Generating data and software as well as publishing results in scientific journals take a lot of effort. Thus, it is important to properly archive your research output. Archiving data means that you ensure that [definitive data](/docs/intro/research-data/research-data.md#active--definitive-data) is kept in a secure location for the long term (10 years or more).
 
+## Retention Periods
+
+| Type of data               | Recommended retention period                                                                 |
+| -------------------------- | -------------------------------------------------------------------------------------------- |
+| Student thesis and reports | 5 to 7 years                                                                                 |
+| Data from student projects | To be discussed with supervisor. In principle, data can be deleted after project completion. |
+
+## RAPS
+
 For RAPS, the information in the data package should correspond to the information in the same article that reports the results.
 
 ## FAQ

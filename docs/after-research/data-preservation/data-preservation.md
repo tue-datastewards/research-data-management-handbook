@@ -4,23 +4,28 @@ for_glossary: true
 codata_uri: https://terms.codata.org/rdmt/preservation
 ---
 
-# Data Preservation & Continuity
+# Preservation & Continuity
 
-The information below is meant to help defining the next steps related to data preservation and/or continuity of research when researchers are leaving the TU/e.
+The information below is intended to support decisions on the next steps for data preservation and/or research continuity when researchers leave TU/e.
 
-**Preservation** refers to activities in which data and metadata are mantained overtime so that they can still be accessed and understood while **continuity** refers to activities that ensure ongoing work can be continued after someone leaves.
+**Preservation** refers to activities that ensure data and metadata are maintained over time so they remain accessible, understandable, and reusable. **Continuity** refers to activities that enable ongoing research to continue after a researcher leaves.
 
-For either case, it is important to aggregate all data and related documentation into a **data package** that can be deposited in a repository, archive, or transfered to your supervisor or the researchers who will continue the project.
+In both cases, it is important to consolidate all research data and related documentation into a **data package**. This package can then be deposited in a repository or archive, or transferred to a supervisor or the researcher(s) who will continue the project.
 
 ## Guidelines based on use-cases
 
 For research data managed within TU/e, an overview of recommended solutions for data preservation and continuity is provided below. Please note that individual research projects may fall under more than one of the use-cases described in the table. Furthermore, any provisions defined in legal or contractual documents (such as consortium agreements, data processing agreements, or participants’ informed consent) take precedence over the guidance presented here.
 
-| #   | Use-case                                                                                                                    | Recommended solution                                                                                                                                              |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | _I have datasets worth sharing and reusing_                                                                                 | [Data repository](../data-repository/)                                                                                                                            |
-| 2   | _Study is done resulting in a scientific publication_ <br/> _I need to archive data for scientific integrity purposes only_ | RAPS and see case 1. If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/) |
-| 3   | _I’m leaving the university_                                                                                                | Departmental data off-boarding procedure. If no specific guidelines or procedure is in place your department, consider the following:                             |
+| #   | Use-case                                                                                                                    | Recommended solution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | _I have datasets worth sharing and reusing_                                                                                 | [Data repository](../data-repository/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2   | _Study is done resulting in a scientific publication_ <br/> _I need to archive data for scientific integrity purposes only_ | RAPS and see case 1. If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/)                                                                                                                                                                                                                                                                                                                                                                                      |
+| 3   | _I’m leaving the university_                                                                                                | Departmental data off-boarding procedure. If no specific guidelines or procedure is in place your department, consider the following: For each IT solution used within the project, the researcher must ensure that ownership of all project-related data is formally transferred to the supervisor or another designated colleague involved in the project. Where external collaborators or industrial partners are involved, appropriate arrangements must be in place to ensure their continued access to the data for the duration of the project. |
+
+The following cases apply:
+
+- If the researcher is an employee: If continued access to the data is required, refer to Case 1 or formalize a data agreement with TU/e. In some cases, it may be necessary to reassess the suitability of the storage solution in use.
+- If the researcher is a student: The data remains the property of the student, as their intellectual property is protected, unless otherwise agreed at the outset of the research project. In this situation, no data agreement is required; however, Case 1 may still be applicable and should be considered where relevant.
 
 ## Data package
 

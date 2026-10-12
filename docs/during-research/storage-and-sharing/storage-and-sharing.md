@@ -68,11 +68,11 @@ For the active research phase, select your storage solution according to your ro
 These guidelines applies only to research data. For non-research data such as administrative or education data, contact the respective [Data Domain Coordinators](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Data-domain-coordinators.aspx).
 :::
 
-| Use-case                                 | Confidentiality low or medium              | Confidentiality high                 |
-| ---------------------------------------- | ------------------------------------------ | ------------------------------------ |
-| student working on their final project   | OneDrive                                   | OneDrive + encryption[^1]            |
-| staff sharing data internally only       | TU/e Network Drive or MS Teams/SharePoint  | TU/e Network Drive                   |
-| staff sharing data with external parties | SURF Research Drive or MS Teams/SharePoint | SURF Research Drive + encryption[^1] |
+| Use-case                                     | Confidentiality low or medium              | Confidentiality high                 |
+| -------------------------------------------- | ------------------------------------------ | ------------------------------------ |
+| **Student working on their final project**   | OneDrive                                   | OneDrive + encryption[^1]            |
+| **Staff sharing data internally only**       | TU/e Network Drive or MS Teams/SharePoint  | TU/e Network Drive                   |
+| **Staff sharing data with external parties** | SURF Research Drive or MS Teams/SharePoint | SURF Research Drive + encryption[^1] |
 
 [^1]: For encryption and management of the keys, please use [Cryptomator Hub](https://cockpit.research.tue.nl/helpcenter/research/portal/11)
 

@@ -54,6 +54,20 @@ A cloud storage service for data storage and sharing, hosted by Microsoft. Datas
 
 MS OneDrive is your **own personal TU/e storage**. Upon leaving the university, your personal OneDrive account and all its content will be deleted. If you have project data that others (within your research group/colleagues) may need or your results will be included in a publication, make sure to transfer them into a shared storage, such as Network drive, before your departure from TU/e.
 
+## Guideline for selecting storage
+
+For the active research phase, select your storage solution according to your role, collaboration and continous sharing with external parties, and confidentality level of the research data, defined according to Research Data Classification Guideline.
+
+:::tip
+This guideline applies only to research data. For non-research data such as administrative or education data, contact the respective [Data Domain Coordinators](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Data-domain-coordinators.aspx).
+:::
+
+| Use-case | Confidentiality low or medium | Confidentiality high |
+| -------- | ----------------------------- | -------------------- |
+| student  | OneDrive                      | OneDrive             |
+| staff    | Network Drive                 | x                    |
+| staff    | Network Drive                 | x                    |
+
 ## Security tips & tricks
 
 Digital data is prone to risks, like hacking or cyber-attacks. To mitigate these risks, it is crutial to ensure that suitable security measures are in place for your digital environments. Consider the following tips & tricks when working in a digital environment:

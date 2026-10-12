@@ -4,7 +4,20 @@ for_glossary: true
 codata_uri: https://terms.codata.org/rdmt/preservation
 ---
 
-# Data Preservation
+# Data Preservation & Continuity
+
+The information below is meant to help defining the next steps related to data preservation and/or continuity of research when researchers are leaving the TU/e.
+
+Data **preservation** refers to activities in which data and metadata are mantained overtime so that they can still be accessed and understood while **continuity** refers to activities that ensure ongoing work can be continued after someone leaves.
+
+## Guidelines based on use-cases
+
+For research data managed within TU/e, an overview of recommended solutions for data preservation and continuity is provided below. Please note that individual research projects may fall under more than one of the use-cases described in the table. Furthermore, any provisions defined in legal or contractual documents (such as consortium agreements, data processing agreements, or participants’ informed consent) take precedence over the guidance presented here.
+
+| #   | Use-case                                              | Recommended solution | Fallback solution                                |
+| --- | ----------------------------------------------------- | -------------------- | ------------------------------------------------ |
+| 1   | _I have datasets worth sharing and reusing_           | x                    | x                                                |
+| 2   | _Study is done resulting in a scientific publication_ | RAPS and             | Read-only folder in TU/e shared storage solution |
 
 ## Archiving data
 

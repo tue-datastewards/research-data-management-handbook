@@ -42,10 +42,10 @@ A cloud storage service that allows data storage, synchronization, and secure sh
 
 SURF Research Drive is the preferable solution for **external collaboration storage**.
 
-:::example use-case
-A researcher is looking for a storage for biomedical sample data, including special category personal data.
+:::tip
+Here you find an example use-case: A researcher is looking for a storage for biomedical sample data, including special category personal data.
 The researcher wants to keep the data available in case they leave TU/e and needs to share the data with an external partner.
-The recommended storage solution is SURF Research Drive with encryption.
+The recommended storage solution is SURF Research Drive with encryption[^1].
 :::
 
 ### MS Teams/SharePoint
@@ -68,11 +68,11 @@ For the active research phase, select your storage solution according to your ro
 These guidelines applies only to research data. For non-research data such as administrative or education data, contact the respective [Data Domain Coordinators](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Data-domain-coordinators.aspx).
 :::
 
-| Use-case                                 | Confidentiality low or medium              | Confidentiality high             |
-| ---------------------------------------- | ------------------------------------------ | -------------------------------- |
-| student working on their final project   | OneDrive                                   | OneDrive + encryption [^1]       |
-| staff sharing data internally only       | TU/e Network Drive or MS Teams/SharePoint  | TU/e Network Drive               |
-| staff sharing data with external parties | SURF Research Drive or MS Teams/SharePoint | SURF Research Drive + encryption |
+| Use-case                                 | Confidentiality low or medium              | Confidentiality high                 |
+| ---------------------------------------- | ------------------------------------------ | ------------------------------------ |
+| student working on their final project   | OneDrive                                   | OneDrive + encryption[^1]            |
+| staff sharing data internally only       | TU/e Network Drive or MS Teams/SharePoint  | TU/e Network Drive                   |
+| staff sharing data with external parties | SURF Research Drive or MS Teams/SharePoint | SURF Research Drive + encryption[^1] |
 
 [^1]: For encryption and management of the keys, please use [Cryptomator Hub](https://cockpit.research.tue.nl/helpcenter/research/portal/11)
 

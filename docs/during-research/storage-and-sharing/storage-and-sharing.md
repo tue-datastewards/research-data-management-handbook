@@ -30,22 +30,29 @@ Sharing or receiving (personal) data from an external party requires a [**data a
 
 Main safe storage facilities supported by TU/e are:
 
-- **TU/e Network Drive** *
+### TU/e Network Drive
 
-  Departments and research groups can request their collective group folders which staff members have access to. These folders can be used for sharing research data with other TU/e researchers. Network drives are suitable for the storage of regular and special category of personal data as well as any type of confidential data. Data on TU/e network drives are backed up daily and copies (snapshots) are retained for 30 days. You can request TU/e Network Drive via the [Topdesk Form, Request/change TU/e Network Drive](https://tue.topdesk.net/tas/public/ssp/content/serviceflow?unid=a660bced4a574da5afa7ae5e1ccc87ad&openedFromService=true) (TU/e login required).
+Departments and research groups can request their collective group folders which staff members have access to. These folders can be used for sharing research data with other TU/e researchers. Network drives are suitable for the storage of regular and special category of personal data as well as any type of confidential data. Data on TU/e network drives are backed up daily and copies (snapshots) are retained for 30 days. You can request TU/e Network Drive via the [Topdesk Form, Request/change TU/e Network Drive](https://tue.topdesk.net/tas/public/ssp/content/serviceflow?unid=a660bced4a574da5afa7ae5e1ccc87ad&openedFromService=true) (TU/e login required).
 
-The TU/e Network Drive is the _primary research storage solution_*. Alternative storage solutions require additional security measures when you store or share **[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)** such as client-side encryption. For further information, please consult a [Data Steward](/docs/contact.md).
+The TU/e Network Drive is the **primary research storage solution**. Alternative storage solutions require additional security measures when you store or share **[special category personal data](https://tue.atlassian.net/servicedesk/customer/portal/3/article/2641100840)** such as client-side encryption. For further information, please consult a [Data Steward](/docs/contact.md).
 
-- **SURF Research Drive** **(External collaboration storage – preferable)**  
-  A cloud storage service that allows data storage, synchronization, and secure sharing of data within research projects. Research Drive is hosted by SURF and storage space on Research Drive is allocated on a project basis instead of a personal basis, entailing that data storage can be maintained after a researcher has left TU/e. Research Drive can provide scalable storage space, with back-ups/disaster recovery and allows setting access rights. The data are stored in the Netherlands and can be shared with TU/e researchers and researchers from other universities and institutes (also abroad). Further information on Research Drive can be found on the [Research Drive page on SURF User Knowledge Base](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/117178843/Research+Drive) and on the [Research Cockpit](https://cockpit.research.tue.nl/servicedesk/customer/portal/12).
+### SURF Research Drive
 
-- **Teams/SharePoint (External collaboration storage – alternative)**  
-  With Teams and SharePoint you have additional functionalities for team collaboration and organization wide communication on top of the OneDrive storage. Teams and SharePoint sites can store up to 2.5TB of data. If more storage is needed, contact LIS Services.
+A cloud storage service that allows data storage, synchronization, and secure sharing of data within research projects. Research Drive is hosted by SURF and storage space on Research Drive is allocated on a project basis instead of a personal basis, entailing that data storage can be maintained after a researcher has left TU/e. Research Drive can provide scalable storage space, with back-ups/disaster recovery and allows setting access rights. The data are stored in the Netherlands and can be shared with TU/e researchers and researchers from other universities and institutes (also abroad). Further information on Research Drive can be found on the [Research Drive page on SURF User Knowledge Base](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/117178843/Research+Drive) and on the [Research Cockpit](https://cockpit.research.tue.nl/servicedesk/customer/portal/12).
 
-  - **OneDrive (Your own personal TU/e storage)**  
-    A cloud storage service for data storage and sharing, hosted by Microsoft. Datasets are stored on servers in Europe. Each TU/e member has access to a personal storage of 1TB space, accessed via TU/e account. Data can be easily shared with other researchers with a Microsoft account, both within and outside TU/e (for collaboration on a project, check Research Drive or Sharepoint options below). Data can also be shared with guest users or external parties via a “share link” functionality.
+SURF Research Drive is the preferable solution for **external collaboration storage**.
 
-**Note:** Upon leaving the university, your personal OneDrive account and all its content will be deleted. If you have project data that others (within your research group/colleagues) may need or your results will be included in a publication, make sure to transfer them into a shared storage, such as Network drive, before your departure from TU/e.
+### MS Teams/SharePoint
+
+With Teams and SharePoint you have additional functionalities for team collaboration and organization wide communication on top of the OneDrive storage. Teams and SharePoint sites can store up to 2.5TB of data. If more storage is needed, contact LIS Services.
+
+MS Teams/SharePoint is an alternative solution for **external collaboration storage**.
+
+### MS OneDrive
+
+A cloud storage service for data storage and sharing, hosted by Microsoft. Datasets are stored on servers in Europe. Each TU/e member has access to a personal storage of 1TB space, accessed via TU/e account. Data can be easily shared with other researchers with a Microsoft account, both within and outside TU/e (for collaboration on a project, check Research Drive or Sharepoint options below). Data can also be shared with guest users or external parties via a “share link” functionality.
+
+MS OneDrive is your **own personal TU/e storage**. Upon leaving the university, your personal OneDrive account and all its content will be deleted. If you have project data that others (within your research group/colleagues) may need or your results will be included in a publication, make sure to transfer them into a shared storage, such as Network drive, before your departure from TU/e.
 
 ## Data security tips & tricks
 

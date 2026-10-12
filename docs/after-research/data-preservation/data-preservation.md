@@ -10,21 +10,21 @@ The information below is meant to help defining the next steps related to data p
 
 **Preservation** refers to activities in which data and metadata are mantained overtime so that they can still be accessed and understood while **continuity** refers to activities that ensure ongoing work can be continued after someone leaves.
 
+For either case, it is important to aggregate all data and related documentation into a **data package** that can be deposited in a repository, archive, or transfered to your supervisor or the researchers who will continue the project.
+
 ## Guidelines based on use-cases
 
 For research data managed within TU/e, an overview of recommended solutions for data preservation and continuity is provided below. Please note that individual research projects may fall under more than one of the use-cases described in the table. Furthermore, any provisions defined in legal or contractual documents (such as consortium agreements, data processing agreements, or participants’ informed consent) take precedence over the guidance presented here.
 
-| #   | Use-case                                                                                                                 | Recommended solution                                                                                                                                              |
-| --- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | _I have datasets worth sharing and reusing_                                                                              | [Data repository](../data-repository/)                                                                                                                            |
-| 2   | _Study is done resulting in a scientific publication_ or _I need to archive data for scientific integrity purposes only_ | RAPS and see case 1. If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/) |
-| 3   | _I’m leaving the university_                                                                                             | Departmental data off-boarding procedure. If no specific guidelines or procedure is in place your department, consider the following:                             |
+| #   | Use-case                                                                                                                    | Recommended solution                                                                                                                                              |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | _I have datasets worth sharing and reusing_                                                                                 | [Data repository](../data-repository/)                                                                                                                            |
+| 2   | _Study is done resulting in a scientific publication_ <br/> _I need to archive data for scientific integrity purposes only_ | RAPS and see case 1. If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/) |
+| 3   | _I’m leaving the university_                                                                                                | Departmental data off-boarding procedure. If no specific guidelines or procedure is in place your department, consider the following:                             |
 
-## Archiving data
+## Data package
 
-Generating data and software as well as publishing results in scientific journals take a lot of effort. Thus, it is important to properly archive your research output. Archiving data means that you ensure that [definitive data](/docs/intro/research-data/research-data.md#active--definitive-data) is kept in a secure location for the long term (10 years or more). The purpose of archiving may vary, including research integrity, future reuse, reproducibility, or compliance with funding or institutional requirements.
-
-Deciding which research data to archive involves consideration of the purpose and a careful evaluation of different factors (such as data quality, significance, uniqueness, potential for reuse, and alignment with your research objectives) to ensure that valuable and relevant data are preserved. The table below provides a summary of what should be archived depending for research integrity and data reuse purposes. Check the next section for more information.
+To make your research sustainable, facilitate reuse of data and allow replication of a study, a **data package** should be made. The purpose of the data package may vary, including research integrity, future reuse, reproducibility, or compliance with funding or institutional requirements.
 
 | Perspective of scientific integrity                                                                 | Perspective of reuse of data                                                                        |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -34,6 +34,23 @@ Deciding which research data to archive involves consideration of the purpose an
 | Informed consents forms                                                                             | Template of informed consent form used in a study                                                   |
 | Approval letter from the Ethical Review Board                                                       | &nbsp;                                                                                              |
 | If applicable: Data Management Plan                                                                 | &nbsp;                                                                                              |
+
+Other researchers should be able to replicate your study independently and solely based on this information. The information should be concise yet as complete as possible.
+
+Your data package should include the following:
+
+- A **README** or **instruction** file which lists the files inside the package and explains their relation and includes a step-by-step instruction on how to use the files to replicate the study.
+- **Raw data files**. If your study is based on a portion of the original dataset, include only the necessary data. Make sure to include de-identified data in your data package and omit [personal and sensitive data](/docs/privacy/privacy/privacy.md).
+- **Processed data files**. In many cases, the raw data will be transformed to a processed format that is suitable for further analysis.
+- A **data appendix/codebook** which provides information about every variable in your dataset (e.g. variable name, value labels, the type and format of the variable).
+- **Command files/syntax** which includes code scripts that were used to transform the raw data into processed data and code scripts which were used to analyze the data and produce the results. The code should be accompanied by (inline) comments or other instructions needed for others to replicate your study. You should not include information or code in the package that you are not allowed to share (e.g. licensed software).
+- **Protocols** which were used during the study, for instance about the performed experiments.
+- **Lab journals.**
+- **A reference to any publication** which is based on the data.
+- **[License information](../licensing/licensing.md)** which specifies the terms under which the data can be used, modified and distributed.
+- Other metadata, for example the parameters used in your study.
+
+A good yet sometimes daunting way to test the completeness of your data package is to check if you would be able to replicate your study yourself with only the information in the package.
 
 ## Data retention & minimization
 
@@ -92,18 +109,3 @@ After considering the reasons mentioned above, it might still not be entirely st
 - The rationale for these decisions (e.g. scientific value, legal constraints, privacy considerations)
 
 Revisit archiving decisions periodically to ensure continued compliance with policies and alignment with good research practice.
-
-## FAQ
-
-### What is the difference between raw, processed, and analysed data?
-
-Raw data are the original data that you have collected but have not yet processed or analysed. For instance: audio files, archives, observations, field notes and data from experiments. Data you have not collected yourself and that you are reusing, may be considered raw data.
-
-Processed data are the data that you have digitised, translated, transcribed, cleaned, validated, checked and/or anonymised.  
-Analysed data are the models, graphs, tables, texts and so on that you have created based on the raw and the processed data, and that are intended to aid in the discovery of useful information, the presentation of conclusions, and decision-making.
-
-For more information, please see [Research Data](/docs/intro/research-data/research-data.md#raw-processed--analysed-data) page.
-
-### Does TU/e have an archive for research data used in scientific publications?
-
-Yes. Data and other relevant documents associated with scientific publication can be archived in the [TU/e Research Archival Package Solution](https://cockpit.research.tue.nl/servicedesk/customer/portal/7).

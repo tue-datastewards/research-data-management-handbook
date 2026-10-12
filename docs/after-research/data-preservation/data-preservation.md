@@ -16,11 +16,13 @@ In both cases, it is important to consolidate all research data and related docu
 
 For research data managed within TU/e, an overview of recommended solutions for data preservation and continuity is provided below. Please note that individual research projects may fall under more than one of the use-cases described in the table. Furthermore, any provisions defined in legal or contractual documents (such as consortium agreements, data processing agreements, or participants’ informed consent) take precedence over the guidance presented here.
 
-| #   | Use-case                                                                                                                    | Recommended solution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | _I have datasets worth sharing and reusing_                                                                                 | [Data repository](../data-repository/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 2   | _Study is done resulting in a scientific publication_ <br/> _I need to archive data for scientific integrity purposes only_ | RAPS and see case 1. If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/)                                                                                                                                                                                                                                                                                                                                                                                      |
-| 3   | _I’m leaving the university_                                                                                                | Departmental data off-boarding procedure. If no specific guidelines or procedure is in place your department, consider the following: For each IT solution used within the project, the researcher must ensure that ownership of all project-related data is formally transferred to the supervisor or another designated colleague involved in the project. Where external collaborators or industrial partners are involved, appropriate arrangements must be in place to ensure their continued access to the data for the duration of the project. |
+| #   | Use-case                                                                                                                    | Recommended solution                                                                                                                                                  |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | _I have datasets worth sharing and reusing_                                                                                 | [Data repository](../data-repository/)                                                                                                                                |
+| 2   | _Study is done resulting in a scientific publication_ <br/> _I need to archive data for scientific integrity purposes only_ | RAPS and see case 1. If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/)     |
+| 3   | _I’m leaving the university_                                                                                                | Departmental data off-boarding procedure. If no specific guidelines or procedure is in place your department, consider the manual off-boarding steps described below. |
+
+For each IT solution used within the project, the researcher must ensure that ownership of all project-related data is formally transferred to the supervisor or another designated colleague involved in the project. Where external collaborators or industrial partners are involved, appropriate arrangements must be in place to ensure their continued access to the data for the duration of the project.
 
 The following cases apply:
 
@@ -57,46 +59,46 @@ Your data package should include the following:
 
 A good yet sometimes daunting way to test the completeness of your data package is to check if you would be able to replicate your study yourself with only the information in the package.
 
-## Data retention & minimization
+### Data retention & minimization
 
 The below checklist will help you define whether a given dataset is worth including to the archival package. Broadly speaking, consider three categories of reasons (1) documentation & reproducibility, (2) scientific value, and (3) policy & legal compliance.
 
-### Documentation & reproducibility
+#### Documentation & reproducibility
 
-#### 💾 Reasons to retain data
+##### 💾 Reasons to retain data
 
 - Data are sufficiently [**documented**](/docs/during-research/docs-and-metadata), [**organized**](/docs/during-research/data-organization), and accompanied by metadata (e.g. methods, variables, file structure) so that others can understand and reuse them.
 - Data that can be easily understood and reused by others, facilitating reproducibility and validation.
 - Whenever possible, raw and processed data, as well as any intermediate results or transformations should be kept alongside the analyzed data.
 
-#### 🗜️ Reasons to minimize or remove data
+##### 🗜️ Reasons to minimize or remove data
 
 - Data lack essential documentation or contextual information and cannot reasonably be made understandable.
 - Data are redundant because equivalent, better-documented versions are already archived.
 
-### Scientific value
+#### Scientific value
 
-#### 💾 Reasons to retain data
+##### 💾 Reasons to retain data
 
 - Data is required for reproducing the results of the published results (that is, data in original form or data representing the publication).
 - Data is unique, and thus impossible or impractical to reproduce.
 - Data represent a landmark discovery or new precedent.
 
-#### 🗜️ Reasons to minimize or remove data
+##### 🗜️ Reasons to minimize or remove data
 
 - Data is intermediary or test data, which is neither the original data nor the analysis dataset for the publication.
 - Data can easily be reproduced with minimal effort (e.g., via code).
 - The quality of data is poor (corrupted files, insufficient precision of measurement data, etc.) or not well-documented what makes it impossible to reuse.
 
-### Policy & legal compliance
+#### Policy & legal compliance
 
-#### 💾 Reasons to retain data
+##### 💾 Reasons to retain data
 
 - You promised to retain data in a contract.
 - Funding body or a journal requires you to retain the data (e.g., NWO asks archiving data at least for 10 years).
 - Data may be used in future legal procedures (e.g., litigation, police investigations, Freedom of Information requests).
 
-#### 🗜️ Reasons to minimize or remove data
+##### 🗜️ Reasons to minimize or remove data
 
 - You promised to remove certain data to your participants or your data provider.
 - You've promised to delete data at the end of the project in a contract.

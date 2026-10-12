@@ -8,10 +8,12 @@ Generating data and software as well as publishing results in scientific journal
 
 ## Retention Periods
 
-| Type of data               | Recommended retention period                                                                 |
-| -------------------------- | -------------------------------------------------------------------------------------------- |
-| Student thesis and reports | 5 to 7 years                                                                                 |
-| Data from student projects | To be discussed with supervisor. In principle, data can be deleted after project completion. |
+| Type of data                 | Recommended retention period                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------- |
+| Student thesis and reports   | 5 to 7 years                                                                                 |
+| Data from student projects   | To be discussed with supervisor. In principle, data can be deleted after project completion. |
+| Research data underpinning a |
+| publication                  | Minimum of 10 years                                                                          |
 
 ## RAPS
 

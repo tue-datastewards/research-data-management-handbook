@@ -15,11 +15,17 @@ Generating data and software as well as publishing results in scientific journal
 | Research data underpinning a |
 | publication                  | Minimum of 10 years                                                                          |
 
-## RAPS
+## Available solutions
+
+### RAPS
 
 For RAPS, the information in the data package should correspond to the information in the same article that reports the results.
 
 ## FAQ
+
+### If I am co-author of a publication, am I also responsible for archiving that data, or is the main author responsible?
+
+You should keep, at least, an archive of your own contribution (input and output). Ideally, the main author or corresponding institution maintains a complete archive that co-authors can point to. Coordinate where possible to avoid fragmentation across institutions.
 
 ### What is the difference between raw, processed, and analysed data?
 

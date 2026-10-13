@@ -6,9 +6,7 @@ codata_uri: https://terms.codata.org/rdmt/preservation
 
 # Preservation & Continuity
 
-The information below is intended to support decisions on the next steps for data preservation and/or research continuity when researchers leave TU/e.
-
-**Preservation** refers to activities that ensure data and metadata are maintained over time so they remain accessible, understandable, and reusable. **Continuity** refers to activities that enable ongoing research to continue after a researcher leaves.
+The information below is intended to support decisions on the next steps for data preservation and/or research continuity when researchers leave TU/e. **Preservation** refers to activities that ensure data and metadata are maintained over time so they remain accessible, understandable, and reusable. **Continuity** refers to activities that enable ongoing research to continue after a researcher leaves.
 
 In both cases, it is important to consolidate all research data and related documentation into a **data package**. This package can then be deposited in a repository or archive, or transferred to a supervisor or the researcher(s) who will continue the project.
 
@@ -16,35 +14,26 @@ In both cases, it is important to consolidate all research data and related docu
 
 For research data managed within TU/e, an overview of recommended solutions for data preservation and continuity is provided below. Please note that individual research projects may fall under more than one of the use-cases described in the table. Furthermore, any provisions defined in legal or contractual documents (such as consortium agreements, data processing agreements, or participants’ informed consent) take precedence over the guidance presented here.
 
-| #   | Use-case                                                                                                                    | Recommended solution                                                                                                                                                  |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | _I have datasets worth sharing and reusing_                                                                                 | [Data repository](../data-repository/)                                                                                                                                |
-| 2   | _Study is done resulting in a scientific publication_ <br/> _I need to archive data for scientific integrity purposes only_ | RAPS and see case 1. If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/)     |
-| 3   | _I’m leaving the university_                                                                                                | Departmental data off-boarding procedure. If no specific guidelines or procedure is in place your department, consider the manual off-boarding steps described below. |
+| #   | Use-case                                                                                                                    | Recommended solution                                                                                                                                                                                                                  |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | _I have datasets worth sharing and reusing_                                                                                 | [Data repository](../data-repository/). If data cannot be made open access (immediatelly), deposit under restricted (embargoed) access in a repository that supports it.                                                              |
+| 2   | _Study is done resulting in a scientific publication_ <br/> _I need to archive data for scientific integrity purposes only_ | RAPS (see [Data Archive](../data-archive/)). If not possible, consider transfering data to read-only folder in TU/e shared [storage solution](../../during-research/storage-and-sharing/). Consider also use-case 1.                  |
+| 3   | _I’m leaving the university_                                                                                                | Departmental data off-boarding procedure. If no specific guidelines or procedures are in place in your department, consider the manual [data off-boarding steps](#data-off-boarding-steps) described below. Consider also use-case 1. |
 
-For each IT solution used within the project, the researcher must ensure that ownership of all project-related data is formally transferred to the supervisor or another designated colleague involved in the project. Where external collaborators or industrial partners are involved, appropriate arrangements must be in place to ensure their continued access to the data for the duration of the project.
+## Data off-boarding steps
+
+For each IT solution used within the project, the researcher must ensure that ownership of all project-related data is formally transferred to the supervisor or another designated colleague involved in the project.
+
+Where external collaborators or industrial partners are involved, appropriate arrangements must be in place to ensure their continued access to the data for the duration of the project.
 
 The following cases apply:
 
-- If the researcher is an employee: If continued access to the data is required, refer to Case 1 or formalize a data agreement with TU/e. In some cases, it may be necessary to reassess the suitability of the storage solution in use.
-- If the researcher is a student: The data remains the property of the student, as their intellectual property is protected, unless otherwise agreed at the outset of the research project. In this situation, no data agreement is required; however, Case 1 may still be applicable and should be considered where relevant.
+- **If the researcher is an employee:** If continued access to the data is required, refer to Case 1 or formalize a data agreement with TU/e. In some cases, it may be necessary to reassess the suitability of the storage solution in use.
+- **If the researcher is a student:** The data remains the property of the student, as their intellectual property is protected, unless otherwise agreed at the outset of the research project. In this situation, no data agreement is required; however, Case 1 may still be applicable and should be considered where relevant.
 
 ## Data package
 
-To make your research sustainable, facilitate reuse of data and allow replication of a study, a **data package** should be made. The purpose of the data package may vary, including research integrity, future reuse, reproducibility, or compliance with funding or institutional requirements.
-
-| Perspective of scientific integrity                                                                 | Perspective of reuse of data                                                                        |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| All raw, processed and analysed data                                                                | Final versions of analysed data If possible: also raw and processed data                            |
-| Documentation (i.e., codebooks, lab journals, protocols, etc.) necessary for understanding the data | Documentation (i.e., codebooks, lab journals, protocols, etc.) necessary for understanding the data |
-| Readme.txt file to help others understand the contents and purpose of the associated files or code  | Readme.txt file to help others understand the contents and purpose of the associated files or code  |
-| Informed consents forms                                                                             | Template of informed consent form used in a study                                                   |
-| Approval letter from the Ethical Review Board                                                       | &nbsp;                                                                                              |
-| If applicable: Data Management Plan                                                                 | &nbsp;                                                                                              |
-
-Other researchers should be able to replicate your study independently and solely based on this information. The information should be concise yet as complete as possible.
-
-Your data package should include the following:
+To support the long-term sustainability of research, facilitate data reuse, and enable the replication of studies, a data package should be prepared. The purpose of the data package may vary, including supporting research integrity, future reuse, reproducibility, or compliance with funder and institutional requirements. Its contents will depend on the intended purpose, but some common components are outlined below.
 
 - A **README** or **instruction** file which lists the files inside the package and explains their relation and includes a step-by-step instruction on how to use the files to replicate the study.
 - **Raw data files**. If your study is based on a portion of the original dataset, include only the necessary data. Make sure to include de-identified data in your data package and omit [personal and sensitive data](/docs/privacy/privacy/privacy.md).
@@ -55,13 +44,15 @@ Your data package should include the following:
 - **Lab journals.**
 - **A reference to any publication** which is based on the data.
 - **[License information](../licensing/licensing.md)** which specifies the terms under which the data can be used, modified and distributed.
-- Other metadata, for example the parameters used in your study.
+- **Data or variable level metadata**, for example the parameters used in your study.
 
-A good yet sometimes daunting way to test the completeness of your data package is to check if you would be able to replicate your study yourself with only the information in the package.
+Regardless of its purpose, a common requirement of any data package is that another researcher should be able to understand and, where feasible, independently replicate the study using only the information it contains. The documentation should therefore be concise while remaining as complete as possible.
+
+A useful, though sometimes challenging, way to assess the completeness of a data package is to ask yourself whether you could replicate the study using only the information included in the package. If the answer is no, additional documentation may be needed.
 
 ### Data retention & minimization
 
-The below checklist will help you define whether a given dataset is worth including to the archival package. Broadly speaking, consider three categories of reasons (1) documentation & reproducibility, (2) scientific value, and (3) policy & legal compliance.
+The below checklist will help you define whether a given dataset is worth including to the data package. Broadly speaking, consider three categories of reasons (1) documentation & reproducibility, (2) scientific value, and (3) policy & legal compliance.
 
 #### Documentation & reproducibility
 

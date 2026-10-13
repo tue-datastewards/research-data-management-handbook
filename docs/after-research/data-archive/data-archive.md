@@ -4,16 +4,21 @@ sidebar_position: 2
 
 # Data Archive
 
-Generating data and software as well as publishing results in scientific journals take a lot of effort. Thus, it is important to properly archive your research output. Archiving data means that you ensure that [definitive data](/docs/intro/research-data/research-data.md#active--definitive-data) is kept in a secure location for the long term (10 years or more).
+Generating research data and software, as well as publishing scientific results, requires significant time and effort. It is therefore important to properly archive research outputs. Archiving data ensures that the [definitive version of the data](/docs/intro/research-data/research-data.md#active--definitive-data) is preserved in a secure location for the long term and retained in accordance with the applicable [retention periods](#retention-periods).
+
+A **data archive** is a service that provides long-term preservation, curation, and access to research data collections with ongoing value. An **archive (noun)** refers to the data collection itself, while **to archive (verb)** refers to engaging in the activities that ensure that data is properly selected, stored accessed, and mantained for keeping the data integrity and usability over time.
 
 ## Retention Periods
 
-| Type of data                 | Recommended retention period                                                                 |
-| ---------------------------- | -------------------------------------------------------------------------------------------- |
-| Student thesis and reports   | 5 to 7 years                                                                                 |
-| Data from student projects   | To be discussed with supervisor. In principle, data can be deleted after project completion. |
-| Research data underpinning a |
-| publication                  | Minimum of 10 years                                                                          |
+Retention period refers to the time or date, starting from the completion of the study, when data could be disposed.
+
+| Type of data                                                                                                                                                            | Recommended retention period                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Research data underpinning a publication                                                                                                                                | Minimum of 10 years                                                                                                                                                                                                                                                                                                             |
+| [Medical / clinical research data](https://english.ccmo.nl/investigators/legal-framework-for-medical-scientific-research/your-research-is-it-subject-to-the-wmo-or-not) | 20 years                                                                                                                                                                                                                                                                                                                        |
+| Personal data (GDPR)                                                                                                                                                    | Adhere to the retention period stated in the informed consent form signed by the participants. In general, personal data should be deleted as soon as possible. Personal data required to ensure scientific integrity, can be retained for longer, following the aforementioned retention periods for research and medical data |
+| Student thesis and reports                                                                                                                                              | 5 to 7 years                                                                                                                                                                                                                                                                                                                    |
+| Data from student projects                                                                                                                                              | To be discussed with supervisor. In principle, data can be deleted after project completion.                                                                                                                                                                                                                                    |
 
 ## Available solutions
 

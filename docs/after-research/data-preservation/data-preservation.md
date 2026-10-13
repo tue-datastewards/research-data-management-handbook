@@ -99,7 +99,7 @@ The below checklist will help you define whether a given dataset is worth includ
 >
 > [_Data sovereignty, data governance and digital sovereignty_, LCRDM](https://zenodo.org/records/10837008)
 
-Choose the best option for your situation to protect research participants' privacy while preserving valuable research data. Ensure you retain only the data necessary to demonstrate the integrity of the research. If any personal data is not essential for this purpose, consider removing it.
+Choose the best option for your situation to protect research participants' privacy while preserving valuable research data. If any personal data is not essential for the purpose of achieving the research goals and demonstrating the integrity of the research, consider removing it.
 
 After considering the reasons mentioned above, it might still not be entirely straightforward whether to keep your data, as this decision can involve subjective judgment. Archiving decisions should be made consciously and, where relevant, in consultation with collaborators or co-authors. Keep a brief record of:
 

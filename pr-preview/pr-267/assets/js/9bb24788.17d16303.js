@@ -1,0 +1,1 @@
+(self.webpackChunksite=self.webpackChunksite||[]).push([[1073],{1951:(e,n,t)=>{const c=t(6540);e.exports=function({content:e}){const n=e&&e.to;return c.useEffect((()=>{n&&window.location.replace(n)}),[n]),null}}}]);

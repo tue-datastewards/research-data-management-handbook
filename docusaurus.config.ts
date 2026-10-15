@@ -170,7 +170,7 @@ const config: Config = {
         redirects: [
           {
             from: "docs/after-research/data-package",
-            to: "docs/after-research/data-preservation/",
+            to: "docs/after-research/data-preservation/#data-package",
           },
         ],
       },

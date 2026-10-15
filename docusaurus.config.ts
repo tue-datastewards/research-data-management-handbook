@@ -164,6 +164,17 @@ const config: Config = {
   plugins: [
     require.resolve("docusaurus-lunr-search"),
     require.resolve("./plugins/generate-glossary"),
+    [
+      require.resolve("./plugins/client-redirects"),
+      {
+        redirects: [
+          {
+            from: "docs/after-research/data-package",
+            to: "docs/after-research/data-preservation/",
+          },
+        ],
+      },
+    ],
   ],
 };
 

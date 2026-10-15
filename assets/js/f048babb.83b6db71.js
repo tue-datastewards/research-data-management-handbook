@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[5138],{9154:e=>{e.exports=JSON.parse('{"to":"/docs/after-research/data-preservation/#data-package"}')}}]);

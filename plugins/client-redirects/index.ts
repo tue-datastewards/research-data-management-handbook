@@ -1,7 +1,17 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "node:fs";
+import path from "node:path";
+import type { LoadContext, Plugin } from "@docusaurus/types";
 
-function escapeHtml(value) {
+type Redirect = {
+  from: string;
+  to: string;
+};
+
+export type PluginOptions = {
+  redirects: Redirect[];
+};
+
+function escapeHtml(value: string): string {
   return value
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -10,7 +20,7 @@ function escapeHtml(value) {
     .replace(/'/g, "&#39;");
 }
 
-function renderRedirect(target) {
+function renderRedirect(target: string): string {
   const escaped = escapeHtml(target);
   return `<!DOCTYPE html>
 <html>
@@ -29,7 +39,10 @@ function renderRedirect(target) {
 `;
 }
 
-module.exports = function pluginClientRedirects(context, options) {
+export default function pluginClientRedirects(
+  context: LoadContext,
+  options: PluginOptions,
+): Plugin<void> {
   const redirects = options.redirects || [];
 
   return {
@@ -47,7 +60,7 @@ module.exports = function pluginClientRedirects(context, options) {
 
           addRoute({
             path: from.startsWith("/") ? from : `/${from}`,
-            component: require.resolve("./RedirectComponent.js"),
+            component: require.resolve("./RedirectComponent.tsx"),
             exact: true,
             modules: { content },
           });
@@ -64,4 +77,4 @@ module.exports = function pluginClientRedirects(context, options) {
       }
     },
   };
-};
+}

@@ -7,7 +7,7 @@ Link to the page: https://tue-datastewards.github.io/research-data-management-ha
 
 ## Glossary
 
-This handbook includes a glossary of research data management terms sourced from the [CODATA Research Data Management Terminology](https://vocabs.ardc.edu.au/show/metacat.2995). Definitions are fetched from the ARDC SPARQL endpoint at build time — no manual setup is required. Each glossary term page also displays a reference badge linking back to the glossary.
+This handbook includes a glossary of research data management terms sourced from the [CODATA Research Data Management Terminology](https://vocabs.ardc.edu.au/viewById/685). Definitions are fetched from the ARDC SPARQL endpoint at build time — no manual setup is required. Each glossary term page also displays a reference badge linking back to the glossary.
 
 ## Local Development
 

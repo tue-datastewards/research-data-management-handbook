@@ -35,6 +35,26 @@ module.exports = function pluginClientRedirects(context, options) {
   return {
     name: "client-redirects",
 
+    async contentLoaded({ actions }) {
+      const { addRoute, createData } = actions;
+
+      await Promise.all(
+        redirects.map(async ({ from, to }, index) => {
+          const content = await createData(
+            `redirect-${index}.json`,
+            JSON.stringify({ to: path.posix.join(context.baseUrl, to) }),
+          );
+
+          addRoute({
+            path: from.startsWith("/") ? from : `/${from}`,
+            component: require.resolve("./RedirectComponent.js"),
+            exact: true,
+            modules: { content },
+          });
+        }),
+      );
+    },
+
     async postBuild({ outDir, baseUrl }) {
       for (const { from, to } of redirects) {
         const target = path.posix.join(baseUrl, to);

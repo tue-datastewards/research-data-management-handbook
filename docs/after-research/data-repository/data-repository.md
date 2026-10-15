@@ -62,7 +62,7 @@ No, if there is a good alternative in your scientific discipline, we advise you 
 Go to [4TU.ResearchData](https://data.4tu.nl/info/en/), select TU/e at Institutional account, log in with your TU/e credentials, fill out the upload form, and attach your data files to the form. You can find instructions [here](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository). You can also check the [demo video](https://www.youtube.com/watch?v=VmQr5oDXpoY) to learn how to use the 4TU.ResearchData repository software.
 
 **Are there any costs involved in uploading datasets in 4TUResearchData?**  
-For TU/e staff, the use of 4TU.ResearchData is free up to 100 GB per year per researcher. For example, if you are working on a project with three colleagues, each of you can upload 100 GB of data, in total 300 GB. If your data exceeds this limit, please contact rdmsupport@tue.nl.
+For TU/e staff, the use of 4TU.ResearchData is free up to 100 GB per year per researcher. For example, if you are working on a project with three colleagues, each of you can upload 100 GB of data, in total 300 GB. If your data exceeds this limit, please contact the Data Stewards at [rdmsupport@tue.nl](mailto:rdmsupport@tue.nl).
 
 **Is my dataset immediately online once I have uploaded it?**  
 No, your data set and accompanying description will first be reviewed. You will be informed whether or not your dataset is approved. This will take approximately three working days.

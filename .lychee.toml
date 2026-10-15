@@ -1,11 +1,9 @@
 # Configuration for the link checker used in CI.
 # Used by the scheduled link check in .github/workflows/check-links.yml.
+# Options reference: https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/lychee.example.toml
 
 # Show info-level output
 verbose = "info"
-
-# Output format
-format = "detailed"
 
 # Timeout in seconds for each request
 timeout = 30
@@ -25,6 +23,16 @@ exclude = [
     "\\.pdf$",
     # Exclude common false positive patterns
     "^http://localhost",
+    # Docusaurus generated category pages (no matching file on disk)
+    "docs/category/",
+    # Sites that block automated checks (401/403/502 false positives)
+    "^https://(www\\.)?datacite\\.org",
+    "^https://www\\.go-fair\\.org",
+    "^https://www\\.surf\\.nl",
+    "^https://servicedesk\\.surf\\.nl",
+    "^https?://oad\\.simmons\\.edu",
+    "^https://data\\.oecd\\.org",
+    "^https://data\\.overheid\\.nl",
 ]
 
 # Only check these file extensions
@@ -43,7 +51,7 @@ retry_wait_time = 2
 user_agent = "Mozilla/5.0 (compatible; lychee-link-checker)"
 
 # Accept these status codes as valid
-accept = ["200", "204", "429"]
+accept = ["200", "202", "204", "429"]
 
-# Request method - use GET as fallback when HEAD fails
-method = ["head", "get"]
+# Request method
+method = "get"

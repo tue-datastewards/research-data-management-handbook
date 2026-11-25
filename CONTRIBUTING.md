@@ -9,7 +9,10 @@ This guide walks you through the full workflow, from creating a GitHub account t
 ## Table of contents
 
 - [Ways to contribute](#ways-to-contribute)
+- [How changes are proposed](#how-changes-are-proposed)
 - [Create a GitHub account](#create-a-github-account)
+- [Report a bug or content error](#report-a-bug-or-content-error)
+- [Suggest an enhancement](#suggest-an-enhancement)
 - [Install and configure Git](#install-and-configure-git)
 - [Fork and clone the repository](#fork-and-clone-the-repository)
 - [Keep your fork up to date](#keep-your-fork-up-to-date)
@@ -19,8 +22,6 @@ This guide walks you through the full workflow, from creating a GitHub account t
 - [Commit your change](#commit-your-change)
 - [Open a pull request](#open-a-pull-request)
 - [Review and merge](#review-and-merge)
-- [Report a bug or content error](#report-a-bug-or-content-error)
-- [Suggest an enhancement](#suggest-an-enhancement)
 - [Recognition](#recognition)
 - [Where to get help](#where-to-get-help)
 - [License](#license)
@@ -37,6 +38,12 @@ You can contribute in many ways:
 
 No contribution is too small.
 
+## How changes are proposed
+
+Every change goes through two steps: an **issue** describing what you want to change and why, and a **pull request** that makes the change. Keeping them apart means the discussion about what should change stays readable, and GitHub keeps a record of who suggested, reviewed and approved each change.
+
+The issue comes first whenever the change is more than a typo or a broken link — it lets a maintainer confirm the approach before you spend time on it.
+
 ## Create a GitHub account
 
 All changes are made through GitHub. If you do not have an account yet:
@@ -46,6 +53,18 @@ All changes are made through GitHub. If you do not have an account yet:
 3. Verify your email address.
 
 You can use any email address. A personal account is fine; you do not need a TU/e-specific GitHub account to contribute.
+
+## Report a bug or content error
+
+Spotted a broken link, a typo, or outdated information? Please [open an issue](https://github.com/tue-datastewards/research-data-management-handbook/issues/new) and describe what is wrong. Provide the page URL and a short description of the problem.
+
+A useful issue says what is wrong, why it matters, and what you think should change. This structure helps:
+
+> Currently, [the current state]. But, [the problem]. So, [a possible solution].
+
+## Suggest an enhancement
+
+Have an idea for a new page, a new section, or a bigger improvement? Please [open an issue](https://github.com/tue-datastewards/research-data-management-handbook/issues/new) and describe what you would like to see and why it would help the TU/e research community. The same _Currently / But / So_ structure works here too.
 
 ## Install and configure Git
 
@@ -109,6 +128,13 @@ git checkout -b yourname/123-fix-broken-link
 ```
 
 If there is no issue for your change, you can leave out the number, for example `yourname/fix-typo-dmp-page`.
+
+If you prefer to stay in the browser, create the branch from the issue page instead: open the issue, scroll to the **Development** section in the right sidebar, click the gear icon, and choose **Create a branch**. GitHub creates the branch from `main` for you. To work on it locally afterwards:
+
+```bash
+git fetch origin
+git checkout yourname/123-fix-broken-link
+```
 
 ## Make a change
 
@@ -222,25 +248,28 @@ Try to keep each commit focused on one change. If you have several unrelated cha
 
 4. Give the pull request a clear title and a short description of what changed and why. Before/after screenshots are optional; include them when the change is visual.
 
-5. Submit the pull request.
+5. In the description, write `Fixes #123`, replacing `123` with the issue number. GitHub then links the pull request to the issue and closes it when the change is merged.
+
+6. Submit the pull request.
 
 A preview deployment is created for each pull request. Check it to see how your change looks on the website.
 
 ## Review and merge
 
-- A maintainer reviews your pull request. They may ask questions or request changes — that is normal.
-- To make changes, commit them to the same branch and push again. The pull request updates automatically.
-- Once the pull request is approved, a maintainer merges it. Your change is then deployed to the website.
+Whoever reviews a pull request — usually a maintainer or data steward — works through the same steps:
+
+1. Open the pull request from the email notification, or from the **Pull requests** tab.
+2. Read the description and the comments to see what the author intended.
+3. Click the preview deployment link in the checks box to see the change on the built site.
+4. Open the **Files changed** tab to read the diff.
+5. If the pull request is linked to an issue, open the issue and check that the change resolves it.
+6. Click **Submit review**, then choose **Approve** or **Request changes**.
+
+After the pull request is approved, click **Merge pull request** and then **Confirm merge**. The change is then deployed to the website.
+
+If you are the author, a reviewer may ask questions or request changes — that is normal. Commit to the same branch and push again; the pull request updates automatically.
 
 Please keep the discussion friendly and constructive. Everyone participating in this project is expected to follow the [TU/e Code of Conduct](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety/tue-code-of-conduct-and-regulations).
-
-## Report a bug or content error
-
-Spotted a broken link, a typo, or outdated information? Please [open an issue](https://github.com/tue-datastewards/research-data-management-handbook/issues/new) and describe what is wrong. Provide the page URL and a short description of the problem.
-
-## Suggest an enhancement
-
-Have an idea for a new page, a new section, or a bigger improvement? Please [open an issue](https://github.com/tue-datastewards/research-data-management-handbook/issues/new) and describe what you would like to see and why it would help the TU/e research community.
 
 ## Recognition
 

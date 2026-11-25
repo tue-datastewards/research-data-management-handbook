@@ -20,7 +20,7 @@ Although not all [**FAIR**](/docs/intro/FAIR/) principles are directly applica
 - Develop your software using standardized formats, protocols, and data structures to enhance its compatibility with other tools and systems. [**Here**](https://dans.knaw.nl/en/file-formats/) you can find a list of preferred formats that the Data Archiving and Networked Services (DANS) recommends.
 - Software and its associated metadata should have **independent, clear and accessible usage licenses** compatible with the software dependencies.
 
-For an overview of license types and their obligations, see [**Software licenses at a glance**](/docs/after-research/licensing/licensing.md#software-licenses-at-a-glance).
+For an overview of license types and their obligations, see [**Software licenses at a glance**](/docs/after-research/licensing/#software-licenses-at-a-glance).
 
 More information can be found [**here**](https://fair-software.eu/).
 

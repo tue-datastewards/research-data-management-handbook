@@ -2,6 +2,9 @@
 sidebar_position: 4
 ---
 
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+
 # Data & Software Licensing
 
 ## Data Licensing
@@ -62,6 +65,44 @@ To select a license, you can use the [Choose A License website](https://chooseal
 
 1. Describe the license in the README file.
 2. Add a LICENSE file at the root of your repository.
+
+Download the license text: [MIT](https://spdx.org/licenses/MIT.txt) for software, or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt) for data and documentation.
+
+## Copy-pastable README text
+
+Choose the statement that matches your project and paste it into your README.
+
+<Tabs>
+<TabItem value="mit" label="MIT only" default>
+
+```markdown
+## License
+
+The code in this repository is licensed under the [MIT License](https://opensource.org/license/mit).
+```
+
+</TabItem>
+<TabItem value="cc-by" label="CC BY 4.0 only">
+
+```markdown
+## License
+
+The data and other non-code materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+```
+
+</TabItem>
+<TabItem value="mit-cc-by" label="MIT + CC BY 4.0">
+
+```markdown
+## License
+
+The code in this repository is licensed under the [MIT License](https://opensource.org/license/mit).
+
+Other non-code data and materials are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+```
+
+</TabItem>
+</Tabs>
 
 ## FAQ
 

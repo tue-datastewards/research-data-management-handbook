@@ -29,6 +29,12 @@ npm start
 
 This will open the browser to http://localhost:3000/
 
+## Contributing
+
+We welcome contributions from researchers, students and anyone interested in research data management. You can report a broken link, fix a typo, or add a new page.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow: creating a GitHub account, forking and cloning the repository, making changes, previewing them locally, and opening a pull request.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

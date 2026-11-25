@@ -19,6 +19,7 @@ This guide walks you through the full workflow, from creating a GitHub account t
 - [Create a branch](#create-a-branch)
 - [Make a change](#make-a-change)
 - [Preview your change locally](#preview-your-change-locally)
+- [Markdown conventions](#markdown-conventions)
 - [Commit your change](#commit-your-change)
 - [Open a pull request](#open-a-pull-request)
 - [Review and merge](#review-and-merge)

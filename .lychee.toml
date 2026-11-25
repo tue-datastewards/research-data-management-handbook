@@ -33,6 +33,8 @@ exclude = [
     "^https?://oad\\.simmons\\.edu",
     "^https://data\\.oecd\\.org",
     "^https://data\\.overheid\\.nl",
+    # ISO serves Cloudflare's bot challenge (403) to automated requests
+    "^https://www\\.iso\\.org",
 ]
 
 # Only check these file extensions

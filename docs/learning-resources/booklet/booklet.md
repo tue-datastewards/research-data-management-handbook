@@ -31,7 +31,7 @@ Throughout the booklet, several resources are mentioned. Here you find a curated
 ### Research infrastructure
 
 - Platform for managing research project related processes and IT resources / [Research Cockpit](https://cockpit.research.tue.nl/servicedesk/customer/portals)
-- Storage and other solutions catalog / [PAR Solution Searcher](https://storagefinder.tue.nl)
+- Storage and other solutions catalog / [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html)
 - Archive / [RAPS](https://cockpit.research.tue.nl/servicedesk/customer/portal/7/article/2723872789)
 - Data safe haven / [myDRE](https://cockpit.research.tue.nl/servicedesk/customer/portal/16)
 - Client-side encryption tool/ [Cryptomator Hub](https://cockpit.research.tue.nl/servicedesk/customer/portal/11)

@@ -29,7 +29,7 @@ Remember that while finding existing research data is valuable, it's crucial to 
 If you want to make sure that the data acquired from a data archive or a repository adheres to quality standards, you may check:
 
 - The repository’s policy and guidelines
-- Any certification it holds, such as the [**CoreTrustSeal**](https://www.coretrustseal.org/) and [**ISO**](http://www.iso.org/iso/home.html)**/**[**DIN**](http://www.din.de/en/about-standards/din-standards) standards
+- Any certification it holds, such as the [**CoreTrustSeal**](https://www.coretrustseal.org/) and [**ISO**](https://www.iso.org/iso/home.html)**/**[**DIN**](http://www.din.de/en/about-standards/din-standards) standards
 - The use of persistent identifiers such as DOI’s, which ensure the findability of the data
 
 ## Obtaining data from external organizations

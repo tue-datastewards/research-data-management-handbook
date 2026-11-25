@@ -39,11 +39,17 @@ Creative Commons licenses and Open Database licenses are suitable for data but n
 
 First of all, when selecting a software license, it is important to determine who owns the research software you wrote. If you wrote the software as a part of your employment at TU/e, it is important to [consult with Innovation Lab](https://brainporteindhoven.com/the-gate/en/) to discuss any issues of ownership and intellectual property protection (particularly if patenting of the software is under consideration).
 
-If your software has dependencies or incorporates other people’s work, make sure that your software’s license is **compatible** with the licenses of the software it depends on. For example, you cannot use MIT on top of GPL. You should also decide whether you require others who modify your software to release it under a compatible license.
+If your software has dependencies or incorporates other people’s work, make sure that your software’s license is **compatible** with the licenses of the software it depends on. You should also decide whether you require others who modify your software to release it under a compatible license.
+
+### Our recommendation
+
+We recommend the **[MIT License](https://opensource.org/license/mit/)** as the default for research software. It is short, widely understood and lets others reuse your code, including in proprietary projects.
+
+Before you apply MIT, check the licenses of your dependencies. If your software incorporates or builds on GPL- or AGPL-licensed code, the combined work must be distributed under a GPL-compatible copyleft license, so you **cannot** simply license it under MIT. In that case, use a copyleft license such as the [**GNU General Public License (GPL)**](https://www.gnu.org/licenses/gpl-3.0.en.html). If you need an explicit patent grant, [**Apache-2.0**](https://www.apache.org/licenses/LICENSE-2.0) is a permissive alternative.
 
 Some recommended licenses are:
 
-- [**MIT License**](https://opensource.org/license/mit/) - a permissive license that allows users to do almost anything with the software, including using it in proprietary projects, as long as the original license is included in the distribution.
+- [**MIT License**](https://opensource.org/license/mit/) - our recommended default. A permissive license that allows users to do almost anything with the software, including using it in proprietary projects, as long as the original license is included in the distribution.
 - [**Apache license**](https://www.apache.org/licenses/LICENSE-2.0) - similar to the MIT License, but it includes a patent grant, offering some protection against patent litigation.
 - [**GNU General Public License (GPL)**](https://www.gnu.org/licenses/gpl-3.0.en.html) - allows the user to do whatever they want with the software, including modify and sell it, provided that they also give that right to others and mention the author(s) of the software.
 
@@ -55,7 +61,7 @@ To select a license, you can use [**this tool**](https://choosealicense.com/), 
 No, CC licenses are not suited for software licensing.
 
 **Which license should I use for my research software code?**  
-Consider a GPL-compatible license or a BSD-like/MIT license. You can find more information in the [Research Software](../../during-research/research-software/research-software.md) section.
+We recommend **MIT** by default, after checking that your dependencies allow it. If your code incorporates GPL- or AGPL-licensed components, use a GPL-compatible copyleft license instead. If you need a patent grant, consider **Apache-2.0**. You can find more information in the [Research Software](../../during-research/research-software/research-software.md) section.
 
 **I wrote a piece of software code for my research. Am I the owner of this code?**  
 TU/e is working on guidelines on this. If you have any questions regarding the IP-rights you can contact [The Gate](https://www.tue.nl/en/impact/the-gate).

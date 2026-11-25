@@ -2,3 +2,8 @@ data-stewards:
   label: data stewards
   permalink: /data-stewards
   description: Topics related to data stewards
+
+newsletter:
+  label: newsletter
+  permalink: /newsletter
+  description: Research Data Stewards newsletters

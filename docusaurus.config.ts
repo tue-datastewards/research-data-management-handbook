@@ -86,6 +86,7 @@ const config: Config = {
           label: "Handbook",
         },
         { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog/tags/newsletter", label: "Newsletter", position: "left" },
         {
           href: "https://cockpit.research.tue.nl",
           label: "Research Cockpit \u{1F512}",

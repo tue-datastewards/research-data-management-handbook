@@ -8,6 +8,17 @@ sidebar_position: 4
 
 Data licensing plays a pivotal role in fostering data sharing, transparency, and responsible use within the research community and beyond. Licenses stipulate whether data can be freely used, modified, redistributed, and under what conditions. Choosing the right license is crucial: open licenses promote collaboration and reuse, while more restrictive licenses may protect sensitive or proprietary information.
 
+### Our recommendation
+
+If you are unsure which license to choose, we recommend:
+
+1. **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** for data and documentation. It allows others to use, share and adapt your work as long as they credit you.
+2. **[MIT](https://opensource.org/license/mit/)** for software and code. See [Software Licensing](#software-licensing) below.
+
+:::note
+The repository where you deposit your data, or the funder supporting your research, may require or restrict certain licenses. Check their requirements before you publish, and contact your [Data Steward](/docs/contact) if you need help choosing.
+:::
+
 ### Creative Commons licenses
 
 The [**Creative Commons licenses**](https://creativecommons.org/licenses/) provide the opportunity to assign rights in re-using data, which are legal, human-readable and machine-readable. There are seven standard Creative Commons licenses where, in terms of data, CC0 and CC-BY are the most used licenses.
@@ -23,7 +34,7 @@ Another option for licensing your data is using [**Open Database licenses**](ht
 ### FAQ
 
 **Which creative commons license should I use for my dataset?**  
-You should select a license that allows access to your data by as many people as possible, with the fewest restrictions. If you need help choosing a license, please [contact us](/docs/contact.md).
+We recommend **CC BY 4.0** for data and documentation. It allows access to your data by as many people as possible, with the fewest restrictions, while ensuring that you are credited. Use **CC0** if you want to waive attribution as well. If you need help choosing a license, please [contact us](/docs/contact.md).
 
 ## Software Licensing
 

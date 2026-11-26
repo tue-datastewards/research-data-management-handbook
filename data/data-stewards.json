@@ -18,7 +18,7 @@
   {
     "name": "Jayakrishnan H R Nair",
     "email": "h.r.nair@tue.nl",
-    "imageUrl": "https://research.tue.nl/files-asset/344608150/JSP00635a.JPG",
+    "imageUrl": "/img/data-stewards/jayakrishnan-h-r-nair.png",
     "orcid": "",
     "role": "Data Steward",
     "departments": ["Industrial Engineering & Innovation Sciences"]
@@ -26,7 +26,7 @@
   {
     "name": "Davide Nardi",
     "email": "d.nardi@tue.nl",
-    "imageUrl": "https://research.tue.nl/files-asset/342351810/Screenshot_2024-10-18_105511.jpeg",
+    "imageUrl": "/img/data-stewards/davide-nardi.png",
     "orcid": "0009-0008-8263-8038",
     "role": "Data Steward",
     "departments": ["Mathematics and Computer Science"]
@@ -34,7 +34,7 @@
   {
     "name": "Neda Norouzi",
     "email": "n.norouzi1@tue.nl",
-    "imageUrl": "https://research.tue.nl/files-asset/342287539/Profile_Photo-bme.jpg",
+    "imageUrl": "/img/data-stewards/neda-norouzi.png",
     "orcid": "0000-0001-7179-888X",
     "role": "Data Steward",
     "departments": ["Biomedical Engineering"]
@@ -50,9 +50,17 @@
   {
     "name": "Nami Sunami",
     "email": "n.sunami@tue.nl",
-    "imageUrl": "https://research.tue.nl/files-asset/317655342/Nami_Sunami_-_Profile_Picture_2024.jpg",
+    "imageUrl": "/img/data-stewards/nami-sunami.png",
     "orcid": "0000-0001-5482-8370",
     "role": "Data Steward",
     "departments": ["Applied Physics and Science Education", "Chemical Engineering & Chemistry"]
+  },
+  {
+    "name": "Luca Visentin",
+    "email": "l.visentin@tue.nl",
+    "imageUrl": "/img/data-stewards/luca-visentin.jpg",
+    "orcid": "0000-0003-2568-5694",
+    "role": "Data Steward",
+    "departments": ["Electrical Engineering"]
   }
 ]

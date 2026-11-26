@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
 import stewardsData from "@site/data/data-stewards.json";
@@ -48,11 +49,13 @@ function DataStewardCard({
   role,
   departments,
 }: DataSteward): ReactNode {
+  const imageSrc = useBaseUrl(imageUrl);
+
   return (
     <div className={styles.card}>
       <div className={styles.cardImageWrapper}>
         {imageUrl ? (
-          <img src={imageUrl} alt={`${name}'s profile picture`} className={styles.cardImage} />
+          <img src={imageSrc} alt={`${name}'s profile picture`} className={styles.cardImage} />
         ) : (
           <FallbackAvatar name={name} />
         )}

@@ -16,6 +16,22 @@ To get an overview of storage solutions offered and supported by TU/e, visit [PA
 
 Storing data on personal computers or mobile hard disks or USBs is discouraged due to irregular back-ups and the high potential for loss of the data. Storing data in cloud services outside the EU (Google Drive, Dropbox, iCloud or private (i.e., without TU/e credentials) OneDrive) should also be avoided because of possible non-compliance with the GDPR. Never store sensitive data on portable USB devices. Tailored advice on data storing and sharing can be provided, and storage solutions arranged, by the [Data Stewards](/docs/contact.md).
 
+### Guidelines for selecting storage
+
+For the active research phase, select your storage solution according to your role, collaboration and continous sharing with external parties, and confidentality level of the research data, defined according to [Research Data Classification Guidelines](https://cockpit.research.tue.nl/helpcenter/research/portal/15/article/2682781697?).
+
+:::tip
+These guidelines applies only to research data. For non-research data such as administrative or education data, contact the respective [Data Domain Coordinators](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Data-domain-coordinators.aspx).
+:::
+
+| Use-case                                     | Confidentiality low or medium                                                          | Confidentiality high                                         |
+| -------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Student working on their final project**   | [OneDrive](#ms-onedrive)                                                               | OneDrive + encryption[^1]                                    |
+| **Staff sharing data internally only**       | [TU/e Network Drive](#tue-network-drive) or MS [Teams/SharePoint](#ms-teamssharepoint) | [TU/e Network Drive](#tue-network-drive)                     |
+| **Staff sharing data with external parties** | [SURF Research Drive](#surf-research-drive) or [Teams/SharePoint](#ms-teamssharepoint) | [SURF Research Drive](#surf-research-drive) + encryption[^1] |
+
+[^1]: For encryption and management of the keys, please use [Cryptomator Hub](https://cockpit.research.tue.nl/helpcenter/research/portal/11)
+
 ## Data sharing 
 
 During your research, you may want to share your data with other researchers or organizations. When choosing data storage, consider whether you would like to share your data internally (within TU/e) or externally (outside of TU/e). In [PAR Solution Searcher](https://openpar.pages.tue.nl/solution-searcher/category-storage.html), you can see which storage solutions support your sharing preference.
@@ -59,22 +75,6 @@ MS Teams/SharePoint is an alternative solution for **external collaboration stor
 A cloud storage service for data storage and sharing, hosted by Microsoft. Datasets are stored on servers in Europe. Each TU/e member has access to a personal storage of 1TB space, accessed via TU/e account. Data can be easily shared with other researchers with a Microsoft account, both within and outside TU/e (for collaboration on a project, check Research Drive or Sharepoint options below). Data can also be shared with guest users or external parties via a “share link” functionality.
 
 MS OneDrive is your **own personal TU/e storage**. Upon leaving the university, your personal OneDrive account and all its content will be deleted. If you have project data that others (within your research group/colleagues) may need or your results will be included in a publication, make sure to transfer them into a shared storage, such as Network drive, before your departure from TU/e.
-
-### Guidelines for selecting storage
-
-For the active research phase, select your storage solution according to your role, collaboration and continous sharing with external parties, and confidentality level of the research data, defined according to [Research Data Classification Guidelines](https://cockpit.research.tue.nl/helpcenter/research/portal/15/article/2682781697?).
-
-:::tip
-These guidelines applies only to research data. For non-research data such as administrative or education data, contact the respective [Data Domain Coordinators](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Data-domain-coordinators.aspx).
-:::
-
-| Use-case                                     | Confidentiality low or medium              | Confidentiality high                 |
-| -------------------------------------------- | ------------------------------------------ | ------------------------------------ |
-| **Student working on their final project**   | OneDrive                                   | OneDrive + encryption[^1]            |
-| **Staff sharing data internally only**       | TU/e Network Drive or MS Teams/SharePoint  | TU/e Network Drive                   |
-| **Staff sharing data with external parties** | SURF Research Drive or MS Teams/SharePoint | SURF Research Drive + encryption[^1] |
-
-[^1]: For encryption and management of the keys, please use [Cryptomator Hub](https://cockpit.research.tue.nl/helpcenter/research/portal/11)
 
 ## Security tips & tricks
 

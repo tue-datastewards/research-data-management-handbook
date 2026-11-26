@@ -9,3 +9,10 @@ nsunami:
     github: nsunami
     mastodon: nsunami@akademienl.social
     linkedin: nsunami
+
+data-stewards:
+  name: TU/e Data Stewards
+  title: Research Data Management team
+  url: https://rdm.tue.nl/docs/contact
+  image_url: https://github.com/tue-datastewards.png
+  page: true

@@ -6,11 +6,11 @@ sidebar_position: 5
 
 External trainings and other resources that can deepen your knowledge in Research Data Management:
 
-## Guidance for TU/e Supervisors hosting external/visiting researchers
+## Guidance for TU/e supervisors hosting external researchers
 
 [Document](https://zenodo.org/records/21916207) providing RDM-related guidelines for TU/e supervisors who wish to host external/ visiting researchers.
 
-## Guidance for TU/e Supervisors on Reviewing DMPs
+## Guidance for TU/e supervisors on reviewing DMPs
 
 [Document](https://zenodo.org/records/20826054) providing guidelines for PhD supervisors on how to review their candidates' data management plans (DMP) during their 9th-month evaluation and other period of their PhD trajectory.
 

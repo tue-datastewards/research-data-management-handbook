@@ -20,7 +20,7 @@ Retention period refers to the time or date, starting from the completion of the
 | Data from student projects                                                                                                                                              | To be discussed with supervisor. In principle, data can be deleted after project completion. For student thesis and reports, check the page on [TU/e retention periods for education](https://tuenl.sharepoint.com/sites/intranet-LIS/SitePages/Test-Retention-periods.aspx#education).                                                                                                                                                                                                                                       |
 
 :::tip[Reconciling GDPR and research data retention requirements]
-When personal data underpins a publication, the research-integrity retention obligation can extend retention beyond what data minimisation would allow on its own. This retention period should be informed to participants via the informed consent form.
+When personal data underpins a publication, the research-integrity retention obligation can extend retention beyond what data minimisation would allow on its own. This retention period should be informed to participants via the [informed consent form](/docs/privacy/consent-forms/).
 
 If there is any uncertainty about the appropriate retention period, please consult a Data Steward, particularly when special-category personal data is involved.
 :::

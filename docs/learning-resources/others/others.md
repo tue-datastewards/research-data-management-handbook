@@ -8,7 +8,7 @@ External trainings and other resources that can deepen your knowledge in Researc
 
 ## Guidance for TU/e Supervisors hosting external/visiting researchers
 
-[Document](hhttps://zenodo.org/records/21916207) providing RDM-related guidelines for TU/e supervisors who wish to host external/ visiting researchers.
+[Document](https://zenodo.org/records/21916207) providing RDM-related guidelines for TU/e supervisors who wish to host external/ visiting researchers.
 
 ## Guidance for TU/e Supervisors on Reviewing DMPs
 

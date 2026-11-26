@@ -43,7 +43,7 @@ To support the long-term sustainability of research, facilitate data reuse, and 
 - **Protocols** which were used during the study, for instance about the performed experiments.
 - **Lab journals.**
 - **A reference to any publication** which is based on the data.
-- **[License information](../licensing/licensing.md)** which specifies the terms under which the data can be used, modified and distributed.
+- **[License information](../licensing/)** which specifies the terms under which the data can be used, modified and distributed.
 - **Data or variable level metadata**, for example the parameters used in your study.
 
 Regardless of its purpose, a common requirement of any data package is that another researcher should be able to understand and, where feasible, independently replicate the study using only the information it contains. The documentation should therefore be concise while remaining as complete as possible.
